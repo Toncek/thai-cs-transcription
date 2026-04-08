@@ -111,7 +111,7 @@ def transcribe(thai_word, rules):
     vowels = rules.get("vowels", {})
     compound_vowels = rules.get("compound_vowels", {})
     
-    logger.info(f"Uncertain pattern applied for: {thai_word}")
+    logger.info(f"Uncertain pattern applied for: {thai_word.replace('\n', '').replace('\r', '')}")
     
     words = thai_word.split()
     res = []

@@ -47,6 +47,8 @@ SILENT_MARK = "์"
 
 CONSONANTS = set([chr(i) for i in range(ord('ก'), ord('ฮ') + 1)])
 
+ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúúůřěščžABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,")
+
 def parse_syllables(word):
     syllables = []
     i = 0
@@ -136,7 +138,7 @@ def transcribe(thai_word, rules):
                 for c in clean_syl:
                     if c in vowels:
                         out_word += vowels[c]
-                    elif c in "abcdefghijklmnopqrstuvwxyzáéíóúúůřěščžABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,":
+                    elif c in ALLOWED_CHARS:
                         out_word += c
                     else:
                         out_word += "?"
@@ -167,14 +169,15 @@ def transcribe(thai_word, rules):
                         v_str = v_str.replace(v_match, v_rep)
 
                 v_snd = ""
+                cv_reps = set(compound_vowels.values())
                 for c in v_str:
                     if c in vowels:
                         v_snd += vowels[c]
                     elif c in initials:
                         v_snd += initials[c]
-                    elif c in sorted([rep for _, rep in compound_vowels.items()]):
+                    elif c in cv_reps:
                         pass
-                    elif c in "abcdefghijklmnopqrstuvwxyzáéíóúúůřěščžABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,":
+                    elif c in ALLOWED_CHARS:
                         v_snd += c
                     else:
                         v_snd += "?"

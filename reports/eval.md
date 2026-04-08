@@ -24,3 +24,6 @@ The following rule logic updates were implemented to correct common phonetical t
 - **Mai taikhu (็)**: Properly handles the vowel-shortening function so `็` is silently stripped out rather than output as an unmappable character (`?`).
 - **Compound vowels เ-า / เอา**: Normalized into single `ao` output rather than generating disjointed combinations.
 - **Silent initial อ**: Prevents emitting an `ó` placeholder if followed by a real vowel mapping.
+
+### Regression Update
+Following analysis of the 100-word core list, 14 major structural phonology errors (involving leading ห, implicit a, placeholder อ, compound เ-า/เ-ิ) were fixed directly within the rule engine `src/transcriber.py`. The updated system accurately renders these patterns directly from script properties rather than lookup table pollution, vastly improving core parsing stability.

@@ -39,3 +39,20 @@ This report analyzes the performance of the current Czech-oriented phonetic tran
 2. **Improve `ห` leading consonant rules:** Implement logic to recognize when `ห` is a silent tone marker (e.g., before `ง`, `ญ`, `น`, `ม`, `ย`, `ร`, `ล`, `ว`) and when it is an initial consonant.
 3. **Refine compound vowels:** Fix the mapping for `เ-า` (which is generating `éá` or `éóá`). It should map directly to `ao`.
 4. **Fix Initial `อ`:** Ensure that when `อ` is an initial consonant, it acts as a silent placeholder for the vowel (e.g., `อะไร` -> `araj`, not `óaraj`). Also fix the `อย่า`, `อยู่`, `อย่าง`, `อยาก` exceptions where `อ` is silent before `ย`.
+
+### Regression fixes
+
+- `เล็ก` before: `lé?k` after: `lék` (Removed lookup cache pollution for '็' and validated internal engine strips cleanly)
+- `เป็น` before: `pé?n` after: `pén` (Fixed alongside 'เล็ก')
+- `เห็น` before: `néh?` after: `hén` (Corrected index assumptions about cluster consonants and 'ห' handler)
+- `หิว` before: `vhi` after: `hiu` (Improved parsing of multi-consonant final tracking)
+- `ใหญ่` before: `jajh` after: `jaj` (Ensured tonal carrier 'ห' completely suppressed correctly)
+- `ใหม่` before: `majh` after: `maj` (Ensured tonal carrier 'ห' completely suppressed correctly)
+- `อะไร` before: `óaraj` after: `araj` (Fixed silent initial 'อ' leaving orphaned 'ó' placeholder)
+- `เก่า` before: `kéá` after: `kao` (Fixed multi-character compound vowel parsing inside the replacement loop)
+- `เอา` before: `éóá` after: `ao` (Handled 'เ-า' alongside explicitly mapped 'เอา' compound)
+- `เงิน` before: `ngéin` after: `ngön` (Mapped 'เ-ิ' into 'ö' mapping to correctly render naturally in Czech phonology)
+- `อร่อย` before: `rój` after: `arój` (Fixed unwritten implicit 'a' missing when 'อ' begins consonant clusters without explicit vowel mapping)
+- `อย่างไร` before: `jóángraj` after: `jángraj` (Fixed exception 'อย' cluster failing on long strings)
+- `อ่าน` before: `nóá` after: `án` (Fixed 'อ' dropping its placeholder logic wrongly mapping to 'n' finals)
+- `ที่นั่น` before: `thý nan` after: `thínan` (Fixed internal lookup caching forcing space and triggering normalization bugs)

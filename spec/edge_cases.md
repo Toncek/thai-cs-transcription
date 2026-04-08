@@ -29,5 +29,5 @@ The majority of the training set consists of words appearing 1 or 2 times. They 
 ## Structural and Pattern Clarifications
 - **Mai taikhu (็)**: Treated as a vowel-shortening marker; discarded explicitly during parsing to avoid generating invalid output markers.
 - **Leading ห suppression**: Orthographic tone modifier removed directly during parsing if followed by `ง`, `ญ`, `น`, `ม`, `ย`, `ร`, `ล`, or `ว`.
-- **Silent initial อ**: Avoids emitting `ó` if followed by a vowel, matching phonetic pronunciation instead of orthographic rendering.
+- **Silent initial อ vs. Implicit 'a'**: Avoids emitting `ó` if followed by a vowel, matching phonetic pronunciation instead of orthographic rendering. If `อ` acts as a prefix before another initial consonant without explicit vowels (e.g. `อร่อย`), it is resolved to the implicit vowel `a` (e.g. `arój`) while single carrier usage (e.g. `อ่าน`) drops it (`án`).
 - **Compound เ-า vs. เอา**: Both now correctly parse directly as `ao` due to syllable-level normalization.

@@ -1,3 +1,4 @@
 # Unknown Characters
 
 - `A`
+- `็`

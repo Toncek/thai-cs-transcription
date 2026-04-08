@@ -31,6 +31,16 @@ The agent must create and maintain:
 - Short vowels: a, e, i, o, u
 - Long vowels: aa, ee, ii, oo, uu (or with diacritics)
 
+## Mai taikhu (็) handling
+The character ็ is a vowel shortening marker. It does NOT shorten the vowel in output but signals:
+- Short vowel where the vowel would otherwise be long
+- Replace any "?" output for ็ with the short vowel form
+- Examples:
+  - เล็ก -> lek (not lé?k)
+  - เป็น -> pen (not pé?n)
+  - เห็น -> hen (not néh?)
+- Never emit literal "?" for ็ in final output.
+
 ## Method the agent must follow
 1. Analyze all pairs in `data/train.json`
 2. Infer mappings for:
@@ -39,6 +49,7 @@ The agent must create and maintain:
    - Final consonants
    - Silent characters
    - Special clusters and loanwords
+   - Mai taikhu ็ handling (short vowel marker, no question marks in output)
 3. Write all rules into `spec/transcription_rules.md`
 4. Encode rules into `spec/rules.json`
 5. Implement `src/transcriber.py` as a deterministic rule engine

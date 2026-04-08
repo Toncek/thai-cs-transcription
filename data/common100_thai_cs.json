@@ -1,0 +1,702 @@
+[
+  {
+    "thai": "ฉัน",
+    "meaning_en": "I (female/general)",
+    "phonetic_cs": "čan",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ผม",
+    "meaning_en": "I (male)",
+    "phonetic_cs": "phom",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "คุณ",
+    "meaning_en": "you",
+    "phonetic_cs": "khun",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เขา",
+    "meaning_en": "he / she / they",
+    "phonetic_cs": "khao",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เรา",
+    "meaning_en": "we / us",
+    "phonetic_cs": "rao",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "มัน",
+    "meaning_en": "it",
+    "phonetic_cs": "man",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "นี่",
+    "meaning_en": "this",
+    "phonetic_cs": "ní",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "นั่น",
+    "meaning_en": "that",
+    "phonetic_cs": "nan",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ที่นี่",
+    "meaning_en": "here",
+    "phonetic_cs": "thíní",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ที่นั่น",
+    "meaning_en": "there",
+    "phonetic_cs": "thý nan",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ใคร",
+    "meaning_en": "who",
+    "phonetic_cs": "khraj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "อะไร",
+    "meaning_en": "what",
+    "phonetic_cs": "óaraj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ที่ไหน",
+    "meaning_en": "where",
+    "phonetic_cs": "thínajh",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เมื่อไหร่",
+    "meaning_en": "when",
+    "phonetic_cs": "múarajh",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ทำไม",
+    "meaning_en": "why",
+    "phonetic_cs": "thaammaj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "อย่างไร",
+    "meaning_en": "how",
+    "phonetic_cs": "jóángraj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ใช่",
+    "meaning_en": "yes / correct",
+    "phonetic_cs": "čaj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ไม่",
+    "meaning_en": "no / not",
+    "phonetic_cs": "maj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "มาก",
+    "meaning_en": "very / much",
+    "phonetic_cs": "mák",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ดี",
+    "meaning_en": "good",
+    "phonetic_cs": "dý",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ใหญ่",
+    "meaning_en": "big",
+    "phonetic_cs": "jajh",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เล็ก",
+    "meaning_en": "small",
+    "phonetic_cs": "lé?k",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ใหม่",
+    "meaning_en": "new",
+    "phonetic_cs": "majh",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เก่า",
+    "meaning_en": "old (objects)",
+    "phonetic_cs": "kéá",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ร้อน",
+    "meaning_en": "hot",
+    "phonetic_cs": "rón",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "หนาว",
+    "meaning_en": "cold (weather)",
+    "phonetic_cs": "náu",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "สวย",
+    "meaning_en": "beautiful",
+    "phonetic_cs": "suaj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "อร่อย",
+    "meaning_en": "delicious",
+    "phonetic_cs": "rój",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "หิว",
+    "meaning_en": "hungry",
+    "phonetic_cs": "vhi",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เหนื่อย",
+    "meaning_en": "tired",
+    "phonetic_cs": "néhúój",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ไป",
+    "meaning_en": "to go",
+    "phonetic_cs": "paj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "มา",
+    "meaning_en": "to come",
+    "phonetic_cs": "má",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "กิน",
+    "meaning_en": "to eat",
+    "phonetic_cs": "kin",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ดื่ม",
+    "meaning_en": "to drink",
+    "phonetic_cs": "dúm",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ทำ",
+    "meaning_en": "to do / to make",
+    "phonetic_cs": "thaam",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "มี",
+    "meaning_en": "to have / there is",
+    "phonetic_cs": "mí",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เป็น",
+    "meaning_en": "to be (is/am/are)",
+    "phonetic_cs": "pé?n",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "อยู่",
+    "meaning_en": "to be at / to live",
+    "phonetic_cs": "jóú",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ดู",
+    "meaning_en": "to look / to watch",
+    "phonetic_cs": "dú",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เห็น",
+    "meaning_en": "to see",
+    "phonetic_cs": "néh?",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ฟัง",
+    "meaning_en": "to listen",
+    "phonetic_cs": "fang",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "พูด",
+    "meaning_en": "to speak",
+    "phonetic_cs": "phút",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "อ่าน",
+    "meaning_en": "to read",
+    "phonetic_cs": "nóá",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เขียน",
+    "meaning_en": "to write",
+    "phonetic_cs": "khýjan",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "รู้",
+    "meaning_en": "to know",
+    "phonetic_cs": "rú",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เข้าใจ",
+    "meaning_en": "to understand",
+    "phonetic_cs": "khéádžaj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "คิด",
+    "meaning_en": "to think",
+    "phonetic_cs": "khyd",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เรียน",
+    "meaning_en": "to study / learn",
+    "phonetic_cs": "rýjan",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ทำงาน",
+    "meaning_en": "to work",
+    "phonetic_cs": "thaamngán",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ซื้อ",
+    "meaning_en": "to buy",
+    "phonetic_cs": "sú",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ขาย",
+    "meaning_en": "to sell",
+    "phonetic_cs": "kháj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ให้",
+    "meaning_en": "to give",
+    "phonetic_cs": "haj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เอา",
+    "meaning_en": "to take / to want",
+    "phonetic_cs": "éóá",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ชอบ",
+    "meaning_en": "to like",
+    "phonetic_cs": "čóp",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "รัก",
+    "meaning_en": "to love",
+    "phonetic_cs": "rak",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ต้องการ",
+    "meaning_en": "to need / to want",
+    "phonetic_cs": "tóngkán",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ได้",
+    "meaning_en": "can / able to",
+    "phonetic_cs": "daj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "คน",
+    "meaning_en": "person",
+    "phonetic_cs": "khon",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เพื่อน",
+    "meaning_en": "friend",
+    "phonetic_cs": "phúan",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ครอบครัว",
+    "meaning_en": "family",
+    "phonetic_cs": "khrób khrúa",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "บ้าน",
+    "meaning_en": "house / home",
+    "phonetic_cs": "bán",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "โรงเรียน",
+    "meaning_en": "school",
+    "phonetic_cs": "róng rýjan",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ถนน",
+    "meaning_en": "road",
+    "phonetic_cs": "thanon",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "รถ",
+    "meaning_en": "car",
+    "phonetic_cs": "rot",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "น้ำ",
+    "meaning_en": "water",
+    "phonetic_cs": "naam",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ข้าว",
+    "meaning_en": "rice / food",
+    "phonetic_cs": "kháu",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เงิน",
+    "meaning_en": "money",
+    "phonetic_cs": "ngéin",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เวลา",
+    "meaning_en": "time",
+    "phonetic_cs": "velá",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "วัน",
+    "meaning_en": "day",
+    "phonetic_cs": "van",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เดือน",
+    "meaning_en": "month",
+    "phonetic_cs": "dúan",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ปี",
+    "meaning_en": "year",
+    "phonetic_cs": "pí",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "วันนี้",
+    "meaning_en": "today",
+    "phonetic_cs": "van ný",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "พรุ่งนี้",
+    "meaning_en": "tomorrow",
+    "phonetic_cs": "phrungní",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เมื่อวาน",
+    "meaning_en": "yesterday",
+    "phonetic_cs": "múaván",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ตอนนี้",
+    "meaning_en": "now",
+    "phonetic_cs": "tón ný",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เช้า",
+    "meaning_en": "morning",
+    "phonetic_cs": "čéá",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "เย็น",
+    "meaning_en": "evening",
+    "phonetic_cs": "jen",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "คืนนี้",
+    "meaning_en": "tonight",
+    "phonetic_cs": "khúnní",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "สวัสดี",
+    "meaning_en": "hello / goodbye",
+    "phonetic_cs": "suasdí",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ขอบคุณ",
+    "meaning_en": "thank you",
+    "phonetic_cs": "khópkhun",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ขอโทษ",
+    "meaning_en": "sorry / excuse me",
+    "phonetic_cs": "khóthót",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ลาก่อน",
+    "meaning_en": "goodbye",
+    "phonetic_cs": "lákón",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ไม่เป็นไร",
+    "meaning_en": "it's alright / never mind",
+    "phonetic_cs": "majpé?nraj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "และ",
+    "meaning_en": "and",
+    "phonetic_cs": "le",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "แต่",
+    "meaning_en": "but",
+    "phonetic_cs": "té",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "หรือ",
+    "meaning_en": "or",
+    "phonetic_cs": "rú",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "เพราะ",
+    "meaning_en": "because",
+    "phonetic_cs": "phro",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ถ้า",
+    "meaning_en": "if",
+    "phonetic_cs": "thá",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "กับ",
+    "meaning_en": "with",
+    "phonetic_cs": "kap",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ใน",
+    "meaning_en": "in / inside",
+    "phonetic_cs": "naj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "บน",
+    "meaning_en": "on",
+    "phonetic_cs": "bon",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ใต้",
+    "meaning_en": "under",
+    "phonetic_cs": "taj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "หน้า",
+    "meaning_en": "front / face",
+    "phonetic_cs": "nhá",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "หลัง",
+    "meaning_en": "behind / back",
+    "phonetic_cs": "lang",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ใกล้",
+    "meaning_en": "near",
+    "phonetic_cs": "kajn",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ไกล",
+    "meaning_en": "far",
+    "phonetic_cs": "klaj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "lookup"
+  },
+  {
+    "thai": "ทุกอย่าง",
+    "meaning_en": "everything",
+    "phonetic_cs": "thukjóáng",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "บางสิ่ง",
+    "meaning_en": "something",
+    "phonetic_cs": "bángsing",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ไม่มีอะไร",
+    "meaning_en": "nothing",
+    "phonetic_cs": "majmíóaraj",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  },
+  {
+    "thai": "ทุกคน",
+    "meaning_en": "everyone",
+    "phonetic_cs": "thukkhon",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "method": "rules"
+  }
+]

@@ -1,118 +1,41 @@
-# Common 100 Words Analysis
+# 100 Common Thai Words Analysis
 
-## Before Corrections
-The transcriber previously struggled with:
-- Unnatural extra "h" in outputs like หิว -> vhi, ใหม่ -> majh
-- Missing mai taikhu logic (เล็ก -> lé?k)
-- Unnatural i/í after d, t, n, l
-- Compound vowel เ-า parsing improperly
-- Silent initial อ emitting as "ó" before other vowels
+## Overview
+This report analyzes the performance of the current Czech-oriented phonetic transcription system on a newly curated dataset of 100 common Thai words.
 
-## After Corrections
+### Statistics
+- **Total words processed:** 100
+- **Words transcribed via rules:** 61
+- **Words transcribed via lookup:** 39
 
-Below is the output of the first 100 words with the corrected rules engine:
+## Analysis of the Transcription System
 
-| Thai | Expected | Actual | Match |
-|---|---|---|---|
-| โลก | lók | lók | ✅ |
-| ขั้วโลกเหนือ | khua lók núa | khua lók núa | ✅ |
-| เสนศูนยสูตร | sén sún sút | sén sún sút | ✅ |
-| ทวีป | thvíp | thvíp | ✅ |
-| ทวีปอเมริกาหนือ | thvíp améryká núa | thvíp améryká núa | ✅ |
-| ทวีปอเมริกาใต | thvíp améryká táj | thvíp améryká táj | ✅ |
-| ทวีปอัฟริกา | thvíp afryká | thvíp afryká | ✅ |
-| ทวีปเอเชย | thvíp ésíja | thvíp ésíja | ✅ |
-| ทวีปออศเตรเลีย | thvíp óstrélija | thvíp óstrélija | ✅ |
-| ทวีปแอนตารกติกา | thvíp éntáktiká | thvíp éntáktiká | ✅ |
-| มหาสมุทรแปชิฟก | mahásamút pésifik | mahásamút pésifik | ✅ |
-| มหาสมุทรแอตแลนติก | mahásamút étléntik | mahásamút étléntik | ✅ |
-| มหาสมุทรอนิ เดีย | mahásamút indíja | mahásamút indíja | ✅ |
-| ทะเล | thalé | thalé | ✅ |
-| ทะเลดํา | thalé dam | thalé dam | ✅ |
-| ทะเลศาบแคสเปยน | thalésáp khéspijan | thalésáp khéspijan | ✅ |
-| ทะเลเหือ | thalé núa | thalé núa | ✅ |
-| ทะเลแดง | thalé déng | thalé déng | ✅ |
-| ทะเลอาหรับ | thalé árap | thalé árap | ✅ |
-| ทะเลทัสมัน | thalé tasman | thalé tasman | ✅ |
-| ทะเลจีนใต | thalé džín táj | thalé džín táj | ✅ |
-| ทะเลจีนตะวันออก | thalé džín tavan ók | thalé džín tavan ók | ✅ |
-| ทะเลญี่ปุน | thalé jípun | thalé jípun | ✅ |
-| ทะเลโอคอตสก | thalé ókhót | thalé ókhót | ✅ |
-| ทะเลแคริบเบียน | thalé khérybijan | thalé khérybijan | ✅ |
-| อาว | áu | áu | ✅ |
-| อาวอลาสกา | áu alaská | áu alaská | ✅ |
-| อาวฮัดสัน | áu hatsan | áu hatsan | ✅ |
-| อาวกีนี | áu kýný | áu kýný | ✅ |
-| อาวเปอรเซีย | áu pésíja | áu pésíja | ✅ |
-| อาวเบงกอล | áu bengkól | áu bengkól | ✅ |
-| โลก | lók | lók | ✅ |
-| เทือกเขา | thúak khau | thúak khau | ✅ |
-| เทือกเขาร็อคกี้ | thúak khau rokký | thúak khau rokký | ✅ |
-| เทือกเขาแอนดีส | thúak khau éndýs | thúak khau éndýs | ✅ |
-| เทือกเขาแอลปส | thúak khau élp | thúak khau élp | ✅ |
-| เทือกเขายูราล | thúak khau júrán | thúak khau júrán | ✅ |
-| ทะเลทราย | thalé sáj | thalé sáj | ✅ |
-| ทะเลทรายชาฮารา | thalé sáj sáhárá | thalé sáj sáhárá | ✅ |
-| ทะเลทรายรุบแอลคาลี | thalé sáj rúp él khálí | thalé sáj rúp él khálí | ✅ |
-| แมนํ้ามิสซิสซิปป | ménám míssíssíppí | ménám míssíssíppí | ✅ |
-| แมนํ้าอะเมซอน | ménám ameson | ménám ameson | ✅ |
-| แมนํ้าดานูบ | ménám dánúp | ménám dánúp | ✅ |
-| แมนํ้าไนล | ménám náj | ménám náj | ✅ |
-| แมนํ้าคองโก | ménám khongkó | ménám khongkó | ✅ |
-| แมนํ้าสินธุ | ménám sinthu | ménám sinthu | ✅ |
-| แมนํ้าคงคา | ménám khongkhá | ménám khongkhá | ✅ |
-| แมนํ้าโขง | ménám khóng | ménám khóng | ✅ |
-| แมนํ้าเหลือง | ménám lúang | ménám lúang | ✅ |
-| แมนํ้าแยงชีเกียง | ménám jéngsíkyjang | ménám jéngsíkyjang | ✅ |
-| แมนํ้าจาพระยา | ménám čaophrajá | ménám čaophrajá | ✅ |
-| ทิศ | thyt | thyt | ✅ |
-| ตะวันออก | tavan ók | tavan ók | ✅ |
-| เหนือ | núa | núa | ✅ |
-| ใต | táj | táj | ✅ |
-| จังหวัด | džangvat | džangvat | ✅ |
-| อํานาจเจริญ | amnát džarén | amnát džarén | ✅ |
-| อางทอง | áng thong | áng thong | ✅ |
-| อยุธยา | ajuthajá | ajuthajá | ✅ |
-| บุรีรัมย | burý ram | burý ram | ✅ |
-| ฉะเชิงเทรา | čačengsao | čačengsao | ✅ |
-| ชัยนาท | čaj nát | čaj nát | ✅ |
-| ชัยภูมิ | čajaphúmi | čajaphúmi | ✅ |
-| จันทบุรี | džantha burý | džantha burý | ✅ |
-| เชียงราย | čiang ráj | čiang ráj | ✅ |
-| ชลบุริ | čon burý | čon burý | ✅ |
-| ชุมพร | čum phon | čum phon | ✅ |
-| กาฬสินธุ | kálasinthu | kálasinthu | ✅ |
-| กาํ แพงเพชร | kamphéng phét | kamphéng phét | ✅ |
-| ขอนแกน | khon kén | khon kén | ✅ |
-| กระบ ี่ | krabí | krabí | ✅ |
-| ลําปาง | lampáng | lampáng | ✅ |
-| ลําพูน | lamphún | lamphún | ✅ |
-| ลพบุรี | lop burý | lop burý | ✅ |
-| แมฮองสอน | mé hong son | mé hong son | ✅ |
-| มหาสารคาม | mahá sárakhán | mahá sárakhán | ✅ |
-| มุกดาหาร | mukdáhán | mukdáhán | ✅ |
-| นครนายก | nakhon nájok | nakhon nájok | ✅ |
-| นครพนม | nakhon phanom | nakhon phanom | ✅ |
-| นครราชสีมา | nakhon ráčasímá | nakhon ráčasímá | ✅ |
-| นครสวรรค | nakhon savan | nakhon savan | ✅ |
-| นครศรีธรรมราช | nakhon sí thammarát | nakhon sí thammarát | ✅ |
-| นาน | nán | nán | ✅ |
-| หนองบัวลําภู | nong bualamphú | nong bualamphú | ✅ |
-| หนองคาย | nong kháj | nong kháj | ✅ |
-| นนทบุรี | nonthaburý | nonthaburý | ✅ |
-| ปทุมธานี | pathum tháný | pathum tháný | ✅ |
-| ปต ตานี | paththáný | paththáný | ✅ |
-| พัทลุง | phatlung | phatlung | ✅ |
-| พะเยา | phajao | phajao | ✅ |
-| เพชรบุรี | phet burý | phet burý | ✅ |
-| เพชรบูรณ | phetčabún | phetčabún | ✅ |
-| พิจิตร | phydžit | phydžit | ✅ |
-| ภูเก็ต | phúket | phúket | ✅ |
-| พิษณุโลก | phytsanulók | phytsanulók | ✅ |
-| ปราจีนบุรี | prádžínn burý | prádžínn burý | ✅ |
-| ประจวบคีรีขนั ธ | prádžuap khýrý khan | prádžuap khýrý khan | ✅ |
-| ระนอง | ranong | ranong | ✅ |
-| ระยอง | rajong | rajong | ✅ |
-| รอยเอ็ด | rój ét | rój ét | ✅ |
+### Strengths
+- Simple single-syllable words and many lookup words (such as `ผม`, `คุณ`) are handled nicely, producing natural Czech phonetics.
+- Basic consonants and final consonants map correctly in straightforward structures (`ฉัน` -> `čan`, `รัก` -> `rak`).
 
-**Total Matches:** 100/100
+### Recurring Weaknesses and Unnatural Outputs
+1. **Silent 'ห' (hó híp) handling:** In words like `หิว` (hungry) or `ใหญ่` (big), the transcriber produces unnatural outputs because it mishandles the leading 'ห' which should just dictate tone or combine with the following consonant, not be explicitly pronounced or mixed up. For example:
+   - `หิว` -> `vhi` (incorrect, should be something like `hiu`)
+   - `ใหญ่` -> `jajh` (unnatural trailing 'h')
+   - `ใหม่` -> `majh` (unnatural trailing 'h')
+
+2. **Compound Vowels & Unnatural Vowel Sequences:**
+   - `อะไร` -> `óaraj` (unnatural `óa`)
+   - `เก่า` -> `kéá` (unnatural `éá`, should probably be `kao`)
+   - `เอา` -> `éóá` (highly unnatural `éóá`, should be `ao`)
+   - `เงิน` -> `ngéin` (the standard pronunciation should be closer to `ngön` or `ngün`, `éin` is phonetically odd in Czech)
+
+3. **Character Punctuation in Output:**
+   - The system sometimes introduces a question mark (?) for unrecognized or edge case syllables: `เล็ก` -> `lé?k`, `เป็น` -> `pé?n`. This indicates an issue processing the `็` (mai taikhu) character, which shortens the vowel.
+
+4. **Syllable parsing and Initial Consonant clusters:**
+   - `อร่อย` -> `rój` (The initial `อ` `ó/a` is dropped, making it missing a syllable).
+   - `อย่างไร` -> `jóángraj` (`อ` acting as a silent modifier is misread).
+   - `อ่าน` -> `nóá` (completely jumbled consonants and vowels).
+
+### Recommendations for Improvement
+1. **Fix `็` (mai taikhu):** Add a rule to handle `็` which typically shortens the vowel. Remove the `?` output and replace it with the correct short vowel equivalent (e.g. `e`).
+2. **Improve `ห` leading consonant rules:** Implement logic to recognize when `ห` is a silent tone marker (e.g., before `ง`, `ญ`, `น`, `ม`, `ย`, `ร`, `ล`, `ว`) and when it is an initial consonant.
+3. **Refine compound vowels:** Fix the mapping for `เ-า` (which is generating `éá` or `éóá`). It should map directly to `ao`.
+4. **Fix Initial `อ`:** Ensure that when `อ` is an initial consonant, it acts as a silent placeholder for the vowel (e.g., `อะไร` -> `araj`, not `óaraj`). Also fix the `อย่า`, `อยู่`, `อย่าง`, `อยาก` exceptions where `อ` is silent before `ย`.

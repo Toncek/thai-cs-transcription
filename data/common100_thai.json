@@ -1,0 +1,702 @@
+[
+  {
+    "thai": "ฉัน",
+    "meaning_en": "I (female/general)",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Common pronoun"
+  },
+  {
+    "thai": "ผม",
+    "meaning_en": "I (male)",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Common pronoun"
+  },
+  {
+    "thai": "คุณ",
+    "meaning_en": "you",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Common pronoun"
+  },
+  {
+    "thai": "เขา",
+    "meaning_en": "he / she / they",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Common pronoun"
+  },
+  {
+    "thai": "เรา",
+    "meaning_en": "we / us",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Common pronoun"
+  },
+  {
+    "thai": "มัน",
+    "meaning_en": "it",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Common pronoun"
+  },
+  {
+    "thai": "นี่",
+    "meaning_en": "this",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Demonstrative"
+  },
+  {
+    "thai": "นั่น",
+    "meaning_en": "that",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Demonstrative"
+  },
+  {
+    "thai": "ที่นี่",
+    "meaning_en": "here",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Location"
+  },
+  {
+    "thai": "ที่นั่น",
+    "meaning_en": "there",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Location"
+  },
+  {
+    "thai": "ใคร",
+    "meaning_en": "who",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Question word"
+  },
+  {
+    "thai": "อะไร",
+    "meaning_en": "what",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Question word"
+  },
+  {
+    "thai": "ที่ไหน",
+    "meaning_en": "where",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Question word"
+  },
+  {
+    "thai": "เมื่อไหร่",
+    "meaning_en": "when",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Question word"
+  },
+  {
+    "thai": "ทำไม",
+    "meaning_en": "why",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Question word"
+  },
+  {
+    "thai": "อย่างไร",
+    "meaning_en": "how",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Question word"
+  },
+  {
+    "thai": "ใช่",
+    "meaning_en": "yes / correct",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Affirmation"
+  },
+  {
+    "thai": "ไม่",
+    "meaning_en": "no / not",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Negation"
+  },
+  {
+    "thai": "มาก",
+    "meaning_en": "very / much",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adverb"
+  },
+  {
+    "thai": "ดี",
+    "meaning_en": "good",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "ใหญ่",
+    "meaning_en": "big",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "เล็ก",
+    "meaning_en": "small",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "ใหม่",
+    "meaning_en": "new",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "เก่า",
+    "meaning_en": "old (objects)",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "ร้อน",
+    "meaning_en": "hot",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "หนาว",
+    "meaning_en": "cold (weather)",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "สวย",
+    "meaning_en": "beautiful",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "อร่อย",
+    "meaning_en": "delicious",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "หิว",
+    "meaning_en": "hungry",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "เหนื่อย",
+    "meaning_en": "tired",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Adjective"
+  },
+  {
+    "thai": "ไป",
+    "meaning_en": "to go",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "มา",
+    "meaning_en": "to come",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "กิน",
+    "meaning_en": "to eat",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ดื่ม",
+    "meaning_en": "to drink",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ทำ",
+    "meaning_en": "to do / to make",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "มี",
+    "meaning_en": "to have / there is",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "เป็น",
+    "meaning_en": "to be (is/am/are)",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "อยู่",
+    "meaning_en": "to be at / to live",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ดู",
+    "meaning_en": "to look / to watch",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "เห็น",
+    "meaning_en": "to see",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ฟัง",
+    "meaning_en": "to listen",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "พูด",
+    "meaning_en": "to speak",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "อ่าน",
+    "meaning_en": "to read",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "เขียน",
+    "meaning_en": "to write",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "รู้",
+    "meaning_en": "to know",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "เข้าใจ",
+    "meaning_en": "to understand",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "คิด",
+    "meaning_en": "to think",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "เรียน",
+    "meaning_en": "to study / learn",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ทำงาน",
+    "meaning_en": "to work",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ซื้อ",
+    "meaning_en": "to buy",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ขาย",
+    "meaning_en": "to sell",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ให้",
+    "meaning_en": "to give",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "เอา",
+    "meaning_en": "to take / to want",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ชอบ",
+    "meaning_en": "to like",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "รัก",
+    "meaning_en": "to love",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ต้องการ",
+    "meaning_en": "to need / to want",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb"
+  },
+  {
+    "thai": "ได้",
+    "meaning_en": "can / able to",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Verb/Modal"
+  },
+  {
+    "thai": "คน",
+    "meaning_en": "person",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "เพื่อน",
+    "meaning_en": "friend",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "ครอบครัว",
+    "meaning_en": "family",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "บ้าน",
+    "meaning_en": "house / home",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "โรงเรียน",
+    "meaning_en": "school",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "ถนน",
+    "meaning_en": "road",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "รถ",
+    "meaning_en": "car",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "น้ำ",
+    "meaning_en": "water",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "ข้าว",
+    "meaning_en": "rice / food",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "เงิน",
+    "meaning_en": "money",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "เวลา",
+    "meaning_en": "time",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "วัน",
+    "meaning_en": "day",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "เดือน",
+    "meaning_en": "month",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "ปี",
+    "meaning_en": "year",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Noun"
+  },
+  {
+    "thai": "วันนี้",
+    "meaning_en": "today",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Time"
+  },
+  {
+    "thai": "พรุ่งนี้",
+    "meaning_en": "tomorrow",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Time"
+  },
+  {
+    "thai": "เมื่อวาน",
+    "meaning_en": "yesterday",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Time"
+  },
+  {
+    "thai": "ตอนนี้",
+    "meaning_en": "now",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Time"
+  },
+  {
+    "thai": "เช้า",
+    "meaning_en": "morning",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Time"
+  },
+  {
+    "thai": "เย็น",
+    "meaning_en": "evening",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Time"
+  },
+  {
+    "thai": "คืนนี้",
+    "meaning_en": "tonight",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Time"
+  },
+  {
+    "thai": "สวัสดี",
+    "meaning_en": "hello / goodbye",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Greeting"
+  },
+  {
+    "thai": "ขอบคุณ",
+    "meaning_en": "thank you",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Greeting"
+  },
+  {
+    "thai": "ขอโทษ",
+    "meaning_en": "sorry / excuse me",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Greeting"
+  },
+  {
+    "thai": "ลาก่อน",
+    "meaning_en": "goodbye",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Greeting"
+  },
+  {
+    "thai": "ไม่เป็นไร",
+    "meaning_en": "it's alright / never mind",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Phrase"
+  },
+  {
+    "thai": "และ",
+    "meaning_en": "and",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Conjunction"
+  },
+  {
+    "thai": "แต่",
+    "meaning_en": "but",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Conjunction"
+  },
+  {
+    "thai": "หรือ",
+    "meaning_en": "or",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Conjunction"
+  },
+  {
+    "thai": "เพราะ",
+    "meaning_en": "because",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Conjunction"
+  },
+  {
+    "thai": "ถ้า",
+    "meaning_en": "if",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Conjunction"
+  },
+  {
+    "thai": "กับ",
+    "meaning_en": "with",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Preposition"
+  },
+  {
+    "thai": "ใน",
+    "meaning_en": "in / inside",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Preposition"
+  },
+  {
+    "thai": "บน",
+    "meaning_en": "on",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Preposition"
+  },
+  {
+    "thai": "ใต้",
+    "meaning_en": "under",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Preposition"
+  },
+  {
+    "thai": "หน้า",
+    "meaning_en": "front / face",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Preposition"
+  },
+  {
+    "thai": "หลัง",
+    "meaning_en": "behind / back",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Preposition"
+  },
+  {
+    "thai": "ใกล้",
+    "meaning_en": "near",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Preposition"
+  },
+  {
+    "thai": "ไกล",
+    "meaning_en": "far",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Preposition"
+  },
+  {
+    "thai": "ทุกอย่าง",
+    "meaning_en": "everything",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Pronoun"
+  },
+  {
+    "thai": "บางสิ่ง",
+    "meaning_en": "something",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Pronoun"
+  },
+  {
+    "thai": "ไม่มีอะไร",
+    "meaning_en": "nothing",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Pronoun"
+  },
+  {
+    "thai": "ทุกคน",
+    "meaning_en": "everyone",
+    "source_url": "https://www.expatden.com/thai/100-basic-thai-words/",
+    "source_title": "Top 100 Thai Words",
+    "source_note": "Pronoun"
+  }
+]

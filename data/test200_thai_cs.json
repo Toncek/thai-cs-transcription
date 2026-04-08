@@ -1,0 +1,1851 @@
+[
+  {
+    "thai": "ที่",
+    "meaning_en": "at",
+    "phonetic_cs": "thí",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ที่"
+    ]
+  },
+  {
+    "thai": "การ",
+    "meaning_en": "action",
+    "phonetic_cs": "kán",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "การ"
+    ]
+  },
+  {
+    "thai": "เป็น",
+    "meaning_en": "is",
+    "phonetic_cs": "pén",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เป็น"
+    ]
+  },
+  {
+    "thai": "ใน",
+    "meaning_en": "in",
+    "phonetic_cs": "naj",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ใน"
+    ]
+  },
+  {
+    "thai": "ของ",
+    "meaning_en": "of",
+    "phonetic_cs": "khóng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ของ"
+    ]
+  },
+  {
+    "thai": "มี",
+    "meaning_en": "have",
+    "phonetic_cs": "mí",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "มี"
+    ]
+  },
+  {
+    "thai": "จะ",
+    "meaning_en": "will",
+    "phonetic_cs": "dža",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "จ",
+      "ะ"
+    ]
+  },
+  {
+    "thai": "และ",
+    "meaning_en": "and",
+    "phonetic_cs": "le",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "แล",
+      "ะ"
+    ]
+  },
+  {
+    "thai": "ไม่",
+    "meaning_en": "no",
+    "phonetic_cs": "maj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ไม่"
+    ]
+  },
+  {
+    "thai": "ได้",
+    "meaning_en": "can",
+    "phonetic_cs": "daj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ได้"
+    ]
+  },
+  {
+    "thai": "ให้",
+    "meaning_en": "give",
+    "phonetic_cs": "haj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ให้"
+    ]
+  },
+  {
+    "thai": "ว่า",
+    "meaning_en": "that",
+    "phonetic_cs": "vá",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ว่า"
+    ]
+  },
+  {
+    "thai": "ไป",
+    "meaning_en": "go",
+    "phonetic_cs": "paj",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ไป"
+    ]
+  },
+  {
+    "thai": "มา",
+    "meaning_en": "come",
+    "phonetic_cs": "má",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "มา"
+    ]
+  },
+  {
+    "thai": "ก็",
+    "meaning_en": "Well",
+    "phonetic_cs": "ka",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ก็"
+    ]
+  },
+  {
+    "thai": "ๆ",
+    "meaning_en": "Any other",
+    "phonetic_cs": "jamok",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ๆ"
+    ]
+  },
+  {
+    "thai": "ความ",
+    "meaning_en": "sense",
+    "phonetic_cs": "khuaám",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ความ"
+    ]
+  },
+  {
+    "thai": "คน",
+    "meaning_en": "person",
+    "phonetic_cs": "khon",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "คน"
+    ]
+  },
+  {
+    "thai": "กับ",
+    "meaning_en": "with",
+    "phonetic_cs": "kap",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กับ"
+    ]
+  },
+  {
+    "thai": "แล้ว",
+    "meaning_en": "already",
+    "phonetic_cs": "léu",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "แล้ว"
+    ]
+  },
+  {
+    "thai": "อยู่",
+    "meaning_en": "live",
+    "phonetic_cs": "jú",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "อยู่"
+    ]
+  },
+  {
+    "thai": "หรือ",
+    "meaning_en": "or",
+    "phonetic_cs": "rú",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "หรือ"
+    ]
+  },
+  {
+    "thai": "จาก",
+    "meaning_en": "from",
+    "phonetic_cs": "džák",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "จาก"
+    ]
+  },
+  {
+    "thai": "กัน",
+    "meaning_en": "together",
+    "phonetic_cs": "kan",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กัน"
+    ]
+  },
+  {
+    "thai": "นี้",
+    "meaning_en": "this",
+    "phonetic_cs": "ný",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "นี้"
+    ]
+  },
+  {
+    "thai": "แต่",
+    "meaning_en": "but",
+    "phonetic_cs": "té",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "แต่"
+    ]
+  },
+  {
+    "thai": "อย่าง",
+    "meaning_en": "at",
+    "phonetic_cs": "jáng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "อย่าง"
+    ]
+  },
+  {
+    "thai": "ต้อง",
+    "meaning_en": "must",
+    "phonetic_cs": "tóng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ต้อง"
+    ]
+  },
+  {
+    "thai": "ด้วย",
+    "meaning_en": "too",
+    "phonetic_cs": "duaj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ด้วย"
+    ]
+  },
+  {
+    "thai": "ขึ้น",
+    "meaning_en": "climb",
+    "phonetic_cs": "khun",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ขึ้น"
+    ]
+  },
+  {
+    "thai": "เขา",
+    "meaning_en": "he",
+    "phonetic_cs": "khao",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "เขา"
+    ]
+  },
+  {
+    "thai": "นั้น",
+    "meaning_en": "that",
+    "phonetic_cs": "nan",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "นั้น"
+    ]
+  },
+  {
+    "thai": "ผู้",
+    "meaning_en": "person",
+    "phonetic_cs": "phú",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ผู้"
+    ]
+  },
+  {
+    "thai": "ซึ่ง",
+    "meaning_en": "which",
+    "phonetic_cs": "sung",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ซึ่ง"
+    ]
+  },
+  {
+    "thai": "ตาม",
+    "meaning_en": "follow",
+    "phonetic_cs": "thám",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ตาม"
+    ]
+  },
+  {
+    "thai": "มาก",
+    "meaning_en": "a lot",
+    "phonetic_cs": "mák",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "มาก"
+    ]
+  },
+  {
+    "thai": "โดย",
+    "meaning_en": "by",
+    "phonetic_cs": "dój",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "โดย"
+    ]
+  },
+  {
+    "thai": "ใช้",
+    "meaning_en": "use",
+    "phonetic_cs": "čaj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ใช้"
+    ]
+  },
+  {
+    "thai": "ทาง",
+    "meaning_en": "way",
+    "phonetic_cs": "tháng",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ทาง"
+    ]
+  },
+  {
+    "thai": "เรื่อง",
+    "meaning_en": "subject",
+    "phonetic_cs": "rúang",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เรื่อง"
+    ]
+  },
+  {
+    "thai": "เรา",
+    "meaning_en": "we",
+    "phonetic_cs": "rao",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "เรา"
+    ]
+  },
+  {
+    "thai": "ยัง",
+    "meaning_en": "not yet",
+    "phonetic_cs": "jang",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ยัง"
+    ]
+  },
+  {
+    "thai": "ทำ",
+    "meaning_en": "do",
+    "phonetic_cs": "tham",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ท",
+      "ำ"
+    ]
+  },
+  {
+    "thai": "เพื่อ",
+    "meaning_en": "to",
+    "phonetic_cs": "phúa",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เพื่อ"
+    ]
+  },
+  {
+    "thai": "ผม",
+    "meaning_en": "hair",
+    "phonetic_cs": "phom",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ผม"
+    ]
+  },
+  {
+    "thai": "อีก",
+    "meaning_en": "more",
+    "phonetic_cs": "ík",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "อีก"
+    ]
+  },
+  {
+    "thai": "หนึ่ง",
+    "meaning_en": "one",
+    "phonetic_cs": "nung",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "หนึ่ง"
+    ]
+  },
+  {
+    "thai": "เมื่อ",
+    "meaning_en": "when",
+    "phonetic_cs": "múa",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เมื่อ"
+    ]
+  },
+  {
+    "thai": "ถึง",
+    "meaning_en": "to",
+    "phonetic_cs": "thung",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ถึง"
+    ]
+  },
+  {
+    "thai": "เข้า",
+    "meaning_en": "enter",
+    "phonetic_cs": "khao",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เข้า"
+    ]
+  },
+  {
+    "thai": "เพราะ",
+    "meaning_en": "because",
+    "phonetic_cs": "phro",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "เพรา",
+      "ะ"
+    ]
+  },
+  {
+    "thai": "ดี",
+    "meaning_en": "good",
+    "phonetic_cs": "dý",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ดี"
+    ]
+  },
+  {
+    "thai": "ออก",
+    "meaning_en": "leave",
+    "phonetic_cs": "aok",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ออก"
+    ]
+  },
+  {
+    "thai": "ฉัน",
+    "meaning_en": "I",
+    "phonetic_cs": "čan",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ฉัน"
+    ]
+  },
+  {
+    "thai": "เกิด",
+    "meaning_en": "happen",
+    "phonetic_cs": "köt",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เกิด"
+    ]
+  },
+  {
+    "thai": "คือ",
+    "meaning_en": "is",
+    "phonetic_cs": "khúó",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "คือ"
+    ]
+  },
+  {
+    "thai": "เห็น",
+    "meaning_en": "see",
+    "phonetic_cs": "hén",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เห็น"
+    ]
+  },
+  {
+    "thai": "จึง",
+    "meaning_en": "therefore",
+    "phonetic_cs": "džung",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "จึง"
+    ]
+  },
+  {
+    "thai": "ทำให้",
+    "meaning_en": "make",
+    "phonetic_cs": "thamhaj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ท",
+      "ำ",
+      "ให้"
+    ]
+  },
+  {
+    "thai": "กว่า",
+    "meaning_en": "than",
+    "phonetic_cs": "káu",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กว่า"
+    ]
+  },
+  {
+    "thai": "ไทย",
+    "meaning_en": "Thai",
+    "phonetic_cs": "thajj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ไทย"
+    ]
+  },
+  {
+    "thai": "ไว้",
+    "meaning_en": "hold",
+    "phonetic_cs": "vaj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ไว้"
+    ]
+  },
+  {
+    "thai": "ตัว",
+    "meaning_en": "one",
+    "phonetic_cs": "tau",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ตัว"
+    ]
+  },
+  {
+    "thai": "ปี",
+    "meaning_en": "year",
+    "phonetic_cs": "pí",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ปี"
+    ]
+  },
+  {
+    "thai": "เธอ",
+    "meaning_en": "you",
+    "phonetic_cs": "thé",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "เธอ"
+    ]
+  },
+  {
+    "thai": "คุณ",
+    "meaning_en": "you",
+    "phonetic_cs": "khun",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "คุณ"
+    ]
+  },
+  {
+    "thai": "ต่อ",
+    "meaning_en": "continue",
+    "phonetic_cs": "tó",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ต่อ"
+    ]
+  },
+  {
+    "thai": "ทั้ง",
+    "meaning_en": "both",
+    "phonetic_cs": "thang",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ทั้ง"
+    ]
+  },
+  {
+    "thai": "มัน",
+    "meaning_en": "it",
+    "phonetic_cs": "man",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "มัน"
+    ]
+  },
+  {
+    "thai": "เลย",
+    "meaning_en": "at all",
+    "phonetic_cs": "léj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เลย"
+    ]
+  },
+  {
+    "thai": "ถ้า",
+    "meaning_en": "if",
+    "phonetic_cs": "thá",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ถ้า"
+    ]
+  },
+  {
+    "thai": "อะไร",
+    "meaning_en": "what",
+    "phonetic_cs": "araj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "อ",
+      "ะ",
+      "ไร"
+    ]
+  },
+  {
+    "thai": "เวลา",
+    "meaning_en": "time",
+    "phonetic_cs": "velá",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "เวลา"
+    ]
+  },
+  {
+    "thai": "ลง",
+    "meaning_en": "go down",
+    "phonetic_cs": "long",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ลง"
+    ]
+  },
+  {
+    "thai": "ต่าง",
+    "meaning_en": "different",
+    "phonetic_cs": "táng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ต่าง"
+    ]
+  },
+  {
+    "thai": "ส่วน",
+    "meaning_en": "part",
+    "phonetic_cs": "suan",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ส่วน"
+    ]
+  },
+  {
+    "thai": "ประเทศ",
+    "meaning_en": "country",
+    "phonetic_cs": "prathét",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ปร",
+      "ะ",
+      "เทศ"
+    ]
+  },
+  {
+    "thai": "อาจ",
+    "meaning_en": "might",
+    "phonetic_cs": "át",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "อาจ"
+    ]
+  },
+  {
+    "thai": "แบบ",
+    "meaning_en": "type",
+    "phonetic_cs": "béb",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "แบบ"
+    ]
+  },
+  {
+    "thai": "ถูก",
+    "meaning_en": "cheap",
+    "phonetic_cs": "thúk",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ถูก"
+    ]
+  },
+  {
+    "thai": "ทุก",
+    "meaning_en": "each",
+    "phonetic_cs": "thuk",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ทุก"
+    ]
+  },
+  {
+    "thai": "วัน",
+    "meaning_en": "day",
+    "phonetic_cs": "van",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "วัน"
+    ]
+  },
+  {
+    "thai": "ก่อน",
+    "meaning_en": "before",
+    "phonetic_cs": "kón",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ก่อน"
+    ]
+  },
+  {
+    "thai": "เช่น",
+    "meaning_en": "such as",
+    "phonetic_cs": "čén",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เช่น"
+    ]
+  },
+  {
+    "thai": "อื่น",
+    "meaning_en": "another",
+    "phonetic_cs": "ún",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "อื่น"
+    ]
+  },
+  {
+    "thai": "ดู",
+    "meaning_en": "watch",
+    "phonetic_cs": "dú",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ดู"
+    ]
+  },
+  {
+    "thai": "ครั้ง",
+    "meaning_en": "time",
+    "phonetic_cs": "khrang",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ครั้ง"
+    ]
+  },
+  {
+    "thai": "รู้",
+    "meaning_en": "know",
+    "phonetic_cs": "rú",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "รู้"
+    ]
+  },
+  {
+    "thai": "เอา",
+    "meaning_en": "take",
+    "phonetic_cs": "ao",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เอา"
+    ]
+  },
+  {
+    "thai": "สอง",
+    "meaning_en": "two",
+    "phonetic_cs": "sóng",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "สอง"
+    ]
+  },
+  {
+    "thai": "นำ",
+    "meaning_en": "lead",
+    "phonetic_cs": "nam",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "น",
+      "ำ"
+    ]
+  },
+  {
+    "thai": "งาน",
+    "meaning_en": "work",
+    "phonetic_cs": "ngán",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "งาน"
+    ]
+  },
+  {
+    "thai": "สามารถ",
+    "meaning_en": "can",
+    "phonetic_cs": "sámántha",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "สา",
+      "มาร",
+      "ถ"
+    ]
+  },
+  {
+    "thai": "นาย",
+    "meaning_en": "Mr.",
+    "phonetic_cs": "náj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "นาย"
+    ]
+  },
+  {
+    "thai": "นะ",
+    "meaning_en": "Yes.",
+    "phonetic_cs": "na",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "น",
+      "ะ"
+    ]
+  },
+  {
+    "thai": "หน้า",
+    "meaning_en": "page",
+    "phonetic_cs": "ná",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "หน้า"
+    ]
+  },
+  {
+    "thai": "บอก",
+    "meaning_en": "tell",
+    "phonetic_cs": "bók",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "บอก"
+    ]
+  },
+  {
+    "thai": "กลับ",
+    "meaning_en": "go back",
+    "phonetic_cs": "klap",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กลับ"
+    ]
+  },
+  {
+    "thai": "แห่ง",
+    "meaning_en": "of",
+    "phonetic_cs": "héng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "แห่ง"
+    ]
+  },
+  {
+    "thai": "บาง",
+    "meaning_en": "thin",
+    "phonetic_cs": "báng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "บาง"
+    ]
+  },
+  {
+    "thai": "ได้รับ",
+    "meaning_en": "receive",
+    "phonetic_cs": "dajrap",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ได้",
+      "รับ"
+    ]
+  },
+  {
+    "thai": "จน",
+    "meaning_en": "until",
+    "phonetic_cs": "džon",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "จน"
+    ]
+  },
+  {
+    "thai": "ด้าน",
+    "meaning_en": "side",
+    "phonetic_cs": "dán",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ด้าน"
+    ]
+  },
+  {
+    "thai": "คิด",
+    "meaning_en": "think",
+    "phonetic_cs": "khyd",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "คิด"
+    ]
+  },
+  {
+    "thai": "เด็ก",
+    "meaning_en": "child",
+    "phonetic_cs": "dék",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เด็ก"
+    ]
+  },
+  {
+    "thai": "ชีวิต",
+    "meaning_en": "life",
+    "phonetic_cs": "čívit",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ชี",
+      "วิต"
+    ]
+  },
+  {
+    "thai": "สิ่ง",
+    "meaning_en": "thing",
+    "phonetic_cs": "sing",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "สิ่ง"
+    ]
+  },
+  {
+    "thai": "พระ",
+    "meaning_en": "monk",
+    "phonetic_cs": "phona",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "พร",
+      "ะ"
+    ]
+  },
+  {
+    "thai": "เหมือน",
+    "meaning_en": "like",
+    "phonetic_cs": "múan",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เหมือน"
+    ]
+  },
+  {
+    "thai": "รับ",
+    "meaning_en": "receive",
+    "phonetic_cs": "rap",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "รับ"
+    ]
+  },
+  {
+    "thai": "หลาย",
+    "meaning_en": "many",
+    "phonetic_cs": "láj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "หลาย"
+    ]
+  },
+  {
+    "thai": "พูด",
+    "meaning_en": "speak",
+    "phonetic_cs": "phút",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "พูด"
+    ]
+  },
+  {
+    "thai": "บ้าน",
+    "meaning_en": "house",
+    "phonetic_cs": "bán",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "บ้าน"
+    ]
+  },
+  {
+    "thai": "ใหม่",
+    "meaning_en": "new",
+    "phonetic_cs": "maj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ใหม่"
+    ]
+  },
+  {
+    "thai": "เคย",
+    "meaning_en": "ever",
+    "phonetic_cs": "khéj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เคย"
+    ]
+  },
+  {
+    "thai": "นี่",
+    "meaning_en": "this",
+    "phonetic_cs": "ný",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "นี่"
+    ]
+  },
+  {
+    "thai": "กลุ่ม",
+    "meaning_en": "group",
+    "phonetic_cs": "klum",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กลุ่ม"
+    ]
+  },
+  {
+    "thai": "ปัญหา",
+    "meaning_en": "problem",
+    "phonetic_cs": "panhá",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ปัญ",
+      "หา"
+    ]
+  },
+  {
+    "thai": "สังคม",
+    "meaning_en": "society",
+    "phonetic_cs": "sangkhom",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "สัง",
+      "คม"
+    ]
+  },
+  {
+    "thai": "ใคร",
+    "meaning_en": "who",
+    "phonetic_cs": "khraj",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ใคร"
+    ]
+  },
+  {
+    "thai": "หา",
+    "meaning_en": "look for",
+    "phonetic_cs": "há",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "หา"
+    ]
+  },
+  {
+    "thai": "คำ",
+    "meaning_en": "word",
+    "phonetic_cs": "kham",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ค",
+      "ำ"
+    ]
+  },
+  {
+    "thai": "อยาก",
+    "meaning_en": "want",
+    "phonetic_cs": "ják",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "อยาก"
+    ]
+  },
+  {
+    "thai": "ใด",
+    "meaning_en": "any",
+    "phonetic_cs": "daj",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ใด"
+    ]
+  },
+  {
+    "thai": "เสียง",
+    "meaning_en": "sound",
+    "phonetic_cs": "síjang",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เสียง"
+    ]
+  },
+  {
+    "thai": "คง",
+    "meaning_en": "probably",
+    "phonetic_cs": "khong",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "คง"
+    ]
+  },
+  {
+    "thai": "มอง",
+    "meaning_en": "look",
+    "phonetic_cs": "móng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "มอง"
+    ]
+  },
+  {
+    "thai": "ระหว่าง",
+    "meaning_en": "between",
+    "phonetic_cs": "raváng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ร",
+      "ะ",
+      "หว่าง"
+    ]
+  },
+  {
+    "thai": "สำหรับ",
+    "meaning_en": "for",
+    "phonetic_cs": "samrap",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ส",
+      "ำ",
+      "หรับ"
+    ]
+  },
+  {
+    "thai": "น้ำ",
+    "meaning_en": "water",
+    "phonetic_cs": "nam",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "น้",
+      "ำ"
+    ]
+  },
+  {
+    "thai": "ผล",
+    "meaning_en": "result",
+    "phonetic_cs": "phon",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ผล"
+    ]
+  },
+  {
+    "thai": "ฯ",
+    "meaning_en": "etc.",
+    "phonetic_cs": "phaján nój",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ฯ"
+    ]
+  },
+  {
+    "thai": "ใช่",
+    "meaning_en": "yes",
+    "phonetic_cs": "čaj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ใช่"
+    ]
+  },
+  {
+    "thai": "แสดง",
+    "meaning_en": "show",
+    "phonetic_cs": "sédng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "แสดง"
+    ]
+  },
+  {
+    "thai": "กำลัง",
+    "meaning_en": "energy",
+    "phonetic_cs": "kamlang",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ก",
+      "ำ",
+      "ลัง"
+    ]
+  },
+  {
+    "thai": "สร้าง",
+    "meaning_en": "build",
+    "phonetic_cs": "sráng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "สร้าง"
+    ]
+  },
+  {
+    "thai": "ท่าน",
+    "meaning_en": "Sir",
+    "phonetic_cs": "thán",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ท่าน"
+    ]
+  },
+  {
+    "thai": "เงิน",
+    "meaning_en": "money",
+    "phonetic_cs": "ngön",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เงิน"
+    ]
+  },
+  {
+    "thai": "โลก",
+    "meaning_en": "word",
+    "phonetic_cs": "lók",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "โลก"
+    ]
+  },
+  {
+    "thai": "ช่วย",
+    "meaning_en": "help",
+    "phonetic_cs": "čuaj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ช่วย"
+    ]
+  },
+  {
+    "thai": "กำหนด",
+    "meaning_en": "set",
+    "phonetic_cs": "kamnot",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ก",
+      "ำ",
+      "หนด"
+    ]
+  },
+  {
+    "thai": "จริง",
+    "meaning_en": "TRUE",
+    "phonetic_cs": "džring",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "จริง"
+    ]
+  },
+  {
+    "thai": "ขอ",
+    "meaning_en": "please",
+    "phonetic_cs": "khó",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ขอ"
+    ]
+  },
+  {
+    "thai": "ทำงาน",
+    "meaning_en": "work",
+    "phonetic_cs": "thamngán",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ท",
+      "ำ",
+      "งาน"
+    ]
+  },
+  {
+    "thai": "ระบบ",
+    "meaning_en": "system",
+    "phonetic_cs": "rabb",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ร",
+      "ะ",
+      "บบ"
+    ]
+  },
+  {
+    "thai": "ใหญ่",
+    "meaning_en": "big",
+    "phonetic_cs": "jaj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ใหญ่"
+    ]
+  },
+  {
+    "thai": "ลูก",
+    "meaning_en": "child",
+    "phonetic_cs": "lúk",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ลูก"
+    ]
+  },
+  {
+    "thai": "เอง",
+    "meaning_en": "myself",
+    "phonetic_cs": "éng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เอง"
+    ]
+  },
+  {
+    "thai": "อัน",
+    "meaning_en": "which",
+    "phonetic_cs": "an",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "อัน"
+    ]
+  },
+  {
+    "thai": "พอ",
+    "meaning_en": "enough",
+    "phonetic_cs": "phó",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "พอ"
+    ]
+  },
+  {
+    "thai": "ที่สุด",
+    "meaning_en": "the most",
+    "phonetic_cs": "thísut",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ที่",
+      "สุด"
+    ]
+  },
+  {
+    "thai": "แม่",
+    "meaning_en": "mother",
+    "phonetic_cs": "mé",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "แม่"
+    ]
+  },
+  {
+    "thai": "พบ",
+    "meaning_en": "meet",
+    "phonetic_cs": "phop",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "พบ"
+    ]
+  },
+  {
+    "thai": "บน",
+    "meaning_en": "on",
+    "phonetic_cs": "bon",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "บน"
+    ]
+  },
+  {
+    "thai": "เสีย",
+    "meaning_en": "broken",
+    "phonetic_cs": "séíj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เสีย"
+    ]
+  },
+  {
+    "thai": "แก่",
+    "meaning_en": "to",
+    "phonetic_cs": "ké",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "แก่"
+    ]
+  },
+  {
+    "thai": "ควร",
+    "meaning_en": "should",
+    "phonetic_cs": "khuan",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ควร"
+    ]
+  },
+  {
+    "thai": "เมือง",
+    "meaning_en": "city",
+    "phonetic_cs": "múang",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "เมือง"
+    ]
+  },
+  {
+    "thai": "น้อย",
+    "meaning_en": "little",
+    "phonetic_cs": "nój",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "น้อย"
+    ]
+  },
+  {
+    "thai": "เดิน",
+    "meaning_en": "walk",
+    "phonetic_cs": "dön",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เดิน"
+    ]
+  },
+  {
+    "thai": "สี",
+    "meaning_en": "color",
+    "phonetic_cs": "sí",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "สี"
+    ]
+  },
+  {
+    "thai": "น่า",
+    "meaning_en": "probably",
+    "phonetic_cs": "ná",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "น่า"
+    ]
+  },
+  {
+    "thai": "พี่",
+    "meaning_en": "elder sibling",
+    "phonetic_cs": "phí",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "พี่"
+    ]
+  },
+  {
+    "thai": "ร่วม",
+    "meaning_en": "join",
+    "phonetic_cs": "ruam",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ร่วม"
+    ]
+  },
+  {
+    "thai": "พัฒนา",
+    "meaning_en": "develop",
+    "phonetic_cs": "phatná",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "พัฒ",
+      "นา"
+    ]
+  },
+  {
+    "thai": "ใจ",
+    "meaning_en": "heart",
+    "phonetic_cs": "džaj",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "ใจ"
+    ]
+  },
+  {
+    "thai": "หาก",
+    "meaning_en": "if",
+    "phonetic_cs": "hák",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "หาก"
+    ]
+  },
+  {
+    "thai": "มาตรา",
+    "meaning_en": "section",
+    "phonetic_cs": "mátrá",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "มาต",
+      "รา"
+    ]
+  },
+  {
+    "thai": "สูง",
+    "meaning_en": "high",
+    "phonetic_cs": "súng",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "สูง"
+    ]
+  },
+  {
+    "thai": "กิน",
+    "meaning_en": "eat",
+    "phonetic_cs": "kin",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กิน"
+    ]
+  },
+  {
+    "thai": "ส่ง",
+    "meaning_en": "send",
+    "phonetic_cs": "song",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ส่ง"
+    ]
+  },
+  {
+    "thai": "เดียว",
+    "meaning_en": "single",
+    "phonetic_cs": "dýjau",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เดียว"
+    ]
+  },
+  {
+    "thai": "แรก",
+    "meaning_en": "first",
+    "phonetic_cs": "rék",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "แรก"
+    ]
+  },
+  {
+    "thai": "กรณี",
+    "meaning_en": "case",
+    "phonetic_cs": "konný",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กร",
+      "ณี"
+    ]
+  },
+  {
+    "thai": "ระดับ",
+    "meaning_en": "level",
+    "phonetic_cs": "radap",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ร",
+      "ะ",
+      "ดับ"
+    ]
+  },
+  {
+    "thai": "ตัวเอง",
+    "meaning_en": "myself",
+    "phonetic_cs": "tauéng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ตัว",
+      "เอง"
+    ]
+  },
+  {
+    "thai": "กฎหมาย",
+    "meaning_en": "law",
+    "phonetic_cs": "kdhmáj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กฎห",
+      "มาย"
+    ]
+  },
+  {
+    "thai": "กล่าว",
+    "meaning_en": "say",
+    "phonetic_cs": "kláu",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "กล่าว"
+    ]
+  },
+  {
+    "thai": "อาหาร",
+    "meaning_en": "food",
+    "phonetic_cs": "áhán",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "อา",
+      "หาร"
+    ]
+  },
+  {
+    "thai": "เกี่ยวกับ",
+    "meaning_en": "about",
+    "phonetic_cs": "kíjaukap",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เกี่ยว",
+      "กับ"
+    ]
+  },
+  {
+    "thai": "ดังกล่าว",
+    "meaning_en": "such",
+    "phonetic_cs": "dangkláu",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ดัง",
+      "กล่าว"
+    ]
+  },
+  {
+    "thai": "นัก",
+    "meaning_en": "student",
+    "phonetic_cs": "nak",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "นัก"
+    ]
+  },
+  {
+    "thai": "จัด",
+    "meaning_en": "Arrange",
+    "phonetic_cs": "džat",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "จัด"
+    ]
+  },
+  {
+    "thai": "ช่วง",
+    "meaning_en": "range",
+    "phonetic_cs": "čuang",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ช่วง"
+    ]
+  },
+  {
+    "thai": "ฝ่าย",
+    "meaning_en": "cotton",
+    "phonetic_cs": "fáj",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ฝ่าย"
+    ]
+  },
+  {
+    "thai": "เพียง",
+    "meaning_en": "just",
+    "phonetic_cs": "phíjang",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เพียง"
+    ]
+  },
+  {
+    "thai": "ลักษณะ",
+    "meaning_en": "nature",
+    "phonetic_cs": "laksona",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ลัก",
+      "ษณ",
+      "ะ"
+    ]
+  },
+  {
+    "thai": "หลัง",
+    "meaning_en": "behind",
+    "phonetic_cs": "lang",
+    "method_used": "lookup",
+    "syllable_breakdown": [
+      "หลัง"
+    ]
+  },
+  {
+    "thai": "จำนวน",
+    "meaning_en": "quantity",
+    "phonetic_cs": "džamnuan",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "จ",
+      "ำ",
+      "นวน"
+    ]
+  },
+  {
+    "thai": "ข้อ",
+    "meaning_en": "clause",
+    "phonetic_cs": "khó",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ข้อ"
+    ]
+  },
+  {
+    "thai": "พวก",
+    "meaning_en": "guys",
+    "phonetic_cs": "phuak",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "พวก"
+    ]
+  },
+  {
+    "thai": "ตน",
+    "meaning_en": "Himself",
+    "phonetic_cs": "ton",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ตน"
+    ]
+  },
+  {
+    "thai": "รวม",
+    "meaning_en": "together",
+    "phonetic_cs": "ruam",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "รวม"
+    ]
+  },
+  {
+    "thai": "เริ่ม",
+    "meaning_en": "start",
+    "phonetic_cs": "röm",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เริ่ม"
+    ]
+  },
+  {
+    "thai": "สาว",
+    "meaning_en": "girl",
+    "phonetic_cs": "sáu",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "สาว"
+    ]
+  },
+  {
+    "thai": "เพื่อน",
+    "meaning_en": "friend",
+    "phonetic_cs": "phúan",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "เพื่อน"
+    ]
+  },
+  {
+    "thai": "บุคคล",
+    "meaning_en": "person",
+    "phonetic_cs": "bukkhon",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "บุค",
+      "คล"
+    ]
+  },
+  {
+    "thai": "ถาม",
+    "meaning_en": "ask",
+    "phonetic_cs": "thám",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ถาม"
+    ]
+  },
+  {
+    "thai": "ครับ",
+    "meaning_en": "yes",
+    "phonetic_cs": "khrap",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "ครับ"
+    ]
+  },
+  {
+    "thai": "บ้าง",
+    "meaning_en": "some",
+    "phonetic_cs": "báng",
+    "method_used": "rules",
+    "syllable_breakdown": [
+      "บ้าง"
+    ]
+  }
+]

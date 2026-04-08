@@ -25,3 +25,9 @@
 
 ## Unconfirmed exceptions (< 3 occurrences)
 The majority of the training set consists of words appearing 1 or 2 times. They fail the strict 3-example threshold for exceptions. They are mapped into the lookup table instead.
+
+## Structural and Pattern Clarifications
+- **Mai taikhu (็)**: Treated as a vowel-shortening marker; discarded explicitly during parsing to avoid generating invalid output markers.
+- **Leading ห suppression**: Orthographic tone modifier removed directly during parsing if followed by `ง`, `ญ`, `น`, `ม`, `ย`, `ร`, `ล`, or `ว`.
+- **Silent initial อ**: Avoids emitting `ó` if followed by a vowel, matching phonetic pronunciation instead of orthographic rendering.
+- **Compound เ-า vs. เอา**: Both now correctly parse directly as `ao` due to syllable-level normalization.

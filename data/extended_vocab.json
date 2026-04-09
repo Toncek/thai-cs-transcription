@@ -1,0 +1,1802 @@
+[
+  {
+    "thai": "พิจารณา",
+    "meaning_en": "",
+    "rank": 201,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อำนาจ",
+    "meaning_en": "",
+    "rank": 202,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รัก",
+    "meaning_en": "",
+    "rank": 203,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "วันที่",
+    "meaning_en": "",
+    "rank": 204,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ภาพ",
+    "meaning_en": "",
+    "rank": 205,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ค่า",
+    "meaning_en": "",
+    "rank": 207,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ผ่าน",
+    "meaning_en": "",
+    "rank": 208,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ห้อง",
+    "meaning_en": "",
+    "rank": 209,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ข้อมูล",
+    "meaning_en": "",
+    "rank": 211,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ยิ่ง",
+    "meaning_en": "",
+    "rank": 212,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ดัง",
+    "meaning_en": "",
+    "rank": 213,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เพิ่ม",
+    "meaning_en": "",
+    "rank": 214,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทรง",
+    "meaning_en": "",
+    "rank": 215,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตั้งแต่",
+    "meaning_en": "",
+    "rank": 216,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "พ่อ",
+    "meaning_en": "",
+    "rank": 217,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ต่อไป",
+    "meaning_en": "",
+    "rank": 218,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สำคัญ",
+    "meaning_en": "",
+    "rank": 219,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เปิด",
+    "meaning_en": "",
+    "rank": 220,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เศรษฐกิจ",
+    "meaning_en": "",
+    "rank": 221,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ไหน",
+    "meaning_en": "",
+    "rank": 222,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "กระทำ",
+    "meaning_en": "",
+    "rank": 223,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตั้ง",
+    "meaning_en": "",
+    "rank": 224,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เข้าใจ",
+    "meaning_en": "",
+    "rank": 225,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ภาษา",
+    "meaning_en": "",
+    "rank": 227,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตอน",
+    "meaning_en": "",
+    "rank": 230,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รัฐ",
+    "meaning_en": "",
+    "rank": 232,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "การศึกษา",
+    "meaning_en": "",
+    "rank": 233,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ก็ได้",
+    "meaning_en": "",
+    "rank": 234,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รู้สึก",
+    "meaning_en": "",
+    "rank": 235,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ขนาด",
+    "meaning_en": "",
+    "rank": 236,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เท่านั้น",
+    "meaning_en": "",
+    "rank": 237,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ชื่อ",
+    "meaning_en": "",
+    "rank": 239,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ชาติ",
+    "meaning_en": "",
+    "rank": 241,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ผิด",
+    "meaning_en": "",
+    "rank": 242,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รัฐบาล",
+    "meaning_en": "",
+    "rank": 243,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หลัก",
+    "meaning_en": "",
+    "rank": 244,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รถ",
+    "meaning_en": "",
+    "rank": 246,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "จีน",
+    "meaning_en": "",
+    "rank": 248,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ฟัง",
+    "meaning_en": "",
+    "rank": 249,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เล็ก",
+    "meaning_en": "",
+    "rank": 250,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แต่ละ",
+    "meaning_en": "",
+    "rank": 252,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ละ",
+    "meaning_en": "",
+    "rank": 253,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ต้องการ",
+    "meaning_en": "",
+    "rank": 254,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตาย",
+    "meaning_en": "",
+    "rank": 255,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "มือ",
+    "meaning_en": "",
+    "rank": 256,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หญิง",
+    "meaning_en": "",
+    "rank": 257,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เรียก",
+    "meaning_en": "",
+    "rank": 258,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รูป",
+    "meaning_en": "",
+    "rank": 259,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "บาท",
+    "meaning_en": "",
+    "rank": 260,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประชาชน",
+    "meaning_en": "",
+    "rank": 261,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "มนุษย์",
+    "meaning_en": "",
+    "rank": 263,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ลด",
+    "meaning_en": "",
+    "rank": 265,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ผลิต",
+    "meaning_en": "",
+    "rank": 266,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เล่น",
+    "meaning_en": "",
+    "rank": 267,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หมด",
+    "meaning_en": "",
+    "rank": 269,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "การเมือง",
+    "meaning_en": "",
+    "rank": 270,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เสนอ",
+    "meaning_en": "",
+    "rank": 272,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ปฏิบัติ",
+    "meaning_en": "",
+    "rank": 273,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "พร้อม",
+    "meaning_en": "",
+    "rank": 275,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "มัก",
+    "meaning_en": "",
+    "rank": 276,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รักษา",
+    "meaning_en": "",
+    "rank": 277,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เลือก",
+    "meaning_en": "",
+    "rank": 278,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อ่าน",
+    "meaning_en": "",
+    "rank": 279,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อย่างไร",
+    "meaning_en": "",
+    "rank": 280,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ก็คือ",
+    "meaning_en": "",
+    "rank": 282,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ล่ะ",
+    "meaning_en": "",
+    "rank": 283,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ระยะ",
+    "meaning_en": "",
+    "rank": 284,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ค่ะ",
+    "meaning_en": "",
+    "rank": 285,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตลอด",
+    "meaning_en": "",
+    "rank": 286,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สู่",
+    "meaning_en": "",
+    "rank": 287,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ความคิด",
+    "meaning_en": "",
+    "rank": 288,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หรือไม่",
+    "meaning_en": "",
+    "rank": 289,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หน้าที่",
+    "meaning_en": "",
+    "rank": 290,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ราคา",
+    "meaning_en": "",
+    "rank": 291,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประชุม",
+    "meaning_en": "",
+    "rank": 292,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ผู้หญิง",
+    "meaning_en": "",
+    "rank": 293,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ติด",
+    "meaning_en": "",
+    "rank": 294,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ใส่",
+    "meaning_en": "",
+    "rank": 295,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ศึกษา",
+    "meaning_en": "",
+    "rank": 296,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เดียวกัน",
+    "meaning_en": "",
+    "rank": 299,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สิทธิ",
+    "meaning_en": "",
+    "rank": 300,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประโยชน์",
+    "meaning_en": "",
+    "rank": 301,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "คณะกรรมการ",
+    "meaning_en": "",
+    "rank": 302,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แค่",
+    "meaning_en": "",
+    "rank": 303,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เปลี่ยน",
+    "meaning_en": "",
+    "rank": 304,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ปัจจุบัน",
+    "meaning_en": "",
+    "rank": 305,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เจ้า",
+    "meaning_en": "",
+    "rank": 306,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "พื้นที่",
+    "meaning_en": "",
+    "rank": 307,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "คะ",
+    "meaning_en": "",
+    "rank": 308,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "วิธี",
+    "meaning_en": "",
+    "rank": 309,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตำแหน่ง",
+    "meaning_en": "",
+    "rank": 310,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทำไม",
+    "meaning_en": "",
+    "rank": 311,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประจำ",
+    "meaning_en": "",
+    "rank": 312,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "พยายาม",
+    "meaning_en": "",
+    "rank": 313,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เนื่องจาก",
+    "meaning_en": "",
+    "rank": 314,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "โอกาส",
+    "meaning_en": "",
+    "rank": 315,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แม้",
+    "meaning_en": "",
+    "rank": 316,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อย่า",
+    "meaning_en": "",
+    "rank": 318,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สัมพันธ์",
+    "meaning_en": "",
+    "rank": 319,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประเภท",
+    "meaning_en": "",
+    "rank": 320,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เหตุ",
+    "meaning_en": "",
+    "rank": 321,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "วัฒนธรรม",
+    "meaning_en": "",
+    "rank": 323,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตนเอง",
+    "meaning_en": "",
+    "rank": 324,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "นั่น",
+    "meaning_en": "",
+    "rank": 325,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สัก",
+    "meaning_en": "",
+    "rank": 326,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สินค้า",
+    "meaning_en": "",
+    "rank": 327,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เดิม",
+    "meaning_en": "",
+    "rank": 328,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "จำเป็น",
+    "meaning_en": "",
+    "rank": 329,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เปลี่ยนแปลง",
+    "meaning_en": "",
+    "rank": 330,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ถือ",
+    "meaning_en": "",
+    "rank": 331,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เล่า",
+    "meaning_en": "",
+    "rank": 332,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประกอบ",
+    "meaning_en": "",
+    "rank": 333,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ชนิด",
+    "meaning_en": "",
+    "rank": 334,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "กระทรวง",
+    "meaning_en": "",
+    "rank": 335,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ปรากฏ",
+    "meaning_en": "",
+    "rank": 336,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แล้วก็",
+    "meaning_en": "",
+    "rank": 337,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ชาย",
+    "meaning_en": "",
+    "rank": 338,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ดำเนินการ",
+    "meaning_en": "",
+    "rank": 339,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "บริษัท",
+    "meaning_en": "",
+    "rank": 341,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทั้งหมด",
+    "meaning_en": "",
+    "rank": 345,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เกิน",
+    "meaning_en": "",
+    "rank": 346,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รู้จัก",
+    "meaning_en": "",
+    "rank": 348,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "โดยเฉพาะ",
+    "meaning_en": "",
+    "rank": 350,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ร้าน",
+    "meaning_en": "",
+    "rank": 352,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "บริการ",
+    "meaning_en": "",
+    "rank": 353,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทราบ",
+    "meaning_en": "",
+    "rank": 354,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประมาณ",
+    "meaning_en": "",
+    "rank": 355,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "จุด",
+    "meaning_en": "",
+    "rank": 356,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ง่าย",
+    "meaning_en": "",
+    "rank": 357,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "โครงการ",
+    "meaning_en": "",
+    "rank": 358,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตัวอย่าง",
+    "meaning_en": "",
+    "rank": 359,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ข้าง",
+    "meaning_en": "",
+    "rank": 360,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ภาค",
+    "meaning_en": "",
+    "rank": 361,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เรียกว่า",
+    "meaning_en": "",
+    "rank": 362,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หรอก",
+    "meaning_en": "",
+    "rank": 364,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "โรค",
+    "meaning_en": "",
+    "rank": 365,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อาการ",
+    "meaning_en": "",
+    "rank": 366,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อายุ",
+    "meaning_en": "",
+    "rank": 367,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เหล่านี้",
+    "meaning_en": "",
+    "rank": 368,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แก",
+    "meaning_en": "",
+    "rank": 370,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แตกต่าง",
+    "meaning_en": "",
+    "rank": 371,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "วิธีการ",
+    "meaning_en": "",
+    "rank": 372,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "น้อง",
+    "meaning_en": "",
+    "rank": 373,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ความรู้สึก",
+    "meaning_en": "",
+    "rank": 375,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แทน",
+    "meaning_en": "",
+    "rank": 376,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ที่อยู่",
+    "meaning_en": "",
+    "rank": 377,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เชื่อ",
+    "meaning_en": "",
+    "rank": 378,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ล้าน",
+    "meaning_en": "",
+    "rank": 379,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ราชการ",
+    "meaning_en": "",
+    "rank": 381,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ไหม",
+    "meaning_en": "",
+    "rank": 383,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เดินทาง",
+    "meaning_en": "",
+    "rank": 384,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "คณะ",
+    "meaning_en": "",
+    "rank": 387,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สภา",
+    "meaning_en": "",
+    "rank": 388,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สภาพ",
+    "meaning_en": "",
+    "rank": 389,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "พรรค",
+    "meaning_en": "",
+    "rank": 391,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประกาศ",
+    "meaning_en": "",
+    "rank": 393,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "นาง",
+    "meaning_en": "",
+    "rank": 394,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หัว",
+    "meaning_en": "",
+    "rank": 395,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "กลาง",
+    "meaning_en": "",
+    "rank": 396,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แรง",
+    "meaning_en": "",
+    "rank": 397,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "คู่",
+    "meaning_en": "",
+    "rank": 398,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตลาด",
+    "meaning_en": "",
+    "rank": 399,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "กลายเป็น",
+    "meaning_en": "",
+    "rank": 400,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "วิจัย",
+    "meaning_en": "",
+    "rank": 402,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แนว",
+    "meaning_en": "",
+    "rank": 403,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ข้าว",
+    "meaning_en": "",
+    "rank": 404,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หัน",
+    "meaning_en": "",
+    "rank": 405,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ไม่ว่า",
+    "meaning_en": "",
+    "rank": 406,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เฉพาะ",
+    "meaning_en": "",
+    "rank": 407,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ยก",
+    "meaning_en": "",
+    "rank": 408,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อาศัย",
+    "meaning_en": "",
+    "rank": 409,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ย่อม",
+    "meaning_en": "",
+    "rank": 410,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "นโยบาย",
+    "meaning_en": "",
+    "rank": 413,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "น่ะ",
+    "meaning_en": "",
+    "rank": 414,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เท่า",
+    "meaning_en": "",
+    "rank": 415,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ความรู้",
+    "meaning_en": "",
+    "rank": 416,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ยอม",
+    "meaning_en": "",
+    "rank": 417,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ควบคุม",
+    "meaning_en": "",
+    "rank": 419,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ธรรมชาติ",
+    "meaning_en": "",
+    "rank": 420,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "วาง",
+    "meaning_en": "",
+    "rank": 421,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ส่วนใหญ่",
+    "meaning_en": "",
+    "rank": 422,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประการ",
+    "meaning_en": "",
+    "rank": 425,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "บริหาร",
+    "meaning_en": "",
+    "rank": 426,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สัญญา",
+    "meaning_en": "",
+    "rank": 427,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สมาชิก",
+    "meaning_en": "",
+    "rank": 428,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "นิยม",
+    "meaning_en": "",
+    "rank": 429,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รอ",
+    "meaning_en": "",
+    "rank": 430,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หลังจาก",
+    "meaning_en": "",
+    "rank": 431,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ต้น",
+    "meaning_en": "",
+    "rank": 432,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สิ",
+    "meaning_en": "",
+    "rank": 433,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อนุญาต",
+    "meaning_en": "",
+    "rank": 434,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ร่าง",
+    "meaning_en": "",
+    "rank": 435,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สอน",
+    "meaning_en": "",
+    "rank": 436,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ญี่ปุ่น",
+    "meaning_en": "",
+    "rank": 437,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทางการ",
+    "meaning_en": "",
+    "rank": 438,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เปล่า",
+    "meaning_en": "",
+    "rank": 439,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ใกล้",
+    "meaning_en": "",
+    "rank": 440,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แก้ไข",
+    "meaning_en": "",
+    "rank": 442,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เพลง",
+    "meaning_en": "",
+    "rank": 443,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "พิเศษ",
+    "meaning_en": "",
+    "rank": 444,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "จัดการ",
+    "meaning_en": "",
+    "rank": 445,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ปาก",
+    "meaning_en": "",
+    "rank": 446,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เป็นต้น",
+    "meaning_en": "",
+    "rank": 447,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ความหมาย",
+    "meaning_en": "",
+    "rank": 448,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "บริเวณ",
+    "meaning_en": "",
+    "rank": 449,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทั้งนี้",
+    "meaning_en": "",
+    "rank": 451,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ยุค",
+    "meaning_en": "",
+    "rank": 452,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สัตว์",
+    "meaning_en": "",
+    "rank": 453,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "บท",
+    "meaning_en": "",
+    "rank": 454,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รวมทั้ง",
+    "meaning_en": "",
+    "rank": 455,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เขต",
+    "meaning_en": "",
+    "rank": 456,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ดูแล",
+    "meaning_en": "",
+    "rank": 457,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หาย",
+    "meaning_en": "",
+    "rank": 458,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "นอก",
+    "meaning_en": "",
+    "rank": 459,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ไม้",
+    "meaning_en": "",
+    "rank": 460,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "บังคับ",
+    "meaning_en": "",
+    "rank": 461,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สาย",
+    "meaning_en": "",
+    "rank": 463,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อัตรา",
+    "meaning_en": "",
+    "rank": 464,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ได้แก่",
+    "meaning_en": "",
+    "rank": 465,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เชิง",
+    "meaning_en": "",
+    "rank": 466,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ตรวจ",
+    "meaning_en": "",
+    "rank": 467,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สำนักงาน",
+    "meaning_en": "",
+    "rank": 469,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "จบ",
+    "meaning_en": "",
+    "rank": 470,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สัมภาษณ์",
+    "meaning_en": "",
+    "rank": 471,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทันที",
+    "meaning_en": "",
+    "rank": 472,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เจอ",
+    "meaning_en": "",
+    "rank": 473,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ยอมรับ",
+    "meaning_en": "",
+    "rank": 474,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เจ้าของ",
+    "meaning_en": "",
+    "rank": 475,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ผู้ชาย",
+    "meaning_en": "",
+    "rank": 476,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "นอกจาก",
+    "meaning_en": "",
+    "rank": 477,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ชุมชน",
+    "meaning_en": "",
+    "rank": 478,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทั่ว",
+    "meaning_en": "",
+    "rank": 479,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ขาด",
+    "meaning_en": "",
+    "rank": 480,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ยังไง",
+    "meaning_en": "",
+    "rank": 481,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ไง",
+    "meaning_en": "",
+    "rank": 483,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เจ้าหน้าที่",
+    "meaning_en": "",
+    "rank": 485,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รายงาน",
+    "meaning_en": "",
+    "rank": 486,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ข่าว",
+    "meaning_en": "",
+    "rank": 487,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ฉบับ",
+    "meaning_en": "",
+    "rank": 488,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ฐานะ",
+    "meaning_en": "",
+    "rank": 489,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "มิ",
+    "meaning_en": "",
+    "rank": 490,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สถาบัน",
+    "meaning_en": "",
+    "rank": 491,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประธาน",
+    "meaning_en": "",
+    "rank": 492,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ปรับ",
+    "meaning_en": "",
+    "rank": 493,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สนับสนุน",
+    "meaning_en": "",
+    "rank": 494,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "โต",
+    "meaning_en": "",
+    "rank": 495,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เกี่ยวข้อง",
+    "meaning_en": "",
+    "rank": 496,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แพทย์",
+    "meaning_en": "",
+    "rank": 497,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ดังนี้",
+    "meaning_en": "",
+    "rank": 498,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หล่อน",
+    "meaning_en": "",
+    "rank": 500,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เครื่อง",
+    "meaning_en": "",
+    "rank": 502,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แก้",
+    "meaning_en": "",
+    "rank": 503,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทหาร",
+    "meaning_en": "",
+    "rank": 504,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เหลือ",
+    "meaning_en": "",
+    "rank": 505,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ระเบียบ",
+    "meaning_en": "",
+    "rank": 506,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "วิเคราะห์",
+    "meaning_en": "",
+    "rank": 507,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แดง",
+    "meaning_en": "",
+    "rank": 508,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อารมณ์",
+    "meaning_en": "",
+    "rank": 509,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "จิต",
+    "meaning_en": "",
+    "rank": 510,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ช่วยเหลือ",
+    "meaning_en": "",
+    "rank": 511,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ยังคง",
+    "meaning_en": "",
+    "rank": 512,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รีบ",
+    "meaning_en": "",
+    "rank": 513,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ปล่อย",
+    "meaning_en": "",
+    "rank": 514,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ขาว",
+    "meaning_en": "",
+    "rank": 515,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เหตุผล",
+    "meaning_en": "",
+    "rank": 516,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ต่างประเทศ",
+    "meaning_en": "",
+    "rank": 518,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สั่ง",
+    "meaning_en": "",
+    "rank": 519,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "มิได้",
+    "meaning_en": "",
+    "rank": 520,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ร้อน",
+    "meaning_en": "",
+    "rank": 521,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แบ่ง",
+    "meaning_en": "",
+    "rank": 523,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ปกครอง",
+    "meaning_en": "",
+    "rank": 524,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เน้น",
+    "meaning_en": "",
+    "rank": 525,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ถือว่า",
+    "meaning_en": "",
+    "rank": 526,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ประตู",
+    "meaning_en": "",
+    "rank": 527,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "รูปแบบ",
+    "meaning_en": "",
+    "rank": 528,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ความสำคัญ",
+    "meaning_en": "",
+    "rank": 529,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เรือ",
+    "meaning_en": "",
+    "rank": 530,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หมายถึง",
+    "meaning_en": "",
+    "rank": 531,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "เต็ม",
+    "meaning_en": "",
+    "rank": 532,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ธุรกิจ",
+    "meaning_en": "",
+    "rank": 533,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ชัดเจน",
+    "meaning_en": "",
+    "rank": 534,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "หยุด",
+    "meaning_en": "",
+    "rank": 535,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อังกฤษ",
+    "meaning_en": "",
+    "rank": 537,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "โอ",
+    "meaning_en": "",
+    "rank": 538,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แยก",
+    "meaning_en": "",
+    "rank": 539,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ร่างกาย",
+    "meaning_en": "",
+    "rank": 540,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สนใจ",
+    "meaning_en": "",
+    "rank": 542,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "อาจารย์",
+    "meaning_en": "",
+    "rank": 543,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ทั่วไป",
+    "meaning_en": "",
+    "rank": 544,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "คุย",
+    "meaning_en": "",
+    "rank": 545,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ต่ำ",
+    "meaning_en": "",
+    "rank": 547,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ความผิด",
+    "meaning_en": "",
+    "rank": 548,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "พัก",
+    "meaning_en": "",
+    "rank": 550,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ปิด",
+    "meaning_en": "",
+    "rank": 552,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สุดท้าย",
+    "meaning_en": "",
+    "rank": 553,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "ต่อมา",
+    "meaning_en": "",
+    "rank": 554,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "จำ",
+    "meaning_en": "",
+    "rank": 555,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "มากมาย",
+    "meaning_en": "",
+    "rank": 556,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "สาร",
+    "meaning_en": "",
+    "rank": 557,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  },
+  {
+    "thai": "แรงงาน",
+    "meaning_en": "",
+    "rank": 558,
+    "source_url": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+  }
+]

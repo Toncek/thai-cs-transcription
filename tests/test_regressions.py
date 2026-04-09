@@ -12,20 +12,27 @@ def test_regression_cases():
         cases = json.load(f)
 
     expected_outputs = {
-        "เล็ก": "lék",
-        "เป็น": "pén",
-        "เห็น": "hén",
+        "เล็ก": "lek",
+        "เป็น": "pen",
+        "เห็น": "hen",
         "หิว": "hiu",
         "ใหญ่": "jaj",
         "ใหม่": "maj",
         "อะไร": "araj",
         "เก่า": "kao",
         "เอา": "ao",
-        "เงิน": "ngön",
+        "เงิน": "gön",
         "อร่อย": "arój",
         "อย่างไร": "jángraj",
         "อ่าน": "án",
-        "ที่นั่น": "thínan"
+        "ที่นั่น": "týnan",
+        "ระบบ": "rabob",
+        "เสีย": "sia",
+        "ไทย": "taj",
+        "คือ": "khü",
+        "ทำให้": "tamhaj",
+        "กฎหมาย": "kotmáj",
+        "ทำงาน": "tamgán"
     }
 
     for case in cases:

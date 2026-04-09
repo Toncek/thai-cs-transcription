@@ -41,13 +41,13 @@ def _log_unknown(char):
             f.write(f"- `{char}`\n")
 
 LEADING_VOWELS = set("เแโใไ")
-FOLLOWING_VOWELS = set("าิีึืุู็ั")
+FOLLOWING_VOWELS = set("าิีึืุู็ัำ")
 TONE_MARKS = set("่้๊๋")
 SILENT_MARK = "์"
 
 CONSONANTS = set([chr(i) for i in range(ord('ก'), ord('ฮ') + 1)])
 
-ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúúůřěščžöABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,")
+ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,")
 
 def parse_syllables(word):
     syllables = []
@@ -81,7 +81,7 @@ def parse_syllables(word):
             i += 1
 
         # 4. Final consonant
-        if i < length and word[i] in CONSONANTS:
+        if i < length and word[i] in CONSONANTS and word[i] != 'ห':
             # If the next character is a consonant or the end of string, this is a final.
             if i + 1 == length or word[i+1] in CONSONANTS or word[i+1] in LEADING_VOWELS:
                 syllable += word[i]
@@ -236,10 +236,19 @@ def transcribe(thai_word, rules):
                     clean_syl = clean_syl.replace('อ', '', 1)
 
             final_char = None
-            if len(cons) > 1 and cons[-1] != initial_char and cons[-1] != 'อ':
-                last_c_idx = clean_syl.rfind(cons[-1])
-                if last_c_idx == len(clean_syl) - 1 or len(cons) == 2:
-                    final_char = cons[-1]
+            if len(cons) > 1 and cons[-1] != 'อ':
+                # Check if it's part of a compound vowel like เ-ีย, ัว
+                is_compound_vowel_part = False
+                if cons[-1] == 'ย' and 'เ' in clean_syl and 'ี' in clean_syl:
+                    is_compound_vowel_part = True
+                elif cons[-1] == 'ว' and 'ั' in clean_syl:
+                    is_compound_vowel_part = True
+
+                if not is_compound_vowel_part:
+                    last_c_idx = clean_syl.rfind(cons[-1])
+                    if last_c_idx == len(clean_syl) - 1 or len(cons) == 2:
+                        if cons[-1] != initial_char or clean_syl.count(cons[-1]) > 1:
+                            final_char = cons[-1]
 
             v_str = clean_syl.replace(initial_char, '', 1)
             if final_char:
@@ -294,7 +303,10 @@ def transcribe(thai_word, rules):
                 if len(v_snd) > 1:
                     v_snd = v_snd[1:]
 
-
+            if '็' in syllable:
+                short_map = {'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u', 'ý': 'y'}
+                for long_v, short_v in short_map.items():
+                    v_snd = v_snd.replace(long_v, short_v)
 
             # Apply Czech-specific y/ý normalization after d, t, n, l
             # i -> y, í -> ý
@@ -307,10 +319,21 @@ def transcribe(thai_word, rules):
             out_word += prefix + ini_str + v_snd
             
             if final_char:
-                if final_char in finals:
-                    out_word += finals[final_char]
+                if final_char == initial_char and v_snd == "o" and not any(c in v_str for c in vowels):
+                    # Double consonant rule: e.g. บบ -> bob (use initial mapping for both)
+                    if final_char in initials:
+                        out_word += initials[final_char]
+                    else:
+                        out_word += "?"
+                        _log_unknown(final_char)
+                elif final_char in finals:
+                    final_snd = finals[final_char]
+                    if not (v_snd.endswith("j") and final_snd == "j"):
+                        out_word += final_snd
                 elif final_char in initials:
-                    out_word += initials[final_char]
+                    final_snd = initials[final_char]
+                    if not (v_snd.endswith("j") and final_snd == "j"):
+                        out_word += final_snd
                 else:
                     out_word += "?"
                     _log_unknown(final_char)

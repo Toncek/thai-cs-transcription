@@ -1,8 +1,8 @@
 | Thai | English | Czech phonetic | Method |
 |------|---------|----------------|--------|
-| ที่ | at | thí | rules |
+| ที่ | at | tý | rules |
 | การ | action | kán | rules |
-| เป็น | is | pén | rules |
+| เป็น | is | pen | rules |
 | ใน | in | naj | lookup |
 | ของ | of | khóng | rules |
 | มี | have | mí | lookup |
@@ -42,7 +42,7 @@
 | เรื่อง | subject | rúang | rules |
 | เรา | we | rao | lookup |
 | ยัง | not yet | jang | rules |
-| ทำ | do | tham | rules |
+| ทำ | do | tam | rules |
 | เพื่อ | to | phúa | rules |
 | ผม | hair | phom | lookup |
 | อีก | more | ík | rules |
@@ -55,19 +55,19 @@
 | ออก | leave | aok | rules |
 | ฉัน | I | čan | rules |
 | เกิด | happen | köt | rules |
-| คือ | is | khúó | rules |
-| เห็น | see | hén | rules |
+| คือ | is | khü | rules |
+| เห็น | see | hen | rules |
 | จึง | therefore | džung | lookup |
-| ทำให้ | make | thamhaj | rules |
+| ทำให้ | make | tamhaj | rules |
 | กว่า | than | káu | rules |
-| ไทย | Thai | thajj | rules |
+| ไทย | Thai | taj | rules |
 | ไว้ | hold | vaj | rules |
-| ตัว | one | tau | rules |
+| ตัว | one | túa | rules |
 | ปี | year | pí | rules |
 | เธอ | you | thé | lookup |
 | คุณ | you | khun | lookup |
 | ต่อ | continue | tó | rules |
-| ทั้ง | both | thang | rules |
+| ทั้ง | both | tang | rules |
 | มัน | it | man | lookup |
 | เลย | at all | léj | rules |
 | ถ้า | if | thá | rules |
@@ -78,9 +78,9 @@
 | ส่วน | part | suan | rules |
 | ประเทศ | country | prathét | lookup |
 | อาจ | might | át | rules |
-| แบบ | type | béb | rules |
+| แบบ | type | bép | rules |
 | ถูก | cheap | thúk | lookup |
-| ทุก | each | thuk | rules |
+| ทุก | each | tuk | rules |
 | วัน | day | van | lookup |
 | ก่อน | before | kón | rules |
 | เช่น | such as | čén | rules |
@@ -91,7 +91,7 @@
 | เอา | take | ao | rules |
 | สอง | two | sóng | lookup |
 | นำ | lead | nam | rules |
-| งาน | work | ngán | rules |
+| งาน | work | gán | rules |
 | สามารถ | can | sámántha | rules |
 | นาย | Mr. | náj | rules |
 | นะ | Yes. | na | rules |
@@ -104,7 +104,7 @@
 | จน | until | džon | rules |
 | ด้าน | side | dán | rules |
 | คิด | think | khyd | lookup |
-| เด็ก | child | dék | rules |
+| เด็ก | child | dek | rules |
 | ชีวิต | life | čívit | rules |
 | สิ่ง | thing | sing | rules |
 | พระ | monk | phona | rules |
@@ -124,7 +124,7 @@
 | คำ | word | kham | rules |
 | อยาก | want | ják | lookup |
 | ใด | any | daj | lookup |
-| เสียง | sound | síjang | rules |
+| เสียง | sound | siang | rules |
 | คง | probably | khong | rules |
 | มอง | look | móng | rules |
 | ระหว่าง | between | raváng | rules |
@@ -136,25 +136,25 @@
 | แสดง | show | sédng | rules |
 | กำลัง | energy | kamlang | rules |
 | สร้าง | build | sráng | rules |
-| ท่าน | Sir | thán | rules |
-| เงิน | money | ngön | rules |
+| ท่าน | Sir | tán | rules |
+| เงิน | money | gön | rules |
 | โลก | word | lók | lookup |
 | ช่วย | help | čuaj | rules |
 | กำหนด | set | kamnot | rules |
 | จริง | TRUE | džring | rules |
 | ขอ | please | khó | lookup |
-| ทำงาน | work | thamngán | rules |
-| ระบบ | system | rabb | rules |
+| ทำงาน | work | tamgán | rules |
+| ระบบ | system | rabob | rules |
 | ใหญ่ | big | jaj | rules |
 | ลูก | child | lúk | lookup |
 | เอง | myself | éng | rules |
 | อัน | which | an | rules |
 | พอ | enough | phó | lookup |
-| ที่สุด | the most | thísut | rules |
+| ที่สุด | the most | týsut | rules |
 | แม่ | mother | mé | rules |
 | พบ | meet | phop | rules |
 | บน | on | bon | lookup |
-| เสีย | broken | séíj | rules |
+| เสีย | broken | sia | rules |
 | แก่ | to | ké | rules |
 | ควร | should | khuan | rules |
 | เมือง | city | múang | lookup |
@@ -171,24 +171,24 @@
 | สูง | high | súng | lookup |
 | กิน | eat | kin | rules |
 | ส่ง | send | song | rules |
-| เดียว | single | dýjau | rules |
+| เดียว | single | dyau | rules |
 | แรก | first | rék | rules |
 | กรณี | case | konný | rules |
 | ระดับ | level | radap | rules |
-| ตัวเอง | myself | tauéng | rules |
-| กฎหมาย | law | kdhmáj | rules |
+| ตัวเอง | myself | túaéng | rules |
+| กฎหมาย | law | kotmáj | rules |
 | กล่าว | say | kláu | rules |
 | อาหาร | food | áhán | rules |
-| เกี่ยวกับ | about | kíjaukap | rules |
+| เกี่ยวกับ | about | kiaukap | rules |
 | ดังกล่าว | such | dangkláu | rules |
 | นัก | student | nak | lookup |
 | จัด | Arrange | džat | lookup |
 | ช่วง | range | čuang | rules |
 | ฝ่าย | cotton | fáj | rules |
-| เพียง | just | phíjang | rules |
+| เพียง | just | phiang | rules |
 | ลักษณะ | nature | laksona | rules |
 | หลัง | behind | lang | lookup |
-| จำนวน | quantity | džamnuan | rules |
+| จำนวน | quantity | džamnvon | rules |
 | ข้อ | clause | khó | rules |
 | พวก | guys | phuak | rules |
 | ตน | Himself | ton | rules |

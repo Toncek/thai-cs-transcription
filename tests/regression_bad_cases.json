@@ -1,86 +1,107 @@
 [
-  {
-    "thai": "เล็ก",
-    "current_output": "lé?k",
-    "expected_behavior_note": "mai taikhu shortens vowel, should output lék without question mark",
-    "failure_type": "mai_taikhu"
-  },
-  {
-    "thai": "เป็น",
-    "current_output": "pé?n",
-    "expected_behavior_note": "mai taikhu shortens vowel, should output pén without question mark",
-    "failure_type": "mai_taikhu"
-  },
-  {
-    "thai": "เห็น",
-    "current_output": "néh?",
-    "expected_behavior_note": "mai taikhu shortens vowel, should output hén without question mark",
-    "failure_type": "mai_taikhu"
-  },
-  {
-    "thai": "หิว",
-    "current_output": "vhi",
-    "expected_behavior_note": "ห is just a leading consonant here, should output hiu",
-    "failure_type": "silent_leading_ho_hip"
-  },
-  {
-    "thai": "ใหญ่",
-    "current_output": "jajh",
-    "expected_behavior_note": "ห acts as silent tone carrier, should not emit h",
-    "failure_type": "silent_leading_ho_hip"
-  },
-  {
-    "thai": "ใหม่",
-    "current_output": "majh",
-    "expected_behavior_note": "ห acts as silent tone carrier, should not emit h",
-    "failure_type": "silent_leading_ho_hip"
-  },
-  {
-    "thai": "อะไร",
-    "current_output": "óaraj",
-    "expected_behavior_note": "อ is silent carrier, should emit araj",
-    "failure_type": "initial_o_ang"
-  },
-  {
-    "thai": "เก่า",
-    "current_output": "kéá",
-    "expected_behavior_note": "should emit kao",
-    "failure_type": "compound_vowel"
-  },
-  {
-    "thai": "เอา",
-    "current_output": "éóá",
-    "expected_behavior_note": "should emit ao",
-    "failure_type": "compound_vowel"
-  },
-  {
-    "thai": "เงิน",
-    "current_output": "ngéin",
-    "expected_behavior_note": "should emit ngön/ngün or similar natural Czech vowel",
-    "failure_type": "compound_vowel"
-  },
-  {
-    "thai": "อร่อย",
-    "current_output": "rój",
-    "expected_behavior_note": "initial a is unwritten but pronounced",
-    "failure_type": "initial_o_ang"
-  },
-  {
-    "thai": "อย่างไร",
-    "current_output": "jóángraj",
-    "expected_behavior_note": "silent อ carrier, should emit jángraj",
-    "failure_type": "initial_o_ang"
-  },
-  {
-    "thai": "อ่าน",
-    "current_output": "nóá",
-    "expected_behavior_note": "should emit án",
-    "failure_type": "initial_o_ang"
-  },
-  {
-    "thai": "ที่นั่น",
-    "current_output": "thý nan",
-    "expected_behavior_note": "should output thý nan naturally, without awkward spacing if it's one word",
-    "failure_type": "normalization"
-  }
+    {
+        "thai": "เล็ก",
+        "current_output": "lé?k",
+        "expected_behavior_note": "mai taikhu shortens vowel, should output lék without question mark",
+        "failure_type": "mai_taikhu"
+    },
+    {
+        "thai": "เป็น",
+        "current_output": "pé?n",
+        "expected_behavior_note": "mai taikhu shortens vowel, should output pén without question mark",
+        "failure_type": "mai_taikhu"
+    },
+    {
+        "thai": "เห็น",
+        "current_output": "néh?",
+        "expected_behavior_note": "mai taikhu shortens vowel, should output hén without question mark",
+        "failure_type": "mai_taikhu"
+    },
+    {
+        "thai": "หิว",
+        "current_output": "vhi",
+        "expected_behavior_note": "ห is just a leading consonant here, should output hiu",
+        "failure_type": "silent_leading_ho_hip"
+    },
+    {
+        "thai": "ใหญ่",
+        "current_output": "jajh",
+        "expected_behavior_note": "ห acts as silent tone carrier, should not emit h",
+        "failure_type": "silent_leading_ho_hip"
+    },
+    {
+        "thai": "ใหม่",
+        "current_output": "majh",
+        "expected_behavior_note": "ห acts as silent tone carrier, should not emit h",
+        "failure_type": "silent_leading_ho_hip"
+    },
+    {
+        "thai": "อะไร",
+        "current_output": "óaraj",
+        "expected_behavior_note": "อ is silent carrier, should emit araj",
+        "failure_type": "initial_o_ang"
+    },
+    {
+        "thai": "เก่า",
+        "current_output": "kéá",
+        "expected_behavior_note": "should emit kao",
+        "failure_type": "compound_vowel"
+    },
+    {
+        "thai": "เอา",
+        "current_output": "éóá",
+        "expected_behavior_note": "should emit ao",
+        "failure_type": "compound_vowel"
+    },
+    {
+        "thai": "เงิน",
+        "current_output": "ngéin",
+        "expected_behavior_note": "should emit ngön/ngün or similar natural Czech vowel",
+        "failure_type": "compound_vowel"
+    },
+    {
+        "thai": "อร่อย",
+        "current_output": "rój",
+        "expected_behavior_note": "initial a is unwritten but pronounced",
+        "failure_type": "initial_o_ang"
+    },
+    {
+        "thai": "อย่างไร",
+        "current_output": "jóángraj",
+        "expected_behavior_note": "silent อ carrier, should emit jángraj",
+        "failure_type": "initial_o_ang"
+    },
+    {
+        "thai": "อ่าน",
+        "current_output": "nóá",
+        "expected_behavior_note": "should emit án",
+        "failure_type": "initial_o_ang"
+    },
+    {
+        "thai": "ที่นั่น",
+        "current_output": "thý nan",
+        "expected_behavior_note": "should output thý nan naturally, without awkward spacing if it's one word",
+        "failure_type": "normalization"
+    },
+    {
+        "thai": "ระบบ"
+    },
+    {
+        "thai": "เสีย"
+    },
+    {
+        "thai": "ไทย"
+    },
+    {
+        "thai": "คือ"
+    },
+    {
+        "thai": "ทำให้"
+    },
+    {
+        "thai": "กฎหมาย"
+    },
+    {
+        "thai": "ทำงาน"
+    }
 ]

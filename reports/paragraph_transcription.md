@@ -1,0 +1,7 @@
+# Paragraph Transcription
+
+## Thai original
+ประเทศไทย หรือชื่อทางการว่า ราชอาณาจักรไทย เดิมเรียกว่า สยาม (จนถึงวันที่ 24 มิถุนายน พ.ศ. 2482) เป็นประเทศในเอเชียตะวันออกเฉียงใต้แผ่นดินใหญ่ มีพรมแดนทางบกติดกับประเทศพม่าทางทิศตะวันตกและตะวันตกเฉียงเหนือ ประเทศลาวทางทิศตะวันออกและตะวันออกเฉียงเหนือ ประเทศกัมพูชาทางทิศตะวันออกเฉียงใต้ และประเทศมาเลเซียทางทิศใต้ ส่วนทางทะเลเชื่อมกับอ่าวไทย และ ทะเลอันดามัน รวมถึงมีพรมแดนทางทะเลร่วมกับ ประเทศเวียดนาม ประเทศอินโดนีเซีย และประเทศอินเดีย ประเทศไทยมีประชากรเกือบ 66 ล้านคน พื้นที่ประมาณ 513,115 ตารางกิโลเมตร (198,115 ตารางไมล์) และมี กรุงเทพมหานคร เป็นเมืองหลวงและเมืองที่ใหญ่ที่สุด
+
+## Czech phonetic reading
+prathéttaj rúčütángkánvá rátánádžakrataj dömriakvá sjám ?džonthungvantý 24 mithunájn pha.sa. 2482? penprathétnajéčiatavanaokčiangtajphéndynjaj míphrmdéntángboktytkapprathétphámthángtyttavantokletavantokčiangnúa prathétláuthángtyttavanaokletavanaokčiangnúa prathétkamphúčáthángtyttavanaokčiangtaj leprathétmálésiatángtyttaj suantángtaléčúamkapáutaj le thaléandáman ruamthungmíphrmdéntángtaléruamkap prathétviatnám prathétindýnsia leprathétindya prathéttajmíponačákrakúap 66 lánkhon phúntýponamán 513,115 tárángkilómétn ?198,115 tárángmaj? lemí krungtéphmhánkhon penmúang lúanglemúangtýjajtýsut

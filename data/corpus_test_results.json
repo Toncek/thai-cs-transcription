@@ -1,0 +1,4118 @@
+[
+  {
+    "thai": "ชื่อ",
+    "phonetic_cs": "čü",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทางการ",
+    "phonetic_cs": "tángkán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ราชอาณาจักร",
+    "phonetic_cs": "rátánádžakra",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เดิม",
+    "phonetic_cs": "döm",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เรียก",
+    "phonetic_cs": "riak",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สยาม",
+    "phonetic_cs": "sjám",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จนถึง",
+    "phonetic_cs": "džonthung",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วันที่",
+    "phonetic_cs": "vantý",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มิถุนายน",
+    "phonetic_cs": "mithunájn",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เอเชียตะวันออกเฉียงใต้",
+    "phonetic_cs": "éčiatavanaokčiangtaj",
+    "method_used": "rules",
+    "syllable_count": 8,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แผ่นดินใหญ่",
+    "phonetic_cs": "phéndynjaj",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พรมแดน",
+    "phonetic_cs": "phrmdén",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทางบก",
+    "phonetic_cs": "tángbok",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ติดกับ",
+    "phonetic_cs": "tytkap",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พม่า",
+    "phonetic_cs": "phám",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทิศตะวันตก",
+    "phonetic_cs": "tyttavantok",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตะวันตกเฉียงเหนือ",
+    "phonetic_cs": "tavantokčiangnúa",
+    "method_used": "rules",
+    "syllable_count": 6,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ลาว",
+    "phonetic_cs": "láu",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทิศตะวันออก",
+    "phonetic_cs": "tyttavanaok",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตะวันออกเฉียงเหนือ",
+    "phonetic_cs": "tavanaokčiangnúa",
+    "method_used": "rules",
+    "syllable_count": 6,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กัมพูชา",
+    "phonetic_cs": "kamphúčá",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทิศตะวันออกเฉียงใต้",
+    "phonetic_cs": "tyttavanaokčiangtaj",
+    "method_used": "rules",
+    "syllable_count": 7,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มาเลเซีย",
+    "phonetic_cs": "málésia",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทางทิศใต้",
+    "phonetic_cs": "tángtyttaj",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทางทะเล",
+    "phonetic_cs": "tángtalé",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เชื่อม",
+    "phonetic_cs": "čúam",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อ่าวไทย",
+    "phonetic_cs": "áutaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อันดามัน",
+    "phonetic_cs": "andáman",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รวมถึง",
+    "phonetic_cs": "ruamthung",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ร่วมกับ",
+    "phonetic_cs": "ruamkap",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เวียดนาม",
+    "phonetic_cs": "viatnám",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อินโดนีเซีย",
+    "phonetic_cs": "indýnsia",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อินเดีย",
+    "phonetic_cs": "indya",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประชากร",
+    "phonetic_cs": "ponačákra",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เกือบ",
+    "phonetic_cs": "kúap",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ล้าน",
+    "phonetic_cs": "lán",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พื้นที่",
+    "phonetic_cs": "phúntý",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประมาณ",
+    "phonetic_cs": "ponamán",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตารางกิโลเมตร",
+    "phonetic_cs": "tárángkilómétn",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตารางไมล์",
+    "phonetic_cs": "tárángmaj",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กรุงเทพมหานคร",
+    "phonetic_cs": "krungtéphmhánkhon",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หลักฐานทางโบราณคดี",
+    "phonetic_cs": "lakthántángbóránkhít",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชี้",
+    "phonetic_cs": "čí",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มนุษย์",
+    "phonetic_cs": "mnut",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อาศัย",
+    "phonetic_cs": "ásaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปัจจุบัน",
+    "phonetic_cs": "patdžuban",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตั้งแต่",
+    "phonetic_cs": "tangté",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปีก่อน",
+    "phonetic_cs": "píkón",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กลุ่มชาติพันธุ์",
+    "phonetic_cs": "klumčátyphantha",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ดั้งเดิม",
+    "phonetic_cs": "dangdöm",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ได้แก่",
+    "phonetic_cs": "dajké",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มอญ",
+    "phonetic_cs": "món",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เขมร",
+    "phonetic_cs": "khémn",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มลายู",
+    "phonetic_cs": "mánjú",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ขณะที่",
+    "phonetic_cs": "khonatý",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไท",
+    "phonetic_cs": "taj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทฤษฎี",
+    "phonetic_cs": "t?tdý",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": true,
+    "flags": [
+      "unknown_char"
+    ]
+  },
+  {
+    "thai": "แถบ",
+    "phonetic_cs": "thép",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เดียนเบียนฟู",
+    "phonetic_cs": "dyanbianfú",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "คริสต์ศตวรรษ",
+    "phonetic_cs": "khritsatuanrot",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เข้ามา",
+    "phonetic_cs": "khaomá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อาณาเขต",
+    "phonetic_cs": "ánákhét",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แนวคิด",
+    "phonetic_cs": "néukhit",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ถิ่นกำเนิด",
+    "phonetic_cs": "thinkamnöt",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชนชาติ",
+    "phonetic_cs": "čončáty",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยุค",
+    "phonetic_cs": "juk",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประวัติศาสตร์",
+    "phonetic_cs": "ponavatysátta",
+    "method_used": "rules",
+    "syllable_count": 6,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กลาง",
+    "phonetic_cs": "kláng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตั้ง",
+    "phonetic_cs": "tang",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อาณาจักร",
+    "phonetic_cs": "ánádžakra",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สำคัญ",
+    "phonetic_cs": "samkhan",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ล้านนา",
+    "phonetic_cs": "lánná",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ถือเป็น",
+    "phonetic_cs": "thüpen",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จุดเริ่มต้น",
+    "phonetic_cs": "džutrömton",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ก่อตั้ง",
+    "phonetic_cs": "kótang",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รุ่งเรือง",
+    "phonetic_cs": "rungrúang",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กลายเป็น",
+    "phonetic_cs": "klájpen",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อำนาจ",
+    "phonetic_cs": "amnát",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภูมิภาค",
+    "phonetic_cs": "phúmiphák",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แทน",
+    "phonetic_cs": "tén",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จักรวรรดิ",
+    "phonetic_cs": "džakruanrit",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ติดต่อ",
+    "phonetic_cs": "tyttó",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยุโรป",
+    "phonetic_cs": "juróp",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "คณะผู้แทน",
+    "phonetic_cs": "khonaphútén",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "โปรตุเกส",
+    "phonetic_cs": "póntukét",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เดินทาง",
+    "phonetic_cs": "döntáng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มายัง",
+    "phonetic_cs": "májang",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กรุงศรีอยุธยา",
+    "phonetic_cs": "krungsríójutjá",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สูงสุด",
+    "phonetic_cs": "súngsut",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทำลาย",
+    "phonetic_cs": "tamláj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สิ้นเชิง",
+    "phonetic_cs": "sinčöng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ที่สอง",
+    "phonetic_cs": "týtaga",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กองทัพ",
+    "phonetic_cs": "kóngtap",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภายใต้",
+    "phonetic_cs": "phájtaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ราชวงศ์",
+    "phonetic_cs": "rátvong",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "โก้",
+    "phonetic_cs": "kó",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นบ",
+    "phonetic_cs": "nop",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อง",
+    "phonetic_cs": "aga",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ล่มสลาย",
+    "phonetic_cs": "lomsláj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สมเด็จพระเจ้าตากสินมหาราช",
+    "phonetic_cs": "somdetphonadžaotáksinmáhrát",
+    "method_used": "rules",
+    "syllable_count": 9,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แผ่นดิน",
+    "phonetic_cs": "phéndyn",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สถาปนา",
+    "phonetic_cs": "sthápná",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ธนบุรี",
+    "phonetic_cs": "thonburí",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มีอายุ",
+    "phonetic_cs": "míáju",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ก่อนที่",
+    "phonetic_cs": "kóntý",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พระองค์",
+    "phonetic_cs": "phonaga",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สำเร็จโทษ",
+    "phonetic_cs": "samrettót",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บาท",
+    "phonetic_cs": "bát",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สมเด็จ",
+    "phonetic_cs": "somdet",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พระพุทธ",
+    "phonetic_cs": "phonaphuttha",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยอด",
+    "phonetic_cs": "jót",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ฟ้า",
+    "phonetic_cs": "fá",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จุฬา",
+    "phonetic_cs": "džulá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มหาราช",
+    "phonetic_cs": "máhrát",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปฐม",
+    "phonetic_cs": "pthm",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กษัตริย์",
+    "phonetic_cs": "ksatri",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จักรี",
+    "phonetic_cs": "džakrí",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รัตนโกสินทร์",
+    "phonetic_cs": "ratnakósinta",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พร้อม",
+    "phonetic_cs": "phróm",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ย้าย",
+    "phonetic_cs": "jáj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จักรวรรดินิยม",
+    "phonetic_cs": "džakruanritnyjm",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เอเชีย",
+    "phonetic_cs": "éčia",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รัฐ",
+    "phonetic_cs": "rat",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รอดพ้น",
+    "phonetic_cs": "rótphon",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตกเป็น",
+    "phonetic_cs": "tokpen",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อาณานิคม",
+    "phonetic_cs": "ánánykma",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชาติมหาอำนาจ",
+    "phonetic_cs": "čátymháamnát",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แม้",
+    "phonetic_cs": "mé",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยอม",
+    "phonetic_cs": "jóm",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สละ",
+    "phonetic_cs": "sona",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ดินแดน",
+    "phonetic_cs": "dyndén",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สิทธิ",
+    "phonetic_cs": "sitthi",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทางการค้า",
+    "phonetic_cs": "tángkánkhá",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ผ่าน",
+    "phonetic_cs": "phán",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สนธิสัญญา",
+    "phonetic_cs": "sonthisanjá",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เสมอภาค",
+    "phonetic_cs": "sémóphák",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หลายครั้ง",
+    "phonetic_cs": "lájkrang",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "การปกครอง",
+    "phonetic_cs": "kánpkkróng",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เปลี่ยนเป็น",
+    "phonetic_cs": "pélíjnpen",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สมบูรณาญาสิทธิราชย์",
+    "phonetic_cs": "sombúnnájásitthirát",
+    "method_used": "rules",
+    "syllable_count": 8,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ศูนย์",
+    "phonetic_cs": "sún",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รัชสมัย",
+    "phonetic_cs": "ratsmaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว",
+    "phonetic_cs": "phonabátsomdetphonadžundžómkaondžaoójúhúa",
+    "method_used": "rules",
+    "syllable_count": 13,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปรับตัว",
+    "phonetic_cs": "praptúa",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สู่",
+    "phonetic_cs": "sú",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ความสัมพันธ์",
+    "phonetic_cs": "khuaámsamphan",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ระหว่างประเทศ",
+    "phonetic_cs": "ravángponatét",
+    "method_used": "rules",
+    "syllable_count": 6,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ร่วมใน",
+    "phonetic_cs": "ruamnaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สงครามโลกครั้งที่หนึ่ง",
+    "phonetic_cs": "sgkrámlókkrangtýnung",
+    "method_used": "rules",
+    "syllable_count": 6,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ฝ่ายสัมพันธมิตร",
+    "phonetic_cs": "fájsamphanthmitra",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เข้าร่วม",
+    "phonetic_cs": "khaoruam",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ครั้งนี้",
+    "phonetic_cs": "khrangný",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "การตัดสินใจ",
+    "phonetic_cs": "kántatsindžaj",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทางการเมือง",
+    "phonetic_cs": "tángkánmúang",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แก้ไข",
+    "phonetic_cs": "kékhaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ผลกระทบ",
+    "phonetic_cs": "phlkratop",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชาติ",
+    "phonetic_cs": "čáty",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตะวันตก",
+    "phonetic_cs": "tavantok",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เสริม",
+    "phonetic_cs": "sérim",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สถานะ",
+    "phonetic_cs": "sátna",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เท่าเทียม",
+    "phonetic_cs": "taotyam",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มากขึ้น",
+    "phonetic_cs": "mákkhun",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภาษาไทย",
+    "phonetic_cs": "phásátaj",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภาษา",
+    "phonetic_cs": "phásá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ย่อย",
+    "phonetic_cs": "jój",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เชียงแสน",
+    "phonetic_cs": "čiangsén",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กลุ่มย่อย",
+    "phonetic_cs": "klumjój",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตระกูล",
+    "phonetic_cs": "tonakún",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ร้า",
+    "phonetic_cs": "rá",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภาษาราชการ",
+    "phonetic_cs": "phásárátkán",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภาษาประจำชาติ",
+    "phonetic_cs": "phásápradžamčáty",
+    "method_used": "rules",
+    "syllable_count": 7,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "การสันนิษฐาน",
+    "phonetic_cs": "kánsannytthán",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตอน",
+    "phonetic_cs": "tón",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ใต้",
+    "phonetic_cs": "taj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จีน",
+    "phonetic_cs": "džín",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นักภาษาศาสตร์",
+    "phonetic_cs": "nakphásásátta",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บางส่วน",
+    "phonetic_cs": "bángsuan",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เสนอ",
+    "phonetic_cs": "sénó",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "น่าจะ",
+    "phonetic_cs": "nádža",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เชื่อมโยง",
+    "phonetic_cs": "čúamjóng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ออ",
+    "phonetic_cs": "aa",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": [
+      "potential_double_consonant_issue"
+    ]
+  },
+  {
+    "thai": "โต",
+    "phonetic_cs": "tó",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ติก",
+    "phonetic_cs": "tyk",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รนี",
+    "phonetic_cs": "rín",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เซียน",
+    "phonetic_cs": "sian",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภาษาจีน",
+    "phonetic_cs": "phásádžín",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทิเบต",
+    "phonetic_cs": "tybét",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปรากฏ",
+    "phonetic_cs": "prákta",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ครั้งแรก",
+    "phonetic_cs": "khrangrék",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พุทธศักราช",
+    "phonetic_cs": "phutthsakrát",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พ่อขุน",
+    "phonetic_cs": "phókhun",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รามคำแหง",
+    "phonetic_cs": "rámkhamgé",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สากล",
+    "phonetic_cs": "sákla",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ราชการ",
+    "phonetic_cs": "rátkán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มีนาคม",
+    "phonetic_cs": "mínákma",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สำนักงาน",
+    "phonetic_cs": "samnakgán",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ราชบัณฑิตยสภา",
+    "phonetic_cs": "rátbanthitjotphá",
+    "method_used": "rules",
+    "syllable_count": 5,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปฏิรูป",
+    "phonetic_cs": "pitrúp",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เชิง",
+    "phonetic_cs": "čöng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ศึกษา",
+    "phonetic_cs": "suksá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แบ่ง",
+    "phonetic_cs": "béng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทางเหนือ",
+    "phonetic_cs": "tángnúa",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตะวันตกเฉียงใต้",
+    "phonetic_cs": "tavantokčiangtaj",
+    "method_used": "rules",
+    "syllable_count": 6,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ใกล้ชิด",
+    "phonetic_cs": "kajnčit",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "คำเมือง",
+    "phonetic_cs": "khammúang",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไทใหญ่",
+    "phonetic_cs": "tajjaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เป็นต้น",
+    "phonetic_cs": "penton",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จ้วง",
+    "phonetic_cs": "džuang",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เหมา",
+    "phonetic_cs": "mao",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หนาน",
+    "phonetic_cs": "nán",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปู้",
+    "phonetic_cs": "pú",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อี",
+    "phonetic_cs": "í",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไหล",
+    "phonetic_cs": "laj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชนพื้นเมือง",
+    "phonetic_cs": "čonphúnmúang",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บริเวณ",
+    "phonetic_cs": "binvén",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไห",
+    "phonetic_cs": "haj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กวางตุ้ง",
+    "phonetic_cs": "kuaángtung",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กุ้ย",
+    "phonetic_cs": "kuj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "โจว",
+    "phonetic_cs": "džóu",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตลอดจน",
+    "phonetic_cs": "tlótdžon",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยูนนาน",
+    "phonetic_cs": "júnnán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตอนเหนือ",
+    "phonetic_cs": "tónnúa",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สันนิษฐาน",
+    "phonetic_cs": "sannytthán",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จุดกำเนิด",
+    "phonetic_cs": "džutkamnöt",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มาจาก",
+    "phonetic_cs": "mádžák",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ราว",
+    "phonetic_cs": "ráu",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พุทธศตวรรษ",
+    "phonetic_cs": "phutthstvrnsa",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "การอพยพ",
+    "phonetic_cs": "kánaphjp",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ผู้พูด",
+    "phonetic_cs": "phúphút",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นำพา",
+    "phonetic_cs": "namphá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ลงมา",
+    "phonetic_cs": "longmá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชน",
+    "phonetic_cs": "čon",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สืบ",
+    "phonetic_cs": "súp",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ต่อมา",
+    "phonetic_cs": "tómá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อิทธิพล",
+    "phonetic_cs": "itthipla",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อยู่อาศัย",
+    "phonetic_cs": "júásaj",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วรรณกรรม",
+    "phonetic_cs": "vrnnknrom",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": [
+      "potential_double_consonant_issue"
+    ]
+  },
+  {
+    "thai": "สันสกฤต",
+    "phonetic_cs": "sansk?ta",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": true,
+    "flags": [
+      "unknown_char"
+    ]
+  },
+  {
+    "thai": "ภาษาบาลี",
+    "phonetic_cs": "phásábálý",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ข้างต้น",
+    "phonetic_cs": "khángton",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สอดคล้องกัน",
+    "phonetic_cs": "sótkhlóngkan",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ศิลาจารึก",
+    "phonetic_cs": "siládžáruk",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นั่น",
+    "phonetic_cs": "nan",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แยก",
+    "phonetic_cs": "jék",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชัดเจน",
+    "phonetic_cs": "čatdžén",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บ่งบอก",
+    "phonetic_cs": "bongbók",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จารึก",
+    "phonetic_cs": "džáruk",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หน่วย",
+    "phonetic_cs": "nuaj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เสียงพยัญชนะ",
+    "phonetic_cs": "siangphjančona",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เหล่านี้",
+    "phonetic_cs": "laoný",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แตก",
+    "phonetic_cs": "ték",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ต่างกัน",
+    "phonetic_cs": "tángkan",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นอกจากนี้",
+    "phonetic_cs": "nókdžákný",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อธิบาย",
+    "phonetic_cs": "athibáj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เหตุใด",
+    "phonetic_cs": "héutdaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วรรณยุกต์",
+    "phonetic_cs": "vrnnjuk",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รูป",
+    "phonetic_cs": "rúp",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เอก",
+    "phonetic_cs": "ék",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "โท",
+    "phonetic_cs": "tó",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เท่านั้น",
+    "phonetic_cs": "taonan",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เพราะว่า",
+    "phonetic_cs": "phaonavá",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เก่า",
+    "phonetic_cs": "kao",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สามัญ",
+    "phonetic_cs": "sáman",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เขียนรูป",
+    "phonetic_cs": "khianrúp",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พิจารณา",
+    "phonetic_cs": "phidžánná",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รัก",
+    "phonetic_cs": "rak",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภาพ",
+    "phonetic_cs": "pháp",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ค่า",
+    "phonetic_cs": "khá",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ห้อง",
+    "phonetic_cs": "hóng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ข้อมูล",
+    "phonetic_cs": "khómún",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยิ่ง",
+    "phonetic_cs": "jing",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ดัง",
+    "phonetic_cs": "dang",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เพิ่ม",
+    "phonetic_cs": "phöm",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทรง",
+    "phonetic_cs": "trng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พ่อ",
+    "phonetic_cs": "phó",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ต่อไป",
+    "phonetic_cs": "tópaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เปิด",
+    "phonetic_cs": "pöt",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เศรษฐกิจ",
+    "phonetic_cs": "sértthkit",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไหน",
+    "phonetic_cs": "naj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กระทำ",
+    "phonetic_cs": "konatam",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เข้าใจ",
+    "phonetic_cs": "khaodžaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "การศึกษา",
+    "phonetic_cs": "kánsuksá",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ก็ได้",
+    "phonetic_cs": "kadaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รู้สึก",
+    "phonetic_cs": "rúsuk",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ขนาด",
+    "phonetic_cs": "khnát",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ผิด",
+    "phonetic_cs": "phit",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รัฐบาล",
+    "phonetic_cs": "ratbán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หลัก",
+    "phonetic_cs": "lak",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รถ",
+    "phonetic_cs": "rot",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ฟัง",
+    "phonetic_cs": "fang",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เล็ก",
+    "phonetic_cs": "lek",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แต่ละ",
+    "phonetic_cs": "téla",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ละ",
+    "phonetic_cs": "la",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ต้องการ",
+    "phonetic_cs": "tóngkán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตาย",
+    "phonetic_cs": "táj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มือ",
+    "phonetic_cs": "mü",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หญิง",
+    "phonetic_cs": "jing",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประชาชน",
+    "phonetic_cs": "ponačátna",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ลด",
+    "phonetic_cs": "lot",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ผลิต",
+    "phonetic_cs": "phlit",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เล่น",
+    "phonetic_cs": "lén",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หมด",
+    "phonetic_cs": "mot",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "การเมือง",
+    "phonetic_cs": "kánmúang",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปฏิบัติ",
+    "phonetic_cs": "pitbaty",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มัก",
+    "phonetic_cs": "mak",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รักษา",
+    "phonetic_cs": "raksá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เลือก",
+    "phonetic_cs": "lúak",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อ่าน",
+    "phonetic_cs": "án",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อย่างไร",
+    "phonetic_cs": "jángraj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ก็คือ",
+    "phonetic_cs": "kakhü",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ล่ะ",
+    "phonetic_cs": "la",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ระยะ",
+    "phonetic_cs": "raja",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ค่ะ",
+    "phonetic_cs": "kha",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตลอด",
+    "phonetic_cs": "tlót",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ความคิด",
+    "phonetic_cs": "khuaámkhit",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หรือไม่",
+    "phonetic_cs": "rümaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หน้าที่",
+    "phonetic_cs": "nátý",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ราคา",
+    "phonetic_cs": "rákhá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประชุม",
+    "phonetic_cs": "ponačum",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ผู้หญิง",
+    "phonetic_cs": "phújing",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ติด",
+    "phonetic_cs": "tyt",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ใส่",
+    "phonetic_cs": "saj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เดียวกัน",
+    "phonetic_cs": "dyaukan",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประโยชน์",
+    "phonetic_cs": "ponajót",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "คณะกรรมการ",
+    "phonetic_cs": "khonakrnmkán",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แค่",
+    "phonetic_cs": "khé",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เปลี่ยน",
+    "phonetic_cs": "pélíjn",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เจ้า",
+    "phonetic_cs": "džao",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "คะ",
+    "phonetic_cs": "kha",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วิธี",
+    "phonetic_cs": "vithí",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตำแหน่ง",
+    "phonetic_cs": "tamnéng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทำไม",
+    "phonetic_cs": "tammaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประจำ",
+    "phonetic_cs": "ponadžam",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พยายาม",
+    "phonetic_cs": "phájjám",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เนื่องจาก",
+    "phonetic_cs": "núangdžák",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "โอกาส",
+    "phonetic_cs": "kát",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อย่า",
+    "phonetic_cs": "já",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สัมพันธ์",
+    "phonetic_cs": "samphan",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประเภท",
+    "phonetic_cs": "ponaphét",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เหตุ",
+    "phonetic_cs": "héut",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วัฒนธรรม",
+    "phonetic_cs": "vatnthnrom",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตนเอง",
+    "phonetic_cs": "tonéng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สัก",
+    "phonetic_cs": "sak",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สินค้า",
+    "phonetic_cs": "sinkhá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จำเป็น",
+    "phonetic_cs": "džampen",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เปลี่ยนแปลง",
+    "phonetic_cs": "pélíjnpélng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ถือ",
+    "phonetic_cs": "thü",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เล่า",
+    "phonetic_cs": "lao",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประกอบ",
+    "phonetic_cs": "ponakóp",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชนิด",
+    "phonetic_cs": "čnit",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "กระทรวง",
+    "phonetic_cs": "konatruang",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แล้วก็",
+    "phonetic_cs": "léuka",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชาย",
+    "phonetic_cs": "čáj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ดำเนินการ",
+    "phonetic_cs": "damnönkán",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บริษัท",
+    "phonetic_cs": "binsat",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทั้งหมด",
+    "phonetic_cs": "tangmot",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เกิน",
+    "phonetic_cs": "kön",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รู้จัก",
+    "phonetic_cs": "rúdžak",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "โดยเฉพาะ",
+    "phonetic_cs": "dójčaopa",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ร้าน",
+    "phonetic_cs": "rán",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บริการ",
+    "phonetic_cs": "binkán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทราบ",
+    "phonetic_cs": "tráp",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จุด",
+    "phonetic_cs": "džut",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ง่าย",
+    "phonetic_cs": "gáj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "โครงการ",
+    "phonetic_cs": "khórngkán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตัวอย่าง",
+    "phonetic_cs": "túaójáng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ข้าง",
+    "phonetic_cs": "kháng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ภาค",
+    "phonetic_cs": "phák",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เรียกว่า",
+    "phonetic_cs": "riakvá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หรอก",
+    "phonetic_cs": "rók",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "โรค",
+    "phonetic_cs": "rók",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อาการ",
+    "phonetic_cs": "ákán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อายุ",
+    "phonetic_cs": "áju",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แก",
+    "phonetic_cs": "ké",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แตกต่าง",
+    "phonetic_cs": "téktáng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วิธีการ",
+    "phonetic_cs": "vithíkán",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "น้อง",
+    "phonetic_cs": "nóng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ความรู้สึก",
+    "phonetic_cs": "khuaámrúsuk",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ที่อยู่",
+    "phonetic_cs": "týójú",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เชื่อ",
+    "phonetic_cs": "čúa",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไหม",
+    "phonetic_cs": "maj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "คณะ",
+    "phonetic_cs": "khona",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สภา",
+    "phonetic_cs": "sáp",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สภาพ",
+    "phonetic_cs": "spháp",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พรรค",
+    "phonetic_cs": "phrnkha",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": [
+      "potential_double_consonant_issue"
+    ]
+  },
+  {
+    "thai": "ประกาศ",
+    "phonetic_cs": "ponakát",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นาง",
+    "phonetic_cs": "náng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หัว",
+    "phonetic_cs": "húa",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แรง",
+    "phonetic_cs": "réng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "คู่",
+    "phonetic_cs": "khú",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตลาด",
+    "phonetic_cs": "tlát",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วิจัย",
+    "phonetic_cs": "vidžaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แนว",
+    "phonetic_cs": "néu",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ข้าว",
+    "phonetic_cs": "kháu",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หัน",
+    "phonetic_cs": "han",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไม่ว่า",
+    "phonetic_cs": "majáu",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เฉพาะ",
+    "phonetic_cs": "čaopa",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยก",
+    "phonetic_cs": "jok",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ย่อม",
+    "phonetic_cs": "jóm",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นโยบาย",
+    "phonetic_cs": "najóbáj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "น่ะ",
+    "phonetic_cs": "na",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เท่า",
+    "phonetic_cs": "tao",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ความรู้",
+    "phonetic_cs": "khuaámrú",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ควบคุม",
+    "phonetic_cs": "khuapkhum",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ธรรมชาติ",
+    "phonetic_cs": "thrnmátty",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วาง",
+    "phonetic_cs": "váng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ส่วนใหญ่",
+    "phonetic_cs": "suanjaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประการ",
+    "phonetic_cs": "ponakán",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บริหาร",
+    "phonetic_cs": "binhán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สัญญา",
+    "phonetic_cs": "sanjá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สมาชิก",
+    "phonetic_cs": "sámčik",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นิยม",
+    "phonetic_cs": "nyjm",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รอ",
+    "phonetic_cs": "ró",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หลังจาก",
+    "phonetic_cs": "langdžák",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ต้น",
+    "phonetic_cs": "ton",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สิ",
+    "phonetic_cs": "si",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อนุญาต",
+    "phonetic_cs": "anuját",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ร่าง",
+    "phonetic_cs": "ráng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สอน",
+    "phonetic_cs": "són",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ญี่ปุ่น",
+    "phonetic_cs": "jípun",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เปล่า",
+    "phonetic_cs": "paon",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ใกล้",
+    "phonetic_cs": "kajn",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เพลง",
+    "phonetic_cs": "phélng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พิเศษ",
+    "phonetic_cs": "phisét",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จัดการ",
+    "phonetic_cs": "džatkán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปาก",
+    "phonetic_cs": "pák",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ความหมาย",
+    "phonetic_cs": "khuaámmáj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทั้งนี้",
+    "phonetic_cs": "tangný",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สัตว์",
+    "phonetic_cs": "sat",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บท",
+    "phonetic_cs": "bot",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รวมทั้ง",
+    "phonetic_cs": "ruamtang",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เขต",
+    "phonetic_cs": "khét",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ดูแล",
+    "phonetic_cs": "dúlé",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หาย",
+    "phonetic_cs": "háj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นอก",
+    "phonetic_cs": "nók",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไม้",
+    "phonetic_cs": "maj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "บังคับ",
+    "phonetic_cs": "bangkhap",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สาย",
+    "phonetic_cs": "sáj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อัตรา",
+    "phonetic_cs": "atrá",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ตรวจ",
+    "phonetic_cs": "truat",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จบ",
+    "phonetic_cs": "džop",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สัมภาษณ์",
+    "phonetic_cs": "samphát",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทันที",
+    "phonetic_cs": "tantý",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เจอ",
+    "phonetic_cs": "džéó",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยอมรับ",
+    "phonetic_cs": "jómrap",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เจ้าของ",
+    "phonetic_cs": "džaokaga",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ผู้ชาย",
+    "phonetic_cs": "phúčáj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "นอกจาก",
+    "phonetic_cs": "nókdžák",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ชุมชน",
+    "phonetic_cs": "čumčon",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทั่ว",
+    "phonetic_cs": "túa",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ขาด",
+    "phonetic_cs": "khát",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยังไง",
+    "phonetic_cs": "janggaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ไง",
+    "phonetic_cs": "gaj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เจ้าหน้าที่",
+    "phonetic_cs": "džaonátý",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รายงาน",
+    "phonetic_cs": "rájgán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ข่าว",
+    "phonetic_cs": "kháu",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ฉบับ",
+    "phonetic_cs": "čbap",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ฐานะ",
+    "phonetic_cs": "thána",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มิ",
+    "phonetic_cs": "mi",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สถาบัน",
+    "phonetic_cs": "sátban",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประธาน",
+    "phonetic_cs": "ponathán",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปรับ",
+    "phonetic_cs": "prap",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สนับสนุน",
+    "phonetic_cs": "snapsnun",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เกี่ยวข้อง",
+    "phonetic_cs": "kiaukhóng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แพทย์",
+    "phonetic_cs": "phét",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ดังนี้",
+    "phonetic_cs": "dangný",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หล่อน",
+    "phonetic_cs": "lón",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เครื่อง",
+    "phonetic_cs": "khérüng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แก้",
+    "phonetic_cs": "ké",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทหาร",
+    "phonetic_cs": "thán",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เหลือ",
+    "phonetic_cs": "lúa",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ระเบียบ",
+    "phonetic_cs": "rabiap",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "วิเคราะห์",
+    "phonetic_cs": "vikhaona",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แดง",
+    "phonetic_cs": "déng",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อารมณ์",
+    "phonetic_cs": "ánma",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จิต",
+    "phonetic_cs": "džit",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ช่วยเหลือ",
+    "phonetic_cs": "čuajlúa",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ยังคง",
+    "phonetic_cs": "jangkhong",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รีบ",
+    "phonetic_cs": "ríp",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปล่อย",
+    "phonetic_cs": "plój",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ขาว",
+    "phonetic_cs": "kháu",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เหตุผล",
+    "phonetic_cs": "hétuphla",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ต่างประเทศ",
+    "phonetic_cs": "tángponatét",
+    "method_used": "rules",
+    "syllable_count": 4,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สั่ง",
+    "phonetic_cs": "sang",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มิได้",
+    "phonetic_cs": "midaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ร้อน",
+    "phonetic_cs": "rón",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปกครอง",
+    "phonetic_cs": "pkkróng",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เน้น",
+    "phonetic_cs": "nén",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ถือว่า",
+    "phonetic_cs": "thüuaá",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ประตู",
+    "phonetic_cs": "ponatú",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "รูปแบบ",
+    "phonetic_cs": "rúpbép",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ความสำคัญ",
+    "phonetic_cs": "khuaámsamkhan",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เรือ",
+    "phonetic_cs": "rúa",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หมายถึง",
+    "phonetic_cs": "májthung",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "เต็ม",
+    "phonetic_cs": "tem",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ธุรกิจ",
+    "phonetic_cs": "thunkit",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "หยุด",
+    "phonetic_cs": "jut",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อังกฤษ",
+    "phonetic_cs": "angk?t",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": true,
+    "flags": [
+      "unknown_char"
+    ]
+  },
+  {
+    "thai": "โอ",
+    "phonetic_cs": "ó",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ร่างกาย",
+    "phonetic_cs": "rángkáj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สนใจ",
+    "phonetic_cs": "sondžaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "อาจารย์",
+    "phonetic_cs": "ádžán",
+    "method_used": "rules",
+    "syllable_count": 3,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ทั่วไป",
+    "phonetic_cs": "túapaj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "คุย",
+    "phonetic_cs": "khuj",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ต่ำ",
+    "phonetic_cs": "tam",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ความผิด",
+    "phonetic_cs": "khuaámphit",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "พัก",
+    "phonetic_cs": "phak",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "ปิด",
+    "phonetic_cs": "pit",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สุดท้าย",
+    "phonetic_cs": "suttáj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "จำ",
+    "phonetic_cs": "džam",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "มากมาย",
+    "phonetic_cs": "mákmáj",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "สาร",
+    "phonetic_cs": "sán",
+    "method_used": "rules",
+    "syllable_count": 1,
+    "has_unknown_char": false,
+    "flags": []
+  },
+  {
+    "thai": "แรงงาน",
+    "phonetic_cs": "rénggán",
+    "method_used": "rules",
+    "syllable_count": 2,
+    "has_unknown_char": false,
+    "flags": []
+  }
+]

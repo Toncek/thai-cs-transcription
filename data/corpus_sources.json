@@ -1,0 +1,5 @@
+{
+  "wikipedia_thailand": "https://th.wikipedia.org/wiki/ประเทศไทย",
+  "wikipedia_thai_language": "https://th.wikipedia.org/wiki/ภาษาไทย",
+  "extended_vocab": "https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt"
+}

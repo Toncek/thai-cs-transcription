@@ -42,16 +42,16 @@ def test_regression_cases():
 
     # 2. Czech d/t/n/l + y/ý normalization
     assert transcribe('ดี', rules) == 'dý'
-    assert transcribe('ที่', rules) == 'thí' # 'th' is not in d, t, n, l
+    assert transcribe('ที่', rules) == 'tý' # 'ท' is t, so 't' + 'í' -> 'tý'
     assert transcribe('นี้', rules) == 'ný'
     assert transcribe('ลิขสิทธิ์', rules) == 'lyksittha'
     assert transcribe('ทิศ', rules) == 'thyt' # exception based but works
 
     # 3. Mai taikhu ็
-    assert transcribe('เล็ก', rules) == 'lék'
-    assert transcribe('เป็น', rules) == 'pén'
-    assert transcribe('เด็ก', rules) == 'dék'
-    assert transcribe('เห็น', rules) == 'hén'
+    assert transcribe('เล็ก', rules) == 'lek'
+    assert transcribe('เป็น', rules) == 'pen'
+    assert transcribe('เด็ก', rules) == 'dek'
+    assert transcribe('เห็น', rules) == 'hen'
     assert transcribe('เย็น', rules) in ['jen', 'jén'] # From lookup: "jen" or natively jén
 
     # 4. Compound เ-า / เอา

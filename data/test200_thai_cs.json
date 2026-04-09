@@ -2,7 +2,7 @@
   {
     "thai": "ที่",
     "meaning_en": "at",
-    "phonetic_cs": "thí",
+    "phonetic_cs": "tý",
     "method_used": "rules",
     "syllable_breakdown": [
       "ที่"
@@ -20,7 +20,7 @@
   {
     "thai": "เป็น",
     "meaning_en": "is",
-    "phonetic_cs": "pén",
+    "phonetic_cs": "pen",
     "method_used": "rules",
     "syllable_breakdown": [
       "เป็น"
@@ -382,11 +382,10 @@
   {
     "thai": "ทำ",
     "meaning_en": "do",
-    "phonetic_cs": "tham",
+    "phonetic_cs": "tam",
     "method_used": "rules",
     "syllable_breakdown": [
-      "ท",
-      "ำ"
+      "ทำ"
     ]
   },
   {
@@ -501,7 +500,7 @@
   {
     "thai": "คือ",
     "meaning_en": "is",
-    "phonetic_cs": "khúó",
+    "phonetic_cs": "khü",
     "method_used": "rules",
     "syllable_breakdown": [
       "คือ"
@@ -510,7 +509,7 @@
   {
     "thai": "เห็น",
     "meaning_en": "see",
-    "phonetic_cs": "hén",
+    "phonetic_cs": "hen",
     "method_used": "rules",
     "syllable_breakdown": [
       "เห็น"
@@ -528,11 +527,10 @@
   {
     "thai": "ทำให้",
     "meaning_en": "make",
-    "phonetic_cs": "thamhaj",
+    "phonetic_cs": "tamhaj",
     "method_used": "rules",
     "syllable_breakdown": [
-      "ท",
-      "ำ",
+      "ทำ",
       "ให้"
     ]
   },
@@ -548,7 +546,7 @@
   {
     "thai": "ไทย",
     "meaning_en": "Thai",
-    "phonetic_cs": "thajj",
+    "phonetic_cs": "taj",
     "method_used": "rules",
     "syllable_breakdown": [
       "ไทย"
@@ -566,7 +564,7 @@
   {
     "thai": "ตัว",
     "meaning_en": "one",
-    "phonetic_cs": "tau",
+    "phonetic_cs": "túa",
     "method_used": "rules",
     "syllable_breakdown": [
       "ตัว"
@@ -611,7 +609,7 @@
   {
     "thai": "ทั้ง",
     "meaning_en": "both",
-    "phonetic_cs": "thang",
+    "phonetic_cs": "tang",
     "method_used": "rules",
     "syllable_breakdown": [
       "ทั้ง"
@@ -714,7 +712,7 @@
   {
     "thai": "แบบ",
     "meaning_en": "type",
-    "phonetic_cs": "béb",
+    "phonetic_cs": "bép",
     "method_used": "rules",
     "syllable_breakdown": [
       "แบบ"
@@ -732,7 +730,7 @@
   {
     "thai": "ทุก",
     "meaning_en": "each",
-    "phonetic_cs": "thuk",
+    "phonetic_cs": "tuk",
     "method_used": "rules",
     "syllable_breakdown": [
       "ทุก"
@@ -825,14 +823,13 @@
     "phonetic_cs": "nam",
     "method_used": "rules",
     "syllable_breakdown": [
-      "น",
-      "ำ"
+      "นำ"
     ]
   },
   {
     "thai": "งาน",
     "meaning_en": "work",
-    "phonetic_cs": "ngán",
+    "phonetic_cs": "gán",
     "method_used": "rules",
     "syllable_breakdown": [
       "งาน"
@@ -953,7 +950,7 @@
   {
     "thai": "เด็ก",
     "meaning_en": "child",
-    "phonetic_cs": "dék",
+    "phonetic_cs": "dek",
     "method_used": "rules",
     "syllable_breakdown": [
       "เด็ก"
@@ -1113,8 +1110,7 @@
     "phonetic_cs": "kham",
     "method_used": "rules",
     "syllable_breakdown": [
-      "ค",
-      "ำ"
+      "คำ"
     ]
   },
   {
@@ -1138,7 +1134,7 @@
   {
     "thai": "เสียง",
     "meaning_en": "sound",
-    "phonetic_cs": "síjang",
+    "phonetic_cs": "siang",
     "method_used": "rules",
     "syllable_breakdown": [
       "เสียง"
@@ -1179,8 +1175,7 @@
     "phonetic_cs": "samrap",
     "method_used": "rules",
     "syllable_breakdown": [
-      "ส",
-      "ำ",
+      "สำ",
       "หรับ"
     ]
   },
@@ -1190,8 +1185,7 @@
     "phonetic_cs": "nam",
     "method_used": "rules",
     "syllable_breakdown": [
-      "น้",
-      "ำ"
+      "น้ำ"
     ]
   },
   {
@@ -1236,8 +1230,7 @@
     "phonetic_cs": "kamlang",
     "method_used": "rules",
     "syllable_breakdown": [
-      "ก",
-      "ำ",
+      "กำ",
       "ลัง"
     ]
   },
@@ -1253,7 +1246,7 @@
   {
     "thai": "ท่าน",
     "meaning_en": "Sir",
-    "phonetic_cs": "thán",
+    "phonetic_cs": "tán",
     "method_used": "rules",
     "syllable_breakdown": [
       "ท่าน"
@@ -1262,7 +1255,7 @@
   {
     "thai": "เงิน",
     "meaning_en": "money",
-    "phonetic_cs": "ngön",
+    "phonetic_cs": "gön",
     "method_used": "rules",
     "syllable_breakdown": [
       "เงิน"
@@ -1292,8 +1285,7 @@
     "phonetic_cs": "kamnot",
     "method_used": "rules",
     "syllable_breakdown": [
-      "ก",
-      "ำ",
+      "กำ",
       "หนด"
     ]
   },
@@ -1318,18 +1310,17 @@
   {
     "thai": "ทำงาน",
     "meaning_en": "work",
-    "phonetic_cs": "thamngán",
+    "phonetic_cs": "tamgán",
     "method_used": "rules",
     "syllable_breakdown": [
-      "ท",
-      "ำ",
+      "ทำ",
       "งาน"
     ]
   },
   {
     "thai": "ระบบ",
     "meaning_en": "system",
-    "phonetic_cs": "rabb",
+    "phonetic_cs": "rabob",
     "method_used": "rules",
     "syllable_breakdown": [
       "ร",
@@ -1385,7 +1376,7 @@
   {
     "thai": "ที่สุด",
     "meaning_en": "the most",
-    "phonetic_cs": "thísut",
+    "phonetic_cs": "týsut",
     "method_used": "rules",
     "syllable_breakdown": [
       "ที่",
@@ -1422,7 +1413,7 @@
   {
     "thai": "เสีย",
     "meaning_en": "broken",
-    "phonetic_cs": "séíj",
+    "phonetic_cs": "sia",
     "method_used": "rules",
     "syllable_breakdown": [
       "เสีย"
@@ -1577,7 +1568,7 @@
   {
     "thai": "เดียว",
     "meaning_en": "single",
-    "phonetic_cs": "dýjau",
+    "phonetic_cs": "dyau",
     "method_used": "rules",
     "syllable_breakdown": [
       "เดียว"
@@ -1616,7 +1607,7 @@
   {
     "thai": "ตัวเอง",
     "meaning_en": "myself",
-    "phonetic_cs": "tauéng",
+    "phonetic_cs": "túaéng",
     "method_used": "rules",
     "syllable_breakdown": [
       "ตัว",
@@ -1626,11 +1617,11 @@
   {
     "thai": "กฎหมาย",
     "meaning_en": "law",
-    "phonetic_cs": "kdhmáj",
+    "phonetic_cs": "kotmáj",
     "method_used": "rules",
     "syllable_breakdown": [
-      "กฎห",
-      "มาย"
+      "กฎ",
+      "หมาย"
     ]
   },
   {
@@ -1655,7 +1646,7 @@
   {
     "thai": "เกี่ยวกับ",
     "meaning_en": "about",
-    "phonetic_cs": "kíjaukap",
+    "phonetic_cs": "kiaukap",
     "method_used": "rules",
     "syllable_breakdown": [
       "เกี่ยว",
@@ -1711,7 +1702,7 @@
   {
     "thai": "เพียง",
     "meaning_en": "just",
-    "phonetic_cs": "phíjang",
+    "phonetic_cs": "phiang",
     "method_used": "rules",
     "syllable_breakdown": [
       "เพียง"
@@ -1740,12 +1731,11 @@
   {
     "thai": "จำนวน",
     "meaning_en": "quantity",
-    "phonetic_cs": "džamnuan",
+    "phonetic_cs": "džamnvon",
     "method_used": "rules",
     "syllable_breakdown": [
-      "จ",
-      "ำ",
-      "นวน"
+      "จำน",
+      "วน"
     ]
   },
   {

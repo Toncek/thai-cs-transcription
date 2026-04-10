@@ -58,11 +58,3 @@ About 70% of the outputs look reasonably natural for a Czech reader. Single-syll
   1. Improve `parse_syllables` to use a dictionary or bigram model to better split ambiguous syllable boundaries.
   2. Implement specific rules for implicit 'a' and 'o' vowels between adjacent consonants in multi-syllable contexts.
   3. Refine 'อ' handling, particularly when it acts as a vowel vs an initial consonant vs a silent carrier.
-
-## Before/After Rule Fixes Iteration
-This report reflects the output after a set of 8 targeted rule fixes were implemented:
-1. **Mai taikhu (็)**: Vowels in syllables with ็ are now correctly mapped to their short forms (e.g., `เป็น` -> `pen` instead of `pén`).
-2. **Double Consonants**: Explicit implicit `o` added between identical adjacent consonants acting as initial and final (e.g., `ระบบ` -> `rabob`).
-3. **Compound Vowels**: `เ-ีย` maps to `ia` (e.g., `เสีย` -> `sia`); `ือ` maps to `ü` (e.g., `คือ` -> `khü` instead of `khúó`).
-4. **Deduplication**: Suppressed double `j` outputs in `ไทย` -> `taj`/`thaj`.
-5. **Consonant and Silence Adjustments**: `ท` consistently mapped to `t` for Czech naturalness, `ง` initialized as `g` at the start of syllables. `ห` successfully suppressed before low sonorants, fixing `กฎหมาย` -> `kotmáj` by accurately defining its boundary and initial/final roles.

@@ -41,7 +41,7 @@
   },
   {
     "thai": "สยาม",
-    "phonetic_cs": "sjám",
+    "phonetic_cs": "sajám",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -113,7 +113,7 @@
   },
   {
     "thai": "พม่า",
-    "phonetic_cs": "phám",
+    "phonetic_cs": "phamá",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -329,7 +329,7 @@
   },
   {
     "thai": "หลักฐานทางโบราณคดี",
-    "phonetic_cs": "lakthántángbóránkhít",
+    "phonetic_cs": "lakthántángbóránkhadý",
     "method_used": "rules",
     "syllable_count": 5,
     "has_unknown_char": false,
@@ -345,7 +345,7 @@
   },
   {
     "thai": "มนุษย์",
-    "phonetic_cs": "mnut",
+    "phonetic_cs": "manut",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -425,7 +425,7 @@
   },
   {
     "thai": "มลายู",
-    "phonetic_cs": "mánjú",
+    "phonetic_cs": "malájú",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -449,13 +449,11 @@
   },
   {
     "thai": "ทฤษฎี",
-    "phonetic_cs": "t?tdý",
+    "phonetic_cs": "taridtdý",
     "method_used": "rules",
     "syllable_count": 2,
-    "has_unknown_char": true,
-    "flags": [
-      "unknown_char"
-    ]
+    "has_unknown_char": false,
+    "flags": []
   },
   {
     "thai": "แถบ",
@@ -475,7 +473,7 @@
   },
   {
     "thai": "คริสต์ศตวรรษ",
-    "phonetic_cs": "khritsatuanrot",
+    "phonetic_cs": "khritsatavat",
     "method_used": "rules",
     "syllable_count": 4,
     "has_unknown_char": false,
@@ -643,7 +641,7 @@
   },
   {
     "thai": "จักรวรรดิ",
-    "phonetic_cs": "džakruanrit",
+    "phonetic_cs": "džakravady",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -699,7 +697,7 @@
   },
   {
     "thai": "กรุงศรีอยุธยา",
-    "phonetic_cs": "krungsríójutjá",
+    "phonetic_cs": "krungsaríójutjá",
     "method_used": "rules",
     "syllable_count": 4,
     "has_unknown_char": false,
@@ -787,7 +785,7 @@
   },
   {
     "thai": "ล่มสลาย",
-    "phonetic_cs": "lomsláj",
+    "phonetic_cs": "lomsaláj",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -795,7 +793,7 @@
   },
   {
     "thai": "สมเด็จพระเจ้าตากสินมหาราช",
-    "phonetic_cs": "somdetphonadžaotáksinmáhrát",
+    "phonetic_cs": "somdetphonadžaotáksinmahárát",
     "method_used": "rules",
     "syllable_count": 9,
     "has_unknown_char": false,
@@ -811,7 +809,7 @@
   },
   {
     "thai": "สถาปนา",
-    "phonetic_cs": "sthápná",
+    "phonetic_cs": "sathápná",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -907,7 +905,7 @@
   },
   {
     "thai": "มหาราช",
-    "phonetic_cs": "máhrát",
+    "phonetic_cs": "mahárát",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -923,7 +921,7 @@
   },
   {
     "thai": "กษัตริย์",
-    "phonetic_cs": "ksatri",
+    "phonetic_cs": "kasatri",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -963,7 +961,7 @@
   },
   {
     "thai": "จักรวรรดินิยม",
-    "phonetic_cs": "džakruanritnyjm",
+    "phonetic_cs": "džakravadynyjm",
     "method_used": "rules",
     "syllable_count": 4,
     "has_unknown_char": false,
@@ -1003,7 +1001,7 @@
   },
   {
     "thai": "อาณานิคม",
-    "phonetic_cs": "ánánykma",
+    "phonetic_cs": "ánánykhom",
     "method_used": "rules",
     "syllable_count": 4,
     "has_unknown_char": false,
@@ -1131,7 +1129,7 @@
   },
   {
     "thai": "รัชสมัย",
-    "phonetic_cs": "ratsmaj",
+    "phonetic_cs": "ratsamaj",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -1195,7 +1193,7 @@
   },
   {
     "thai": "ฝ่ายสัมพันธมิตร",
-    "phonetic_cs": "fájsamphanthmitra",
+    "phonetic_cs": "fájsamphanthamitra",
     "method_used": "rules",
     "syllable_count": 5,
     "has_unknown_char": false,
@@ -1275,7 +1273,7 @@
   },
   {
     "thai": "สถานะ",
-    "phonetic_cs": "sátna",
+    "phonetic_cs": "sathána",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -1469,7 +1467,7 @@
   },
   {
     "thai": "รนี",
-    "phonetic_cs": "rín",
+    "phonetic_cs": "raný",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -1517,7 +1515,7 @@
   },
   {
     "thai": "พุทธศักราช",
-    "phonetic_cs": "phutthsakrát",
+    "phonetic_cs": "phutthasakrát",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -1557,7 +1555,7 @@
   },
   {
     "thai": "มีนาคม",
-    "phonetic_cs": "mínákma",
+    "phonetic_cs": "mínákhom",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -1581,7 +1579,7 @@
   },
   {
     "thai": "ปฏิรูป",
-    "phonetic_cs": "pitrúp",
+    "phonetic_cs": "patyrúp",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -1717,7 +1715,7 @@
   },
   {
     "thai": "บริเวณ",
-    "phonetic_cs": "binvén",
+    "phonetic_cs": "borivén",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -1813,7 +1811,7 @@
   },
   {
     "thai": "พุทธศตวรรษ",
-    "phonetic_cs": "phutthstvrnsa",
+    "phonetic_cs": "phutthstvat",
     "method_used": "rules",
     "syllable_count": 4,
     "has_unknown_char": false,
@@ -1893,7 +1891,7 @@
   },
   {
     "thai": "วรรณกรรม",
-    "phonetic_cs": "vrnnknrom",
+    "phonetic_cs": "vankam",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -1903,13 +1901,11 @@
   },
   {
     "thai": "สันสกฤต",
-    "phonetic_cs": "sansk?ta",
+    "phonetic_cs": "sanskrita",
     "method_used": "rules",
     "syllable_count": 3,
-    "has_unknown_char": true,
-    "flags": [
-      "unknown_char"
-    ]
+    "has_unknown_char": false,
+    "flags": []
   },
   {
     "thai": "ภาษาบาลี",
@@ -1993,7 +1989,7 @@
   },
   {
     "thai": "เสียงพยัญชนะ",
-    "phonetic_cs": "siangphjančona",
+    "phonetic_cs": "siangphajančona",
     "method_used": "rules",
     "syllable_count": 4,
     "has_unknown_char": false,
@@ -2049,7 +2045,7 @@
   },
   {
     "thai": "วรรณยุกต์",
-    "phonetic_cs": "vrnnjuk",
+    "phonetic_cs": "vanjuk",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -2225,7 +2221,7 @@
   },
   {
     "thai": "เศรษฐกิจ",
-    "phonetic_cs": "sértthkit",
+    "phonetic_cs": "sértthakit",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -2281,7 +2277,7 @@
   },
   {
     "thai": "ขนาด",
-    "phonetic_cs": "khnát",
+    "phonetic_cs": "khanát",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -2401,7 +2397,7 @@
   },
   {
     "thai": "ผลิต",
-    "phonetic_cs": "phlit",
+    "phonetic_cs": "phalyt",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -2433,7 +2429,7 @@
   },
   {
     "thai": "ปฏิบัติ",
-    "phonetic_cs": "pitbaty",
+    "phonetic_cs": "patybaty",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -2601,7 +2597,7 @@
   },
   {
     "thai": "คณะกรรมการ",
-    "phonetic_cs": "khonakrnmkán",
+    "phonetic_cs": "khonakamkán",
     "method_used": "rules",
     "syllable_count": 4,
     "has_unknown_char": false,
@@ -2673,7 +2669,7 @@
   },
   {
     "thai": "พยายาม",
-    "phonetic_cs": "phájjám",
+    "phonetic_cs": "phajájám",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -2729,7 +2725,7 @@
   },
   {
     "thai": "วัฒนธรรม",
-    "phonetic_cs": "vatnthnrom",
+    "phonetic_cs": "vatnatham",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -2801,7 +2797,7 @@
   },
   {
     "thai": "ชนิด",
-    "phonetic_cs": "čnit",
+    "phonetic_cs": "čanyt",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -2841,7 +2837,7 @@
   },
   {
     "thai": "บริษัท",
-    "phonetic_cs": "binsat",
+    "phonetic_cs": "borisat",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -2889,7 +2885,7 @@
   },
   {
     "thai": "บริการ",
-    "phonetic_cs": "binkán",
+    "phonetic_cs": "borikán",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -3065,7 +3061,7 @@
   },
   {
     "thai": "สภา",
-    "phonetic_cs": "sáp",
+    "phonetic_cs": "saphá",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -3073,7 +3069,7 @@
   },
   {
     "thai": "สภาพ",
-    "phonetic_cs": "spháp",
+    "phonetic_cs": "sapháp",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -3081,7 +3077,7 @@
   },
   {
     "thai": "พรรค",
-    "phonetic_cs": "phrnkha",
+    "phonetic_cs": "phak",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -3131,7 +3127,7 @@
   },
   {
     "thai": "ตลาด",
-    "phonetic_cs": "tlát",
+    "phonetic_cs": "talát",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -3243,7 +3239,7 @@
   },
   {
     "thai": "ธรรมชาติ",
-    "phonetic_cs": "thrnmátty",
+    "phonetic_cs": "thamčáty",
     "method_used": "rules",
     "syllable_count": 3,
     "has_unknown_char": false,
@@ -3275,7 +3271,7 @@
   },
   {
     "thai": "บริหาร",
-    "phonetic_cs": "binhán",
+    "phonetic_cs": "borihán",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -3291,7 +3287,7 @@
   },
   {
     "thai": "สมาชิก",
-    "phonetic_cs": "sámčik",
+    "phonetic_cs": "samáčik",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -3659,7 +3655,7 @@
   },
   {
     "thai": "ฉบับ",
-    "phonetic_cs": "čbap",
+    "phonetic_cs": "čabap",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -3683,7 +3679,7 @@
   },
   {
     "thai": "สถาบัน",
-    "phonetic_cs": "sátban",
+    "phonetic_cs": "sathában",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -3707,7 +3703,7 @@
   },
   {
     "thai": "สนับสนุน",
-    "phonetic_cs": "snapsnun",
+    "phonetic_cs": "sanapsanun",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -3763,7 +3759,7 @@
   },
   {
     "thai": "ทหาร",
-    "phonetic_cs": "thán",
+    "phonetic_cs": "tahán",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -3987,13 +3983,11 @@
   },
   {
     "thai": "อังกฤษ",
-    "phonetic_cs": "angk?t",
+    "phonetic_cs": "angkaridt",
     "method_used": "rules",
     "syllable_count": 2,
-    "has_unknown_char": true,
-    "flags": [
-      "unknown_char"
-    ]
+    "has_unknown_char": false,
+    "flags": []
   },
   {
     "thai": "โอ",

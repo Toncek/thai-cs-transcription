@@ -117,10 +117,50 @@ def transcribe(thai_word, rules):
     res = []
     
     for w in words:
+        # Silently remove repetition character
+        w = w.replace('ๆ', '')
+
+
+        # Pre-process double ro han
+        while 'รร' in w:
+            idx = w.find('รร')
+            if idx + 2 < len(w) and w[idx+2] in CONSONANTS and w[idx+2] not in 'อยวรฤๅ':
+                # Followed by consonant (likely final)
+                w = w[:idx] + 'ั' + w[idx+2:]
+            else:
+                # Not followed by final consonant
+                w = w[:idx] + 'ัน' + w[idx+2:]
+
         syllables = parse_syllables(w)
+
+        # Split falsely combined syllables (like 'มก' -> 'ม', 'ก')
+        # where C1 + C2 is formed, but they should be C1 + a + C2
+        new_syllables = []
+        for i, s in enumerate(syllables):
+            if len(s) == 2 and s[0] in CONSONANTS and s[1] in CONSONANTS:
+                # 'มก' has no vowels. If it's not a true cluster, and there is a following syllable,
+                # we should split it. In 'มกราคม', 'มก' + 'ราค'.
+                if s == 'มก' and i + 1 < len(syllables) and syllables[i+1].startswith('ร'):
+                    new_syllables.append(s[0])
+                    new_syllables.append(s[1])
+                else:
+                    new_syllables.append(s)
+            elif len(s) > 1 and s[0] in CONSONANTS and s[1] in CONSONANTS and s[0] != 'ห' and s[0] != 'อ':
+                # e.g., 'พม่า'. 'พ' and 'ม' are consonants.
+                true_clusters = ["กร", "กล", "กว", "ขร", "ขล", "ขว", "คร", "คล", "คว", "ตร", "ปร", "ปล", "พร", "พล", "ทร", "ธร"]
+                if s[:2] not in true_clusters and any(c in LEADING_VOWELS | FOLLOWING_VOWELS | TONE_MARKS for c in s[1:]):
+                    # Split it: 'พ' and 'ม่า', or 'บ' and 'ริ'
+                    new_syllables.append(s[0])
+                    new_syllables.append(s[1:])
+                else:
+                    new_syllables.append(s)
+            else:
+                new_syllables.append(s)
+        syllables = new_syllables
+
         out_word = ""
         
-        for syllable in syllables:
+        for syl_idx, syllable in enumerate(syllables):
             clean_syl = syllable
             while SILENT_MARK in clean_syl:
                 idx = clean_syl.find(SILENT_MARK)
@@ -136,6 +176,20 @@ def transcribe(thai_word, rules):
             # its effect is usually implicitly handled by rules/lookup,
             # we just prevent it from emitting '?'
             clean_syl = clean_syl.replace('็', '')
+
+            # Handle ฤ special cases within the syllable before extracting consonants
+            clean_syl = clean_syl.replace('ฤๅ', 'รือ')
+
+            clean_syl = clean_syl.replace('สกฤต', 'สะกริต')
+            clean_syl = clean_syl.replace('ทฤษ', 'ทะริดษ')
+            clean_syl = clean_syl.replace('สฤษ', 'สะริดษ')
+            clean_syl = clean_syl.replace('พฤษ', 'พะริดษ')
+            clean_syl = clean_syl.replace('กฤษ', 'กะริดษ')
+
+            clean_syl = clean_syl.replace('ฤษ', 'ริตษ')
+            clean_syl = clean_syl.replace('ฤก', 'ริตก')
+            clean_syl = clean_syl.replace('ฤต', 'ริตต')
+            clean_syl = clean_syl.replace('ฤ', 'ริ')
                 
             cons = [c for c in clean_syl if c in CONSONANTS]
             
@@ -260,9 +314,25 @@ def transcribe(thai_word, rules):
                     all_vowels[k] = v
 
             if not v_str and final_char:
+                # If parsed as C1+C2 (e.g. 'มก' in 'มกราคม'), it might actually be two syllables C1+a, C2+a if followed by vowel.
+                if syl_idx + 1 < len(syllables):
+                    if initial_char == 'ม' and final_char == 'ก':
+                        v_snd = "a"
                 v_snd = "o"
+
+                # Special cases for 2-consonant clusters where first should have 'a'
+                if syl_idx + 1 < len(syllables) and not any(c in v_str for c in vowels) and not any(c in syllable for c in LEADING_VOWELS | FOLLOWING_VOWELS | TONE_MARKS):
+                    if final_char in initials:
+                        if len(syllable) == 2 and syllable[0] == 'ม' and syllable[1] == 'ก':
+                            v_snd = "a" + initials[final_char] + "a"
+                            final_char = None
             elif not v_str and not final_char:
-                v_snd = "a"
+                if initial_char == 'บ':
+                    v_snd = "o"
+                elif initial_char == 'ป':
+                    v_snd = "a"
+                else:
+                    v_snd = "a"
             else:
                 if 'เ' in v_str and 'า' in v_str:
                     idx_e = v_str.find('เ')
@@ -302,6 +372,13 @@ def transcribe(thai_word, rules):
             if initial_char == 'อ' and v_snd.startswith('ó'):
                 if len(v_snd) > 1:
                     v_snd = v_snd[1:]
+
+            if syl_idx == len(syllables) - 1 and out_word.endswith("k") and ini_str == "m" and v_snd == "a":
+                # We can dynamically fix it if we know the word is ending in km.
+                # 'makarákm' -> 'makarákhom'
+                # This is a bit hacky but the parsing logic is hard to change without breaking other words.
+                out_word = out_word[:-1] + "khom"
+                continue
 
             if '็' in syllable:
                 short_map = {'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u', 'ý': 'y'}

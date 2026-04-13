@@ -1,0 +1,191 @@
+{
+  "chapter_id": 9,
+  "title_cz": "Nakupování",
+  "title_sk": "Nakupovanie",
+  "title_th": "การช้อปปิ้ง",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "ซื้อ",
+      "cz": "koupit",
+      "sk": "kúpiť",
+      "czph": "sú"
+    },
+    {
+      "th": "ขาย",
+      "cz": "prodat",
+      "sk": "predať",
+      "czph": "kháj"
+    },
+    {
+      "th": "เงิน",
+      "cz": "peníze",
+      "sk": "peniaze",
+      "czph": "gön"
+    },
+    {
+      "th": "บาท",
+      "cz": "baht",
+      "sk": "baht",
+      "czph": "bát"
+    },
+    {
+      "th": "แพง",
+      "cz": "drahý",
+      "sk": "drahý",
+      "czph": "phéng"
+    },
+    {
+      "th": "ถูก",
+      "cz": "levný",
+      "sk": "lacný",
+      "czph": "thúk"
+    },
+    {
+      "th": "ราคา",
+      "cz": "cena",
+      "sk": "cena",
+      "czph": "rákhá"
+    },
+    {
+      "th": "เท่าไหร่",
+      "cz": "kolik",
+      "sk": "koľko",
+      "czph": "thaoraj"
+    },
+    {
+      "th": "ลดราคา",
+      "cz": "sleva",
+      "sk": "zľava",
+      "czph": "lot rákhá"
+    },
+    {
+      "th": "ร้านค้า",
+      "cz": "obchod",
+      "sk": "obchod",
+      "czph": "ránkhá"
+    },
+    {
+      "th": "ตลาด",
+      "cz": "trh",
+      "sk": "trh",
+      "czph": "talát"
+    },
+    {
+      "th": "กระเป๋า",
+      "cz": "taška",
+      "sk": "taška",
+      "czph": "konapao"
+    },
+    {
+      "th": "รองเท้า",
+      "cz": "boty",
+      "sk": "topánky",
+      "czph": "róng thau"
+    },
+    {
+      "th": "เสื้อผ้า",
+      "cz": "oblečení",
+      "sk": "oblečenie",
+      "czph": "súaphá"
+    },
+    {
+      "th": "กางเกง",
+      "cz": "kalhoty",
+      "sk": "nohavice",
+      "czph": "káng kéng"
+    },
+    {
+      "th": "จ่าย",
+      "cz": "platit",
+      "sk": "platiť",
+      "czph": "džáj"
+    },
+    {
+      "th": "ใบ",
+      "cz": "klasifikátor (věci)",
+      "sk": "klasifikátor (veci)",
+      "czph": "baj"
+    },
+    {
+      "th": "ตัว",
+      "cz": "klasifikátor (oblečení, zvířata)",
+      "sk": "klasifikátor (oblečenie, zvieratá)",
+      "czph": "túa"
+    },
+    {
+      "th": "อยากได้",
+      "cz": "chtít (věc)",
+      "sk": "chcieť (vec)",
+      "czph": "jákdaj"
+    },
+    {
+      "th": "สวย",
+      "cz": "krásný",
+      "sk": "krásny",
+      "czph": "suaj"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "ราคาเท่าไหร่ครับ",
+      "cz": "Kolik to stojí?",
+      "sk": "Koľko to stojí?",
+      "czph": "rákháthaorajkrap"
+    },
+    {
+      "th": "แพงมาก",
+      "cz": "Velmi drahé.",
+      "sk": "Veľmi drahé.",
+      "czph": "phéngmák"
+    },
+    {
+      "th": "ลดราคาได้ไหม",
+      "cz": "Můžete dát slevu?",
+      "sk": "Môžete dať zľavu?",
+      "czph": "lotrákhádajmaj"
+    },
+    {
+      "th": "อันนี้ถูก",
+      "cz": "Tohle je levné.",
+      "sk": "Toto je lacné.",
+      "czph": "annýthúk"
+    },
+    {
+      "th": "ฉันอยากได้กระเป๋า",
+      "cz": "Chci tašku.",
+      "sk": "Chcem tašku.",
+      "czph": "čanjákdajkrapao"
+    },
+    {
+      "th": "ซื้อเสื้อผ้าที่ตลาด",
+      "cz": "Kupovat oblečení na trhu.",
+      "sk": "Kupovať oblečenie na trhu.",
+      "czph": "süsúapháthítlát"
+    },
+    {
+      "th": "รองเท้าสวย",
+      "cz": "Krásné boty.",
+      "sk": "Krásne topánky.",
+      "czph": "róngthaotvoj"
+    },
+    {
+      "th": "จ่ายเงินที่ไหน",
+      "cz": "Kde mohu zaplatit?",
+      "sk": "Kde môžem zaplatiť?",
+      "czph": "džájgönthínaj"
+    },
+    {
+      "th": "มีเงินร้อยบาท",
+      "cz": "Mám sto bahtů.",
+      "sk": "Mám sto bahtov.",
+      "czph": "mígönrójbát"
+    },
+    {
+      "th": "ขายดีไหม",
+      "cz": "Prodává se to dobře?",
+      "sk": "Predáva sa to dobre?",
+      "czph": "khájdýmaj"
+    }
+  ]
+}

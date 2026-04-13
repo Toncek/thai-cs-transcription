@@ -1,0 +1,191 @@
+{
+  "chapter_id": 3,
+  "title_cz": "Barvy",
+  "title_sk": "Farby",
+  "title_th": "สี",
+  "level": "začátečník",
+  "words": [
+    {
+      "th": "สี",
+      "cz": "barva",
+      "sk": "farba",
+      "czph": "sí"
+    },
+    {
+      "th": "สีแดง",
+      "cz": "červená",
+      "sk": "červená",
+      "czph": "sí déng"
+    },
+    {
+      "th": "สีน้ำเงิน",
+      "cz": "modrá",
+      "sk": "modrá",
+      "czph": "sínamgön"
+    },
+    {
+      "th": "สีเขียว",
+      "cz": "zelená",
+      "sk": "zelená",
+      "czph": "sí khýjau"
+    },
+    {
+      "th": "สีเหลือง",
+      "cz": "žlutá",
+      "sk": "žltá",
+      "czph": "sí lúang"
+    },
+    {
+      "th": "สีดำ",
+      "cz": "černá",
+      "sk": "čierna",
+      "czph": "sídam"
+    },
+    {
+      "th": "สีขาว",
+      "cz": "bílá",
+      "sk": "biela",
+      "czph": "sí kháu"
+    },
+    {
+      "th": "สีส้ม",
+      "cz": "oranžová",
+      "sk": "oranžová",
+      "czph": "sí som"
+    },
+    {
+      "th": "สีชมพู",
+      "cz": "růžová",
+      "sk": "ružová",
+      "czph": "sítmaphú"
+    },
+    {
+      "th": "สีม่วง",
+      "cz": "fialová",
+      "sk": "fialová",
+      "czph": "sí muang"
+    },
+    {
+      "th": "สีน้ำตาล",
+      "cz": "hnědá",
+      "sk": "hnedá",
+      "czph": "sínamtán"
+    },
+    {
+      "th": "สีเทา",
+      "cz": "šedá",
+      "sk": "sivá",
+      "czph": "sí thau"
+    },
+    {
+      "th": "สีฟ้า",
+      "cz": "světle modrá",
+      "sk": "svetlomodrá",
+      "czph": "sífá"
+    },
+    {
+      "th": "ชอบ",
+      "cz": "líbit se",
+      "sk": "páčiť sa",
+      "czph": "čóp"
+    },
+    {
+      "th": "อะไร",
+      "cz": "co / jaký",
+      "sk": "čo / aký",
+      "czph": "araj"
+    },
+    {
+      "th": "อ่อน",
+      "cz": "světlý",
+      "sk": "svetlý",
+      "czph": "aon"
+    },
+    {
+      "th": "เข้ม",
+      "cz": "tmavý",
+      "sk": "tmavý",
+      "czph": "khém"
+    },
+    {
+      "th": "สวย",
+      "cz": "krásný",
+      "sk": "krásny",
+      "czph": "suaj"
+    },
+    {
+      "th": "มาก",
+      "cz": "velmi",
+      "sk": "veľmi",
+      "czph": "mák"
+    },
+    {
+      "th": "เสื้อ",
+      "cz": "košile / tričko",
+      "sk": "košeľa / tričko",
+      "czph": "súa"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "คุณชอบสีอะไรครับ",
+      "cz": "Jakou barvu máte rádi?",
+      "sk": "Akú farbu máte radi?",
+      "czph": "khunčópsíóarajkrap"
+    },
+    {
+      "th": "ฉันชอบสีแดงค่ะ",
+      "cz": "Mám ráda červenou.",
+      "sk": "Mám rada červenú.",
+      "czph": "čančópsídéngkha"
+    },
+    {
+      "th": "เขาชอบสีน้ำเงิน",
+      "cz": "On má rád modrou.",
+      "sk": "On má rád modrú.",
+      "czph": "khaotabosínamgön"
+    },
+    {
+      "th": "เสื้อสีขาว",
+      "cz": "Bílá košile.",
+      "sk": "Biela košeľa.",
+      "czph": "súasíkháu"
+    },
+    {
+      "th": "สีดำสวยมาก",
+      "cz": "Černá je velmi krásná.",
+      "sk": "Čierna je veľmi krásna.",
+      "czph": "sídamtvojmák"
+    },
+    {
+      "th": "ผมชอบสีเขียว",
+      "cz": "Mám rád zelenou.",
+      "sk": "Mám rád zelenú.",
+      "czph": "phmtabosíkhiau"
+    },
+    {
+      "th": "เสื้อสีเหลือง",
+      "cz": "Žluté tričko.",
+      "sk": "Žlté tričko.",
+      "czph": "súasílúang"
+    },
+    {
+      "th": "สีชมพูสวยค่ะ",
+      "cz": "Růžová je hezká.",
+      "sk": "Ružová je pekná.",
+      "czph": "sítmaphútvojkha"
+    },
+    {
+      "th": "สีส้มอ่อน",
+      "cz": "Světle oranžová.",
+      "sk": "Svetlo oranžová.",
+      "czph": "sísomaon"
+    },
+    {
+      "th": "สีเทาเข้ม",
+      "cz": "Tmavě šedá.",
+      "sk": "Tmavosivá.",
+      "czph": "síthaokhém"
+    }
+  ]
+}

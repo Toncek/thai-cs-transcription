@@ -1,0 +1,191 @@
+{
+  "chapter_id": 2,
+  "title_cz": "Čísla 0–20",
+  "title_sk": "Čísla 0–20",
+  "title_th": "ตัวเลข 0–20",
+  "level": "začátečník",
+  "words": [
+    {
+      "th": "ศูนย์",
+      "cz": "nula",
+      "sk": "nula",
+      "czph": "sún"
+    },
+    {
+      "th": "หนึ่ง",
+      "cz": "jedna",
+      "sk": "jeden",
+      "czph": "nung"
+    },
+    {
+      "th": "สอง",
+      "cz": "dva",
+      "sk": "dva",
+      "czph": "sóng"
+    },
+    {
+      "th": "สาม",
+      "cz": "tři",
+      "sk": "tri",
+      "czph": "sám"
+    },
+    {
+      "th": "สี่",
+      "cz": "čtyři",
+      "sk": "štyri",
+      "czph": "sí"
+    },
+    {
+      "th": "ห้า",
+      "cz": "pět",
+      "sk": "päť",
+      "czph": "há"
+    },
+    {
+      "th": "หก",
+      "cz": "šest",
+      "sk": "šesť",
+      "czph": "hok"
+    },
+    {
+      "th": "เจ็ด",
+      "cz": "sedm",
+      "sk": "sedem",
+      "czph": "džet"
+    },
+    {
+      "th": "แปด",
+      "cz": "osm",
+      "sk": "osem",
+      "czph": "paét"
+    },
+    {
+      "th": "เก้า",
+      "cz": "devět",
+      "sk": "deväť",
+      "czph": "kau"
+    },
+    {
+      "th": "สิบ",
+      "cz": "deset",
+      "sk": "desať",
+      "czph": "sip"
+    },
+    {
+      "th": "เอ็ด",
+      "cz": "jeden (v číslovkách)",
+      "sk": "jeden (v číslovkách)",
+      "czph": "et"
+    },
+    {
+      "th": "สิบเอ็ด",
+      "cz": "jedenáct",
+      "sk": "jedenásť",
+      "czph": "sip et"
+    },
+    {
+      "th": "สิบสอง",
+      "cz": "dvanáct",
+      "sk": "dvanásť",
+      "czph": "sip sóng"
+    },
+    {
+      "th": "สิบสาม",
+      "cz": "třináct",
+      "sk": "trinásť",
+      "czph": "sip sám"
+    },
+    {
+      "th": "สิบสี่",
+      "cz": "čtrnáct",
+      "sk": "štrnásť",
+      "czph": "sipsí"
+    },
+    {
+      "th": "ยี่สิบ",
+      "cz": "dvacet",
+      "sk": "dvadsať",
+      "czph": "jí sip"
+    },
+    {
+      "th": "เท่าไหร่",
+      "cz": "kolik",
+      "sk": "koľko",
+      "czph": "thaoraj"
+    },
+    {
+      "th": "อายุ",
+      "cz": "věk",
+      "sk": "vek",
+      "czph": "áju"
+    },
+    {
+      "th": "ปี",
+      "cz": "rok",
+      "sk": "rok",
+      "czph": "pí"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "หนึ่ง สอง สาม",
+      "cz": "Jedna, dva, tři.",
+      "sk": "Jeden, dva, tri.",
+      "czph": "nung sóng sám"
+    },
+    {
+      "th": "อายุเท่าไหร่ครับ",
+      "cz": "Kolik je vám let?",
+      "sk": "Koľko máte rokov?",
+      "czph": "ájuthaorajkrap"
+    },
+    {
+      "th": "ผมอายุยี่สิบปี",
+      "cz": "Je mi dvacet let.",
+      "sk": "Mám dvadsať rokov.",
+      "czph": "phomájujísippí"
+    },
+    {
+      "th": "มีห้า",
+      "cz": "Je jich pět.",
+      "sk": "Je ich päť.",
+      "czph": "míhá"
+    },
+    {
+      "th": "มีสิบสอง",
+      "cz": "Je jich dvanáct.",
+      "sk": "Je ich dvanásť.",
+      "czph": "mísipsóng"
+    },
+    {
+      "th": "เขาอายุสิบแปดปี",
+      "cz": "Je mu osmnáct let.",
+      "sk": "Má osemnásť rokov.",
+      "czph": "khaoájusippétpí"
+    },
+    {
+      "th": "มีเท่าไหร่",
+      "cz": "Kolik toho je?",
+      "sk": "Koľko toho je?",
+      "czph": "míthaoraj"
+    },
+    {
+      "th": "ผมมีสาม",
+      "cz": "Mám tři.",
+      "sk": "Mám tri.",
+      "czph": "phommísám"
+    },
+    {
+      "th": "คุณมีสิบ",
+      "cz": "Máte deset.",
+      "sk": "Máte desať.",
+      "czph": "khunmísip"
+    },
+    {
+      "th": "เขาอายุเก้าปี",
+      "cz": "Je mu devět let.",
+      "sk": "Má deväť rokov.",
+      "czph": "khaoájukaopí"
+    }
+  ]
+}

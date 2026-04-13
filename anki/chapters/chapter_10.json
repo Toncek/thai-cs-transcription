@@ -1,0 +1,191 @@
+{
+  "chapter_id": 10,
+  "title_cz": "Příroda a počasí",
+  "title_sk": "Príroda a počasie",
+  "title_th": "ธรรมชาติและสภาพอากาศ",
+  "level": "pokročilý začátečník",
+  "words": [
+    {
+      "th": "ธรรมชาติ",
+      "cz": "příroda",
+      "sk": "príroda",
+      "czph": "thamčáty"
+    },
+    {
+      "th": "อากาศ",
+      "cz": "počasí / vzduch",
+      "sk": "počasie / vzduch",
+      "czph": "ákát"
+    },
+    {
+      "th": "ร้อน",
+      "cz": "horko",
+      "sk": "horúco",
+      "czph": "rón"
+    },
+    {
+      "th": "หนาว",
+      "cz": "zima",
+      "sk": "zima",
+      "czph": "náu"
+    },
+    {
+      "th": "เย็น",
+      "cz": "chladno",
+      "sk": "chladno",
+      "czph": "jen"
+    },
+    {
+      "th": "ฝน",
+      "cz": "déšť",
+      "sk": "dážď",
+      "czph": "fon"
+    },
+    {
+      "th": "แดด",
+      "cz": "slunce (svit)",
+      "sk": "slnko (svit)",
+      "czph": "dét"
+    },
+    {
+      "th": "ลม",
+      "cz": "vítr",
+      "sk": "vietor",
+      "czph": "lom"
+    },
+    {
+      "th": "ตก",
+      "cz": "padat (pršet)",
+      "sk": "padať (pršať)",
+      "czph": "tok"
+    },
+    {
+      "th": "ทะเล",
+      "cz": "moře",
+      "sk": "more",
+      "czph": "thalé"
+    },
+    {
+      "th": "ภูเขา",
+      "cz": "hora",
+      "sk": "hora",
+      "czph": "phúkhao"
+    },
+    {
+      "th": "ต้นไม้",
+      "cz": "strom",
+      "sk": "strom",
+      "czph": "ton máj"
+    },
+    {
+      "th": "ดอกไม้",
+      "cz": "květina",
+      "sk": "kvetina",
+      "czph": "dókmaj"
+    },
+    {
+      "th": "ท้องฟ้า",
+      "cz": "obloha",
+      "sk": "obloha",
+      "czph": "thóngfá"
+    },
+    {
+      "th": "ดวงอาทิตย์",
+      "cz": "slunce",
+      "sk": "slnko",
+      "czph": "duangáthit"
+    },
+    {
+      "th": "ดวงจันทร์",
+      "cz": "měsíc",
+      "sk": "mesiac",
+      "czph": "duangdžantha"
+    },
+    {
+      "th": "ดาว",
+      "cz": "hvězda",
+      "sk": "hviezda",
+      "czph": "dáu"
+    },
+    {
+      "th": "สวย",
+      "cz": "krásný",
+      "sk": "krásny",
+      "czph": "suaj"
+    },
+    {
+      "th": "ฤดู",
+      "cz": "roční období",
+      "sk": "ročné obdobie",
+      "czph": "ridú"
+    },
+    {
+      "th": "เที่ยว",
+      "cz": "cestovat / výlet",
+      "sk": "cestovať / výlet",
+      "czph": "thiau"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "วันนี้อากาศร้อน",
+      "cz": "Dnes je horko.",
+      "sk": "Dnes je horúco.",
+      "czph": "vannýákátrón"
+    },
+    {
+      "th": "ฝนตกไหม",
+      "cz": "Prší?",
+      "sk": "Prší?",
+      "czph": "fntkamaj"
+    },
+    {
+      "th": "พรุ่งนี้หนาว",
+      "cz": "Zítra bude zima.",
+      "sk": "Zajtra bude zima.",
+      "czph": "phrungnýnáu"
+    },
+    {
+      "th": "ลมแรงมาก",
+      "cz": "Vítr je velmi silný.",
+      "sk": "Vietor je veľmi silný.",
+      "czph": "lomréngmák"
+    },
+    {
+      "th": "ไปเที่ยวทะเล",
+      "cz": "Jet na výlet k moři.",
+      "sk": "Ísť na výlet k moru.",
+      "czph": "pajthiauthalé"
+    },
+    {
+      "th": "ภูเขาสวยมาก",
+      "cz": "Hora je velmi krásná.",
+      "sk": "Hora je veľmi krásna.",
+      "czph": "phúkhaotvojmák"
+    },
+    {
+      "th": "แดดร้อน",
+      "cz": "Slunce pálí.",
+      "sk": "Slnko páli.",
+      "czph": "détrón"
+    },
+    {
+      "th": "ดอกไม้สีแดง",
+      "cz": "Červená květina.",
+      "sk": "Červená kvetina.",
+      "czph": "dókmajsídéng"
+    },
+    {
+      "th": "ท้องฟ้าสวย",
+      "cz": "Krásná obloha.",
+      "sk": "Krásna obloha.",
+      "czph": "thóngfátvoj"
+    },
+    {
+      "th": "ดาวเยอะมาก",
+      "cz": "Mnoho hvězd.",
+      "sk": "Veľa hviezd.",
+      "czph": "dáujéóamák"
+    }
+  ]
+}

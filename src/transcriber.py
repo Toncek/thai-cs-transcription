@@ -124,13 +124,15 @@ def transcribe(thai_word, rules):
     
     logger.info(f"Uncertain pattern applied for: {thai_word.replace('\n', '').replace('\r', '')}")
     
-    words = thai_word.split()
+    thai_word_spaced = thai_word.replace('ๆ', ' ๆ ')
+    words = thai_word_spaced.split()
     res = []
     
     for w in words:
-        # Handle repetition character explicitly
-        if 'ๆ' in w and "specials" in rules and "ๆ" in rules["specials"]:
-            w = w.replace('ๆ', rules["specials"]["ๆ"])
+        if w == 'ๆ':
+            if res:
+                res.append(res[-1])
+            continue
 
         # Pre-process double ro han
         while 'รร' in w:

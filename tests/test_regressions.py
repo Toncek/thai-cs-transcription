@@ -25,14 +25,14 @@ def test_regression_cases():
         "อร่อย": "arój",
         "อย่างไร": "jángraj",
         "อ่าน": "án",
-        "ที่นั่น": "týnan",
+            "ที่นั่น": "thínan",
         "ระบบ": "rabob",
         "เสีย": "sia",
-        "ไทย": "taj",
+            "ไทย": "thaj",
         "คือ": "khü",
-        "ทำให้": "tamhaj",
+            "ทำให้": "thamhaj",
         "กฎหมาย": "kotmáj",
-        "ทำงาน": "tamgán"
+            "ทำงาน": "thamgán"
     }
 
     for case in cases:

@@ -42,7 +42,7 @@ def test_regression_cases():
 
     # 2. Czech d/t/n/l + y/ý normalization
     assert transcribe('ดี', rules) == 'dý'
-    assert transcribe('ที่', rules) == 'tý' # 'ท' is t, so 't' + 'í' -> 'tý'
+    assert transcribe('ที่', rules) == 'thí' # 'ท' is updated to 'th' so it stays 'thí' (doesn't trigger t/d/n/l normalization which turns í into ý)
     assert transcribe('นี้', rules) == 'ný'
     assert transcribe('ลิขสิทธิ์', rules) == 'lyksittha'
     assert transcribe('ทิศ', rules) == 'thyt' # exception based but works

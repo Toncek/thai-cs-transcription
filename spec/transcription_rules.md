@@ -22,3 +22,4 @@
 - **Initial ท preference**: `ท` always maps to `t` instead of `th` to better align with user preferences for Czech readers (e.g., `ทำงาน` -> `tamgán`, `ทำให้` -> `tamhaj`).
 - **Initial ง preference**: `ง` maps to `g` when functioning as the initial consonant of a syllable instead of `ng`, as `ng` is unnatural for a Czech reader at the start of a syllable (e.g., `ทำงาน` -> `tamgán`).
 - **ฎ consonant**: `ฎ` maps to `d` as an initial consonant, and `t` as a final consonant (e.g., `กฎหมาย` -> `kotmáj`).
+- **Maiyamok (ๆ)**: The repetition symbol `ๆ` directly maps to the Czech representation `jamok`.

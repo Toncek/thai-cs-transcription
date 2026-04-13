@@ -41,7 +41,7 @@ def _log_unknown(char):
             f.write(f"- `{char}`\n")
 
 LEADING_VOWELS = set("เแโใไ")
-FOLLOWING_VOWELS = set("าิีึืุู็ัำ")
+FOLLOWING_VOWELS = set("าิีึืุู็ัำํ")
 TONE_MARKS = set("่้๊๋")
 SILENT_MARK = "์"
 
@@ -68,6 +68,17 @@ def parse_syllables(word):
             syllable += word[i]
             consonants_found += 1
             i += 1
+            if consonants_found == 1 and i < length and word[i] in CONSONANTS:
+                # Check if next consonant is followed by a vowel or tone mark. If so, it probably belongs to the next syllable
+                if i + 1 < length and (word[i+1] in FOLLOWING_VOWELS or word[i+1] in LEADING_VOWELS or word[i+1] in TONE_MARKS):
+                    if word[i] not in 'รลว' or word[i-1] not in 'กขคตปผพ': # rough cluster check
+                        # Wait: if word[i-1] is 'ห' and word[i] is low sonorant, it's a single syllable tone cluster!
+                        if word[i-1] == 'ห' and word[i] in 'งญนมยรลว':
+                            pass
+                        elif word[i-1] == 'อ' and word[i] == 'ย': # อย cluster
+                            pass
+                        else:
+                            break
             if consonants_found >= 2:
                 # Basic heuristic for clusters
                 if i < length and word[i] in CONSONANTS:
@@ -117,9 +128,9 @@ def transcribe(thai_word, rules):
     res = []
     
     for w in words:
-        # Silently remove repetition character
-        w = w.replace('ๆ', '')
-
+        # Handle repetition character explicitly
+        if 'ๆ' in w and "specials" in rules and "ๆ" in rules["specials"]:
+            w = w.replace('ๆ', rules["specials"]["ๆ"])
 
         # Pre-process double ro han
         while 'รร' in w:
@@ -339,6 +350,9 @@ def transcribe(thai_word, rules):
                     idx_a = v_str.find('า')
                     if idx_e < idx_a:
                         v_str = v_str.replace('เ', '', 1).replace('า', 'เา', 1)
+
+                if 'ํ' in v_str and 'า' in v_str:
+                    v_str = v_str.replace('ํ', '').replace('า', 'ำ')
 
                 for v_match, v_rep in sorted(all_vowels.items(), key=lambda x: len(x[0]), reverse=True):
                     if v_match in v_str:

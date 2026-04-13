@@ -280,14 +280,6 @@
     "flags": []
   },
   {
-    "thai": "ล้าน",
-    "phonetic_cs": "lán",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "พื้นที่",
     "phonetic_cs": "phúntý",
     "method_used": "rules",
@@ -1120,14 +1112,6 @@
     "flags": []
   },
   {
-    "thai": "ศูนย์",
-    "phonetic_cs": "sún",
-    "method_used": "rules",
-    "syllable_count": 2,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "รัชสมัย",
     "phonetic_cs": "ratsamaj",
     "method_used": "rules",
@@ -1256,14 +1240,6 @@
     "flags": []
   },
   {
-    "thai": "ตะวันตก",
-    "phonetic_cs": "tavantok",
-    "method_used": "rules",
-    "syllable_count": 4,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "เสริม",
     "phonetic_cs": "sérim",
     "method_used": "rules",
@@ -1378,14 +1354,6 @@
   {
     "thai": "ตอน",
     "phonetic_cs": "tón",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "ใต้",
-    "phonetic_cs": "taj",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -1590,14 +1558,6 @@
     "phonetic_cs": "čöng",
     "method_used": "rules",
     "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "ศึกษา",
-    "phonetic_cs": "suksá",
-    "method_used": "rules",
-    "syllable_count": 2,
     "has_unknown_char": false,
     "flags": []
   },
@@ -2044,14 +2004,6 @@
     "flags": []
   },
   {
-    "thai": "วรรณยุกต์",
-    "phonetic_cs": "vanjuk",
-    "method_used": "rules",
-    "syllable_count": 3,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "รูป",
     "phonetic_cs": "rúp",
     "method_used": "rules",
@@ -2080,22 +2032,6 @@
     "phonetic_cs": "taonan",
     "method_used": "rules",
     "syllable_count": 2,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "เพราะว่า",
-    "phonetic_cs": "phaonavá",
-    "method_used": "rules",
-    "syllable_count": 3,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "เก่า",
-    "phonetic_cs": "kao",
-    "method_used": "rules",
-    "syllable_count": 1,
     "has_unknown_char": false,
     "flags": []
   },
@@ -2148,14 +2084,6 @@
     "flags": []
   },
   {
-    "thai": "ห้อง",
-    "phonetic_cs": "hóng",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "ข้อมูล",
     "phonetic_cs": "khómún",
     "method_used": "rules",
@@ -2190,14 +2118,6 @@
   {
     "thai": "ทรง",
     "phonetic_cs": "trng",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "พ่อ",
-    "phonetic_cs": "phó",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -2310,22 +2230,6 @@
   {
     "thai": "รถ",
     "phonetic_cs": "rot",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "ฟัง",
-    "phonetic_cs": "fang",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "เล็ก",
-    "phonetic_cs": "lek",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -2460,14 +2364,6 @@
     "flags": []
   },
   {
-    "thai": "อ่าน",
-    "phonetic_cs": "án",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "อย่างไร",
     "phonetic_cs": "jángraj",
     "method_used": "rules",
@@ -2566,14 +2462,6 @@
   {
     "thai": "ติด",
     "phonetic_cs": "tyt",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "ใส่",
-    "phonetic_cs": "saj",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -2860,14 +2748,6 @@
     "flags": []
   },
   {
-    "thai": "รู้จัก",
-    "phonetic_cs": "rúdžak",
-    "method_used": "rules",
-    "syllable_count": 2,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "โดยเฉพาะ",
     "phonetic_cs": "dójčaopa",
     "method_used": "rules",
@@ -2902,14 +2782,6 @@
   {
     "thai": "จุด",
     "phonetic_cs": "džut",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "ง่าย",
-    "phonetic_cs": "gáj",
     "method_used": "rules",
     "syllable_count": 1,
     "has_unknown_char": false,
@@ -3024,22 +2896,6 @@
     "phonetic_cs": "khuaámrúsuk",
     "method_used": "rules",
     "syllable_count": 3,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "ที่อยู่",
-    "phonetic_cs": "týójú",
-    "method_used": "rules",
-    "syllable_count": 2,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "เชื่อ",
-    "phonetic_cs": "čúa",
-    "method_used": "rules",
-    "syllable_count": 1,
     "has_unknown_char": false,
     "flags": []
   },
@@ -3374,14 +3230,6 @@
     "flags": []
   },
   {
-    "thai": "ใกล้",
-    "phonetic_cs": "kajn",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "เพลง",
     "phonetic_cs": "phélng",
     "method_used": "rules",
@@ -3406,14 +3254,6 @@
     "flags": []
   },
   {
-    "thai": "ปาก",
-    "phonetic_cs": "pák",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "ความหมาย",
     "phonetic_cs": "khuaámmáj",
     "method_used": "rules",
@@ -3424,14 +3264,6 @@
   {
     "thai": "ทั้งนี้",
     "phonetic_cs": "tangný",
-    "method_used": "rules",
-    "syllable_count": 2,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "สัตว์",
-    "phonetic_cs": "sat",
     "method_used": "rules",
     "syllable_count": 2,
     "has_unknown_char": false,
@@ -3758,14 +3590,6 @@
     "flags": []
   },
   {
-    "thai": "ทหาร",
-    "phonetic_cs": "tahán",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "เหลือ",
     "phonetic_cs": "lúa",
     "method_used": "rules",
@@ -3886,14 +3710,6 @@
     "flags": []
   },
   {
-    "thai": "ร้อน",
-    "phonetic_cs": "rón",
-    "method_used": "rules",
-    "syllable_count": 1,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "ปกครอง",
     "phonetic_cs": "pkkróng",
     "method_used": "rules",
@@ -3950,14 +3766,6 @@
     "flags": []
   },
   {
-    "thai": "หมายถึง",
-    "phonetic_cs": "májthung",
-    "method_used": "rules",
-    "syllable_count": 2,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "เต็ม",
     "phonetic_cs": "tem",
     "method_used": "rules",
@@ -3998,26 +3806,10 @@
     "flags": []
   },
   {
-    "thai": "ร่างกาย",
-    "phonetic_cs": "rángkáj",
-    "method_used": "rules",
-    "syllable_count": 2,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
     "thai": "สนใจ",
     "phonetic_cs": "sondžaj",
     "method_used": "rules",
     "syllable_count": 2,
-    "has_unknown_char": false,
-    "flags": []
-  },
-  {
-    "thai": "อาจารย์",
-    "phonetic_cs": "ádžán",
-    "method_used": "rules",
-    "syllable_count": 3,
     "has_unknown_char": false,
     "flags": []
   },

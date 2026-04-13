@@ -135,13 +135,13 @@
 | ใช่ | yes | čaj | rules |
 | แสดง | show | sédng | rules |
 | กำลัง | energy | kamlang | rules |
-| สร้าง | build | sráng | rules |
+| สร้าง | build | saráng | rules |
 | ท่าน | Sir | tán | rules |
 | เงิน | money | gön | rules |
 | โลก | word | lók | lookup |
 | ช่วย | help | čuaj | rules |
 | กำหนด | set | kamnot | rules |
-| จริง | TRUE | džring | rules |
+| จริง | TRUE | džaring | rules |
 | ขอ | please | khó | lookup |
 | ทำงาน | work | tamgán | rules |
 | ระบบ | system | rabob | rules |

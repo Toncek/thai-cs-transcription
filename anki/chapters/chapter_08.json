@@ -1,0 +1,191 @@
+{
+  "chapter_id": 8,
+  "title_cz": "Tělo",
+  "title_sk": "Telo",
+  "title_th": "ร่างกาย",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "ร่างกาย",
+      "cz": "tělo",
+      "sk": "telo",
+      "czph": "ráng káj"
+    },
+    {
+      "th": "หัว",
+      "cz": "hlava",
+      "sk": "hlava",
+      "czph": "húa"
+    },
+    {
+      "th": "ตา",
+      "cz": "oko",
+      "sk": "oko",
+      "czph": "tá"
+    },
+    {
+      "th": "หู",
+      "cz": "ucho",
+      "sk": "ucho",
+      "czph": "hú"
+    },
+    {
+      "th": "จมูก",
+      "cz": "nos",
+      "sk": "nos",
+      "czph": "džamúk"
+    },
+    {
+      "th": "ปาก",
+      "cz": "ústa",
+      "sk": "ústa",
+      "czph": "pák"
+    },
+    {
+      "th": "ฟัน",
+      "cz": "zub",
+      "sk": "zub",
+      "czph": "fan"
+    },
+    {
+      "th": "ผม",
+      "cz": "vlasy",
+      "sk": "vlasy",
+      "czph": "phom"
+    },
+    {
+      "th": "มือ",
+      "cz": "ruka",
+      "sk": "ruka",
+      "czph": "mü"
+    },
+    {
+      "th": "แขน",
+      "cz": "paže",
+      "sk": "paže",
+      "czph": "khén"
+    },
+    {
+      "th": "ขา",
+      "cz": "noha",
+      "sk": "noha",
+      "czph": "khá"
+    },
+    {
+      "th": "เท้า",
+      "cz": "chodidlo",
+      "sk": "chodidlo",
+      "czph": "thao"
+    },
+    {
+      "th": "เจ็บ",
+      "cz": "bolet",
+      "sk": "bolieť",
+      "czph": "džep"
+    },
+    {
+      "th": "ป่วย",
+      "cz": "být nemocný",
+      "sk": "byť chorý",
+      "czph": "puaj"
+    },
+    {
+      "th": "ยา",
+      "cz": "lék",
+      "sk": "liek",
+      "czph": "já"
+    },
+    {
+      "th": "หมอ",
+      "cz": "doktor",
+      "sk": "doktor",
+      "czph": "mó"
+    },
+    {
+      "th": "โรงพยาบาล",
+      "cz": "nemocnice",
+      "sk": "nemocnica",
+      "czph": "róng pha já bán"
+    },
+    {
+      "th": "เหนื่อย",
+      "cz": "unavený",
+      "sk": "unavený",
+      "czph": "núaj"
+    },
+    {
+      "th": "พักผ่อน",
+      "cz": "odpočívat",
+      "sk": "odpočívať",
+      "czph": "phakphón"
+    },
+    {
+      "th": "ดีขึ้น",
+      "cz": "zlepšit se",
+      "sk": "zlepšiť sa",
+      "czph": "dýkhun"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "ผมเจ็บหัว",
+      "cz": "Bolí mě hlava.",
+      "sk": "Bolí ma hlava.",
+      "czph": "phomdžephúa"
+    },
+    {
+      "th": "ฉันป่วย",
+      "cz": "Jsem nemocná.",
+      "sk": "Som chorá.",
+      "czph": "čanpuaj"
+    },
+    {
+      "th": "ไปหาหมอ",
+      "cz": "Jít k doktorovi.",
+      "sk": "Ísť k doktorovi.",
+      "czph": "pajhámó"
+    },
+    {
+      "th": "โรงพยาบาลอยู่ไหน",
+      "cz": "Kde je nemocnice?",
+      "sk": "Kde je nemocnica?",
+      "czph": "rógpjábánjúnaj"
+    },
+    {
+      "th": "กินยา",
+      "cz": "Vzít si lék.",
+      "sk": "Vziať si liek.",
+      "czph": "kinjá"
+    },
+    {
+      "th": "ตาของเขา",
+      "cz": "Jeho oči.",
+      "sk": "Jeho oči.",
+      "czph": "tákagakhao"
+    },
+    {
+      "th": "เจ็บฟัน",
+      "cz": "Bolí mě zub.",
+      "sk": "Bolí ma zub.",
+      "czph": "džepfan"
+    },
+    {
+      "th": "ผมเหนื่อยมาก",
+      "cz": "Jsem velmi unavený.",
+      "sk": "Som veľmi unavený.",
+      "czph": "phomnúajmák"
+    },
+    {
+      "th": "พักผ่อนหน่อย",
+      "cz": "Trochu si odpočiň.",
+      "sk": "Trochu si odpočiň.",
+      "czph": "phakphónnój"
+    },
+    {
+      "th": "ดีขึ้นไหม",
+      "cz": "Je to lepší?",
+      "sk": "Je to lepšie?",
+      "czph": "dýkhunmaj"
+    }
+  ]
+}

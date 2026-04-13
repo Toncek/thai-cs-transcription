@@ -103,5 +103,29 @@
     },
     {
         "thai": "ทำงาน"
+    },
+    {
+        "thai": "ฤ",
+        "current_output": "ri",
+        "expected_behavior_note": "should transcribe to ri",
+        "failure_type": "unknown_char"
+    },
+    {
+        "thai": "฿",
+        "current_output": "baht",
+        "expected_behavior_note": "should transcribe to baht",
+        "failure_type": "unknown_char"
+    },
+    {
+        "thai": "…",
+        "current_output": "…",
+        "expected_behavior_note": "should preserve ellipsis",
+        "failure_type": "unknown_char"
+    },
+    {
+        "thai": "เด็ก ๆ",
+        "current_output": "dek jamok",
+        "expected_behavior_note": "should repeat the previous word: dek dek",
+        "failure_type": "yamok"
     }
 ]

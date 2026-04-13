@@ -52,7 +52,7 @@ SILENT_MARK = "์"
 
 CONSONANTS = set([chr(i) for i in range(ord('ก'), ord('ฮ') + 1)])
 
-ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,")
+ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöýABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,/()[]…")
 
 def parse_syllables(word):
     syllables = []
@@ -123,6 +123,9 @@ def transcribe(thai_word, rules):
 
     if "exceptions" in rules and thai_word in rules["exceptions"]:
         return rules["exceptions"][thai_word]
+
+    if "specials" in rules and thai_word in rules["specials"]:
+        return rules["specials"][thai_word]
         
     initials = rules.get("initials", {})
     finals = rules.get("finals", {})

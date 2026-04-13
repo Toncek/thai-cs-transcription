@@ -2,6 +2,11 @@ import json
 import logging
 from pathlib import Path
 
+try:
+    from pythainlp.tokenize import subword_tokenize
+except ImportError:
+    subword_tokenize = None
+
 logger = logging.getLogger(__name__)
 
 def load_rules(rules_path=None):
@@ -111,6 +116,8 @@ def transcribe(thai_word, rules):
     thai_word = thai_word.strip()
     
     lookup = load_lookup()
+
+    # Fast path for complete matches
     if thai_word in lookup:
         return lookup[thai_word]
 
@@ -124,14 +131,58 @@ def transcribe(thai_word, rules):
     
     logger.info(f"Uncertain pattern applied for: {thai_word.replace('\n', '').replace('\r', '')}")
     
-    thai_word_spaced = thai_word.replace('ๆ', ' ๆ ')
-    words = thai_word_spaced.split()
+    if subword_tokenize:
+        # Using subword_tokenize with dict engine to split syllables/subwords like 'วัน', 'นี้'
+        tokens = subword_tokenize(thai_word, engine="dict")
+    else:
+        thai_word_spaced = thai_word.replace('ๆ', ' ๆ ')
+        tokens = thai_word_spaced.split()
+
+    # Greedy merge tokens that exist in lookup
+    merged_tokens = []
+    i = 0
+    while i < len(tokens):
+        if tokens[i].strip() == '':
+            i += 1
+            continue
+
+        # Try to match largest possible sequence in lookup
+        matched = False
+        for j in range(len(tokens), i, -1):
+            cand = "".join(tokens[i:j])
+            if cand in lookup:
+                merged_tokens.append(cand)
+                i = j
+                matched = True
+                break
+            elif "exceptions" in rules and cand in rules["exceptions"]:
+                merged_tokens.append(cand)
+                i = j
+                matched = True
+                break
+
+        if not matched:
+            merged_tokens.append(tokens[i])
+            i += 1
+
     res = []
     
-    for w in words:
+    for w in merged_tokens:
+        w = w.strip()
+        if not w:
+            continue
+
         if w == 'ๆ':
             if res:
                 res.append(res[-1])
+            continue
+
+        if w in lookup:
+            res.append(lookup[w])
+            continue
+
+        if "exceptions" in rules and w in rules["exceptions"]:
+            res.append(rules["exceptions"][w])
             continue
 
         # Pre-process double ro han

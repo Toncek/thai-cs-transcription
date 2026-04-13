@@ -23,3 +23,6 @@
 - **Initial ง preference**: `ง` maps to `g` when functioning as the initial consonant of a syllable instead of `ng`, as `ng` is unnatural for a Czech reader at the start of a syllable (e.g., `ทำงาน` -> `tamgán`).
 - **ฎ consonant**: `ฎ` maps to `d` as an initial consonant, and `t` as a final consonant (e.g., `กฎหมาย` -> `kotmáj`).
 - **Maiyamok (ๆ)**: The repetition symbol `ๆ` directly maps to the Czech representation `jamok`.
+## Sentence Handling
+- Multi-word inputs are tokenized into words and separated by spaces.
+- Sentence-ending punctuation from Czech/Slovak translation (e.g. `?` or `!`) is preserved. If the sentence ends with a `.`, it is stripped.

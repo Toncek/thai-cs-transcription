@@ -1,758 +1,870 @@
 [
   {
-    "thai": "ื",
-    "phonetic_cs": "ú"
+    "thai": "กระเพาะอาหาร",
+    "phonetic_cs": "krapho áhán"
   },
   {
-    "thai": "บันได",
-    "phonetic_cs": "bandaj"
+    "thai": "น้า",
+    "phonetic_cs": "ná"
   },
   {
-    "thai": "ฬ จฬา",
-    "phonetic_cs": "drak - hvězda"
+    "thai": "ติดต่อสถานที่ราชการ",
+    "phonetic_cs": "tyt tó sathán thý ráčakán"
   },
   {
-    "thai": "ล ลิง",
-    "phonetic_cs": "opice"
+    "thai": "หูตอนกลางอักเสบ",
+    "phonetic_cs": "hú tón kláng aksép"
   },
   {
-    "thai": "เรอ",
-    "phonetic_cs": "ré"
+    "thai": "ม่านตา",
+    "phonetic_cs": "mán tá"
   },
   {
-    "thai": "คม",
-    "phonetic_cs": "khom"
+    "thai": "อนุสาวรีย์",
+    "phonetic_cs": "anusávarý"
   },
   {
-    "thai": "กระเจี๊ยบ",
-    "phonetic_cs": "kradžíjap"
+    "thai": "ท้องผูก",
+    "phonetic_cs": "thóng phúk"
   },
   {
-    "thai": "โกะโตะ",
-    "phonetic_cs": "koto"
+    "thai": "ช่างไม้",
+    "phonetic_cs": "čáng máj"
   },
   {
-    "thai": "วายนํ้ม",
-    "phonetic_cs": "váj nám"
-  },
-  {
-    "thai": "นนทบุรี",
-    "phonetic_cs": "nonthaburý"
-  },
-  {
-    "thai": "อวน",
-    "phonetic_cs": "uan"
-  },
-  {
-    "thai": "มะเขือมวง",
-    "phonetic_cs": "makhúa muang"
-  },
-  {
-    "thai": "แมนํ้าเหลือง",
-    "phonetic_cs": "ménám lúang"
-  },
-  {
-    "thai": "เขาผูหญิง",
-    "phonetic_cs": "khao phú jing"
-  },
-  {
-    "thai": "นํ้ายาฟอกขาว",
-    "phonetic_cs": "nám já fók kháu"
-  },
-  {
-    "thai": "ปฃาล",
-    "phonetic_cs": "pí khán"
-  },
-  {
-    "thai": "สินคาราคาพเิ ศษ",
-    "phonetic_cs": "sinkhá rákhá physét"
-  },
-  {
-    "thai": "ในหองตรวจโรค",
-    "phonetic_cs": "naj hóng truat rók"
-  },
-  {
-    "thai": "ขาตั้งรถ",
-    "phonetic_cs": "khá tang rot"
-  },
-  {
-    "thai": "หมอฟน / ทันตแพทย",
-    "phonetic_cs": "mó fan / thantaphét"
-  },
-  {
-    "thai": "ดานเก็บคาผานทาง",
-    "phonetic_cs": "dán kep khá phántháng"
+    "thai": "ปอด",
+    "phonetic_cs": "pót"
   },
   {
     "thai": "เครื่องขยายเสียง",
     "phonetic_cs": "khrúang khajáj síjang"
   },
   {
-    "thai": "เกาอี้หนาเคานเตอร",
-    "phonetic_cs": "kau í ná kháu té"
+    "thai": "นกคีรีบูน",
+    "phonetic_cs": "nok khýrýbún"
   },
   {
-    "thai": "ทองเรียน",
-    "phonetic_cs": "hóng rýjan"
-  },
-  {
-    "thai": "ไมมีส ี",
-    "phonetic_cs": "maj mí sí"
-  },
-  {
-    "thai": "นิ้วเทา",
-    "phonetic_cs": "njú tháu"
-  },
-  {
-    "thai": "รํามะนาด",
-    "phonetic_cs": "rammanát"
-  },
-  {
-    "thai": "แมนํ้าไนล",
-    "phonetic_cs": "ménám náj"
-  },
-  {
-    "thai": "จดหมาย",
-    "phonetic_cs": "džotmáj"
-  },
-  {
-    "thai": "เขียน",
-    "phonetic_cs": "khýjan"
-  },
-  {
-    "thai": "จับกุม",
-    "phonetic_cs": "džap kum"
-  },
-  {
-    "thai": "แกม",
-    "phonetic_cs": "kém"
-  },
-  {
-    "thai": "รถทัวร",
-    "phonetic_cs": "rot thua"
-  },
-  {
-    "thai": "สมัย",
-    "phonetic_cs": "sa maj"
-  },
-  {
-    "thai": "ผลบวก",
-    "phonetic_cs": "phon búak"
-  },
-  {
-    "thai": "มาน",
-    "phonetic_cs": "mán"
-  },
-  {
-    "thai": "สะพาน",
-    "phonetic_cs": "saphán"
-  },
-  {
-    "thai": "เทปใส",
-    "phonetic_cs": "thépsaj"
-  },
-  {
-    "thai": "เตาบก",
-    "phonetic_cs": "tau bok"
-  },
-  {
-    "thai": "ปวอก",
-    "phonetic_cs": "pí vók"
-  },
-  {
-    "thai": "เสาอากาศ",
-    "phonetic_cs": "sáu ákát"
-  },
-  {
-    "thai": "พลาสเตอรปดแผล",
+    "thai": "พลาสเตอร์ปูดแผล",
     "phonetic_cs": "phlásté pit phlé"
   },
   {
-    "thai": "ตูเสึ้อผา",
-    "phonetic_cs": "tú súa phá"
+    "thai": "ห้า",
+    "phonetic_cs": "há"
   },
   {
-    "thai": "เมตร",
-    "phonetic_cs": "mét"
+    "thai": "จืด",
+    "phonetic_cs": "džút"
   },
   {
-    "thai": "หมูบาน",
-    "phonetic_cs": "mú bán"
+    "thai": "โครงกระดกู",
+    "phonetic_cs": "khrong kradúk"
   },
   {
-    "thai": "นํ้าทะเล",
-    "phonetic_cs": "nám thalé"
+    "thai": "ยาลดไข้",
+    "phonetic_cs": "já lot khaj"
   },
   {
-    "thai": "มะเดื่อ",
-    "phonetic_cs": "madúa"
+    "thai": "ยาปฏิชีวนะ",
+    "phonetic_cs": "já pathyčívaná"
   },
   {
-    "thai": "สปู",
-    "phonetic_cs": "sabú"
+    "thai": "ด่านเก็บค่าผานทาง",
+    "phonetic_cs": "dán kep khá phántháng"
   },
   {
-    "thai": "ยาหยอดตา",
-    "phonetic_cs": "já jót tá"
+    "thai": "ชัยภูมิ",
+    "phonetic_cs": "čajaphúmi"
   },
   {
-    "thai": "ฝงโนน",
-    "phonetic_cs": "fang nón"
+    "thai": "รักแร้",
+    "phonetic_cs": "rakré"
   },
   {
-    "thai": "การใหโลหิต/เลือด",
-    "phonetic_cs": "kán háj lóhyt / lúat"
+    "thai": "ผ้าเช็ดมือ",
+    "phonetic_cs": "phá čet mú"
   },
   {
-    "thai": "บังกาโล",
-    "phonetic_cs": "bangkáló"
+    "thai": "ต เต่า",
+    "phonetic_cs": "želva"
   },
   {
-    "thai": "ลางสาด",
-    "phonetic_cs": "lángsát"
+    "thai": "เค้ก",
+    "phonetic_cs": "khék"
   },
   {
-    "thai": "รานกาแพ",
-    "phonetic_cs": "rán káfé"
-  },
-  {
-    "thai": "ตะวันออก",
-    "phonetic_cs": "tavan ók"
-  },
-  {
-    "thai": "อาหารกลางวัน",
-    "phonetic_cs": "áhán kláng van"
-  },
-  {
-    "thai": "บัตรเอทีเอ็ม",
-    "phonetic_cs": "bat é thý em"
-  },
-  {
-    "thai": "โรคพิษสุราเรื้อรัง",
-    "phonetic_cs": "rók phytsurá rúarang"
-  },
-  {
-    "thai": "หูโทรศัพท",
-    "phonetic_cs": "hú thórasap"
-  },
-  {
-    "thai": "สกลนคร",
-    "phonetic_cs": "sakon nakhon"
-  },
-  {
-    "thai": "ลูกออด",
-    "phonetic_cs": "lúk ót"
-  },
-  {
-    "thai": "ออรแกน",
-    "phonetic_cs": "ókén"
-  },
-  {
-    "thai": "ดารา",
-    "phonetic_cs": "dárá"
-  },
-  {
-    "thai": "มีดโกน",
-    "phonetic_cs": "mít kón"
-  },
-  {
-    "thai": "ติดตอสถานที่ราชการ",
-    "phonetic_cs": "tyt tó sathán thý ráčakán"
-  },
-  {
-    "thai": "ตํารวจ",
-    "phonetic_cs": "tamruat"
-  },
-  {
-    "thai": "อูฐ",
-    "phonetic_cs": "út"
-  },
-  {
-    "thai": "โดยไม",
-    "phonetic_cs": "dój maj"
-  },
-  {
-    "thai": "นักบิน",
-    "phonetic_cs": "nak bin"
-  },
-  {
-    "thai": "บ ใบไม",
-    "phonetic_cs": "list"
-  },
-  {
-    "thai": "ตกเครื่องบิน",
-    "phonetic_cs": "tok khrúang bin"
-  },
-  {
-    "thai": "เพราะวา",
-    "phonetic_cs": "phro vá"
-  },
-  {
-    "thai": "สูติบัตร",
-    "phonetic_cs": "súty bat"
-  },
-  {
-    "thai": "เกา",
-    "phonetic_cs": "kau"
-  },
-  {
-    "thai": "เจดีย",
-    "phonetic_cs": "džédý"
-  },
-  {
-    "thai": "บุรีรัมย",
-    "phonetic_cs": "burý ram"
-  },
-  {
-    "thai": "บวงสรวง",
-    "phonetic_cs": "búang súang"
-  },
-  {
-    "thai": "ซามิเซง",
-    "phonetic_cs": "sámiseng"
-  },
-  {
-    "thai": "เผือกหอม",
-    "phonetic_cs": "phúak hóm"
-  },
-  {
-    "thai": "หงส",
-    "phonetic_cs": "hong"
-  },
-  {
-    "thai": "ปายชื่อ",
-    "phonetic_cs": "páj čú"
-  },
-  {
-    "thai": "พนักงานตอนรับ",
-    "phonetic_cs": "phanak ngán tónrap"
-  },
-  {
-    "thai": "ข ไข",
-    "phonetic_cs": "vejce"
-  },
-  {
-    "thai": "ถุงชอปปง",
-    "phonetic_cs": "klóng čóping"
-  },
-  {
-    "thai": "สิ่งตีพิมพ",
-    "phonetic_cs": "sintý phym"
-  },
-  {
-    "thai": "ไฟทาย",
-    "phonetic_cs": "faj tháj"
-  },
-  {
-    "thai": "วันพอ",
-    "phonetic_cs": "van phó"
-  },
-  {
-    "thai": "ฆา",
-    "phonetic_cs": "khá"
-  },
-  {
-    "thai": "นิ้วโปง",
-    "phonetic_cs": "njú póng"
-  },
-  {
-    "thai": "สกี",
-    "phonetic_cs": "saký"
-  },
-  {
-    "thai": "เชื้อโรค",
-    "phonetic_cs": "čúa rók"
-  },
-  {
-    "thai": "บานพับ",
-    "phonetic_cs": "bán phap"
-  },
-  {
-    "thai": "โ",
-    "phonetic_cs": "ó"
-  },
-  {
-    "thai": "ที่หลาดินสอ",
-    "phonetic_cs": "thý lau dynsó"
-  },
-  {
-    "thai": "ลุง",
-    "phonetic_cs": "lung"
-  },
-  {
-    "thai": "เหบ / หมัด",
-    "phonetic_cs": "hep / mat"
-  },
-  {
-    "thai": "หนาวสั่น",
-    "phonetic_cs": "náu san"
-  },
-  {
-    "thai": "ใกล",
-    "phonetic_cs": "klaj"
-  },
-  {
-    "thai": "หึงหวง",
-    "phonetic_cs": "hung húang"
-  },
-  {
-    "thai": "หมวกกันนอค",
-    "phonetic_cs": "muak kan nok"
-  },
-  {
-    "thai": "ทะเลดํา",
-    "phonetic_cs": "thalé dam"
-  },
-  {
-    "thai": "รถนอน",
-    "phonetic_cs": "rot nón"
-  },
-  {
-    "thai": "ภาษีศุลกากร",
-    "phonetic_cs": "phásí sunlakákon"
-  },
-  {
-    "thai": "ฐ ฐาน",
-    "phonetic_cs": "podstavec, základ"
-  },
-  {
-    "thai": "วัด",
-    "phonetic_cs": "vat"
-  },
-  {
-    "thai": "คูณ",
-    "phonetic_cs": "khún"
-  },
-  {
-    "thai": "เชอรี่",
-    "phonetic_cs": "čérý"
-  },
-  {
-    "thai": "ขาง ๆ",
-    "phonetic_cs": "khang kháng"
-  },
-  {
-    "thai": "ปลูกตนไม",
-    "phonetic_cs": "plúk tonmáj"
-  },
-  {
-    "thai": "หมอ",
-    "phonetic_cs": "mó"
-  },
-  {
-    "thai": "ลูกเขย",
-    "phonetic_cs": "lúk khej"
-  },
-  {
-    "thai": "อางอาบนํ้า",
-    "phonetic_cs": "áng ápnám"
-  },
-  {
-    "thai": "กริยาวิเศษณ",
-    "phonetic_cs": "kryjá visét"
-  },
-  {
-    "thai": "จานดาวเทียน",
-    "phonetic_cs": "džán dáu thýjam"
-  },
-  {
-    "thai": "กรีฑา",
-    "phonetic_cs": "krythá"
-  },
-  {
-    "thai": "รถสเตชั่นแวกอน",
-    "phonetic_cs": "rot satéčan vékon"
-  },
-  {
-    "thai": "หลงใหล",
-    "phonetic_cs": "long laj"
-  },
-  {
-    "thai": "ลําไสใหญ",
-    "phonetic_cs": "lamsaj jaj"
-  },
-  {
-    "thai": "ฝากระโปรงหนา",
-    "phonetic_cs": "fá krapróng ná"
-  },
-  {
-    "thai": "ประตูรั้ว",
-    "phonetic_cs": "pratú rúa"
-  },
-  {
-    "thai": "เกาอี้ทําฟน",
-    "phonetic_cs": "kau í tham fan"
-  },
-  {
-    "thai": "เซนติลิตร",
-    "phonetic_cs": "sán ty lit"
-  },
-  {
-    "thai": "หองคนไข",
-    "phonetic_cs": "hóng khon khaj"
-  },
-  {
-    "thai": "บัตรเครดิต",
-    "phonetic_cs": "bat khrédyt"
-  },
-  {
-    "thai": "ขางนอก",
-    "phonetic_cs": "kháng nók"
-  },
-  {
-    "thai": "ซีซ ี",
-    "phonetic_cs": "sí sí"
-  },
-  {
-    "thai": "โรงไฟฟา",
-    "phonetic_cs": "róng faj fá"
-  },
-  {
-    "thai": "รถสองแถว",
-    "phonetic_cs": "rot sóng théo"
-  },
-  {
-    "thai": "ดํานํ้า",
-    "phonetic_cs": "dam nám"
-  },
-  {
-    "thai": "ไกทอด",
-    "phonetic_cs": "kaj thót"
-  },
-  {
-    "thai": "ลูกสาว",
-    "phonetic_cs": "lúk sáu"
-  },
-  {
-    "thai": "เ า",
-    "phonetic_cs": "au"
-  },
-  {
-    "thai": "หกโมงเย็น",
-    "phonetic_cs": "hok móng jen"
-  },
-  {
-    "thai": "ผลตาง",
-    "phonetic_cs": "phon lob"
-  },
-  {
-    "thai": "ปวดหัว",
-    "phonetic_cs": "puat hua"
-  },
-  {
-    "thai": "เสาวรส",
-    "phonetic_cs": "sauvarot"
-  },
-  {
-    "thai": "ลูกสาวคนโต",
-    "phonetic_cs": "lúk sau khontó"
-  },
-  {
-    "thai": "เครื่องอบผา",
-    "phonetic_cs": "khrúang op phá"
-  },
-  {
-    "thai": "เครื่องพิมพดีด",
-    "phonetic_cs": "khrúang phym dýt"
-  },
-  {
-    "thai": "หัวผักกาด",
-    "phonetic_cs": "húa phak kát"
-  },
-  {
-    "thai": "ทุเรียน",
-    "phonetic_cs": "thuryjan"
+    "thai": "ลูกชายคนรอง",
+    "phonetic_cs": "lúk čáj khon róng"
   },
   {
     "thai": "โขดหิน",
     "phonetic_cs": "khót hyn"
   },
   {
-    "thai": "ู",
-    "phonetic_cs": "ú"
+    "thai": "ฆ ระฆัง",
+    "phonetic_cs": "zvon"
   },
   {
-    "thai": "ซีอิ๊ว",
-    "phonetic_cs": "sí íju"
-  },
-  {
-    "thai": "ทะเลจีนใต",
-    "phonetic_cs": "thalé džín táj"
-  },
-  {
-    "thai": "มายองเนส",
-    "phonetic_cs": "májóngnét"
-  },
-  {
-    "thai": "ที่เขี่ยบุหรี่",
-    "phonetic_cs": "thýkhyja burý"
-  },
-  {
-    "thai": "นองชาย",
-    "phonetic_cs": "nóng čáj"
+    "thai": "มะม่วง",
+    "phonetic_cs": "mamuang"
   },
   {
     "thai": "ชุดไทย",
     "phonetic_cs": "čut thaj"
   },
   {
-    "thai": "เครื่องชั่งนํ่าหนัก",
-    "phonetic_cs": "khrúang čang nám nak"
+    "thai": "สิบสาม",
+    "phonetic_cs": "sip sám"
   },
   {
-    "thai": "คนสงหนังสื่อพิมพ",
-    "phonetic_cs": "khon song nangsú phym"
+    "thai": "ตรงปลาย",
+    "phonetic_cs": "trong pláj"
   },
   {
-    "thai": "หลัง",
-    "phonetic_cs": "lang"
+    "thai": "มีเมฆ",
+    "phonetic_cs": "mí mék"
   },
   {
-    "thai": "ไสกรอก",
-    "phonetic_cs": "sajkrók"
+    "thai": "เสษสามส่วนสี่",
+    "phonetic_cs": "sét sám súan sí"
   },
   {
-    "thai": "นั่ง",
-    "phonetic_cs": "nang"
+    "thai": "จิ้งจก",
+    "phonetic_cs": "džingdžok"
   },
   {
-    "thai": "ราวแขวนผาช็ดตัว",
-    "phonetic_cs": "ráu khvén phá čet tua"
+    "thai": "ราศีธนู",
+    "phonetic_cs": "rásí thanú"
+  },
+  {
+    "thai": "บุรีรัมย",
+    "phonetic_cs": "burý ram"
+  },
+  {
+    "thai": "ถุงท้ายาว",
+    "phonetic_cs": "thung tháu jáu"
+  },
+  {
+    "thai": "ชุดว่ยมํ้า",
+    "phonetic_cs": "čut váj nám"
+  },
+  {
+    "thai": "ห้องน่งั ลน่",
+    "phonetic_cs": "hóng nang len"
+  },
+  {
+    "thai": "ใบสั่งอาหาร",
+    "phonetic_cs": "baj sang áhán"
+  },
+  {
+    "thai": "ถุงท้า",
+    "phonetic_cs": "thung tháu"
+  },
+  {
+    "thai": "บังโคลนหลัง",
+    "phonetic_cs": "bangkhlón lang"
+  },
+  {
+    "thai": "คลื่น",
+    "phonetic_cs": "khlún"
+  },
+  {
+    "thai": "แม่นํ้าไนเจอร์",
+    "phonetic_cs": "ménám najdžé"
+  },
+  {
+    "thai": "ที่ว่าการอําเภอ",
+    "phonetic_cs": "thý vákán amphé"
+  },
+  {
+    "thai": "นกเป่ดนํ้า",
+    "phonetic_cs": "nok pet nám"
+  },
+  {
+    "thai": "ตู้โทรศัพท์",
+    "phonetic_cs": "tú thórasap"
+  },
+  {
+    "thai": "ลูกเห็บ",
+    "phonetic_cs": "lúkhep"
+  },
+  {
+    "thai": "คนเดินถนน",
+    "phonetic_cs": "khon dén thanon"
   },
   {
     "thai": "โรงเรียน",
     "phonetic_cs": "róng rýjan"
   },
   {
-    "thai": "เกาอี้",
-    "phonetic_cs": "kau í"
+    "thai": "ศาลเจ้า",
+    "phonetic_cs": "sán džáu"
   },
   {
-    "thai": "เสือ (เสือโครง)",
-    "phonetic_cs": "súa / súa khróng"
+    "thai": "บ่อย",
+    "phonetic_cs": "bój"
   },
   {
-    "thai": "ทะเลทราย",
-    "phonetic_cs": "thalé sáj"
+    "thai": "รอบ",
+    "phonetic_cs": "róp"
   },
   {
-    "thai": "แผนกประสาทวิทยา",
-    "phonetic_cs": "phanék prasát vythajá"
+    "thai": "เลยไป",
+    "phonetic_cs": "lé paj"
   },
   {
-    "thai": "ทนาย",
-    "phonetic_cs": "thanáj"
+    "thai": "มิลลิเมตร",
+    "phonetic_cs": "mitlimét"
   },
   {
-    "thai": "แผนผาก็อต",
-    "phonetic_cs": "phén phákót"
+    "thai": "ปฺมะแม",
+    "phonetic_cs": "pí mamaé"
   },
   {
-    "thai": "ชี",
-    "phonetic_cs": "čí"
+    "thai": "เตะ",
+    "phonetic_cs": "te"
   },
   {
-    "thai": "นาสนใจ",
-    "phonetic_cs": "ná sondžaj"
+    "thai": "คันสตาร์ทรถ",
+    "phonetic_cs": "khan satát rot"
   },
   {
-    "thai": "วิ่ง",
-    "phonetic_cs": "ving"
+    "thai": "นนทบุรี",
+    "phonetic_cs": "nonthaburý"
   },
   {
-    "thai": "นักประพันธ",
-    "phonetic_cs": "nak praphan"
+    "thai": "ข้าง ๆ",
+    "phonetic_cs": "khang kháng"
   },
   {
-    "thai": "แข็ง",
-    "phonetic_cs": "khéng"
+    "thai": "โกน",
+    "phonetic_cs": "kón"
   },
   {
-    "thai": "บางครั้ง",
-    "phonetic_cs": "báng khrang"
+    "thai": "ขอศอก",
+    "phonetic_cs": "khósók"
   },
   {
-    "thai": "ปจอ",
-    "phonetic_cs": "pí džó"
+    "thai": "ลูกท้อ",
+    "phonetic_cs": "lúkthó"
   },
   {
-    "thai": "ลวงกระเปา",
-    "phonetic_cs": "luang krapau"
+    "thai": "มะละกอ",
+    "phonetic_cs": "malakó"
   },
   {
-    "thai": "ปต ตานี",
-    "phonetic_cs": "paththáný"
+    "thai": "สิบเอ็ด",
+    "phonetic_cs": "sip et"
   },
   {
-    "thai": "ยาจีน",
-    "phonetic_cs": "já džín"
+    "thai": "แปรงสีฟัน",
+    "phonetic_cs": "préng sí fan"
   },
   {
-    "thai": "นักศึกษา",
-    "phonetic_cs": "nak suksá"
+    "thai": "วันอังคาร",
+    "phonetic_cs": "van anghán"
   },
   {
-    "thai": "วา",
-    "phonetic_cs": "vá"
+    "thai": "ลูก",
+    "phonetic_cs": "lúk"
   },
   {
-    "thai": "สายวัดนํ้ามันเครื่อง",
-    "phonetic_cs": "sáj vát nám man khrúang"
+    "thai": "การรถไฟ",
+    "phonetic_cs": "kán rot faj"
   },
   {
-    "thai": "ธนาคาร",
-    "phonetic_cs": "thanákhán"
+    "thai": "เขียวขจี",
+    "phonetic_cs": "khýjau khadží"
   },
   {
-    "thai": "จังหวัด",
-    "phonetic_cs": "džang vat"
+    "thai": "เสื้อเชิ้ต",
+    "phonetic_cs": "súa (čoét)"
   },
   {
-    "thai": "ขางหนา",
-    "phonetic_cs": "kháng ná"
+    "thai": "ที่เปลี่ยนเกียร์",
+    "phonetic_cs": "thý plijan kyja"
   },
   {
-    "thai": "ฝากเงิน",
-    "phonetic_cs": "fák ngén"
+    "thai": "นํ้าปลา",
+    "phonetic_cs": "nám plá"
   },
   {
-    "thai": "ฯลฯ",
-    "phonetic_cs": "phaján jaj"
+    "thai": "ราศีพิจิก",
+    "phonetic_cs": "rásí phydžik"
   },
   {
-    "thai": "ภัตตาคารอาหารไทย",
-    "phonetic_cs": "phat thákhán áhán thaj"
+    "thai": "สะสมของเก่า",
+    "phonetic_cs": "sasom khong kau"
   },
   {
-    "thai": "กา",
-    "phonetic_cs": "ká"
+    "thai": "กระรอก",
+    "phonetic_cs": "krarók"
   },
   {
-    "thai": "ราศีกุนภ",
-    "phonetic_cs": "rásí kum"
+    "thai": "กระดูกซี่โครง",
+    "phonetic_cs": "kradúk síkhróng"
+  },
+  {
+    "thai": "ฦดูร้อน",
+    "phonetic_cs": "rudú rón"
+  },
+  {
+    "thai": "นกพิราบ",
+    "phonetic_cs": "nok phyráp"
+  },
+  {
+    "thai": "ไนท์คลับ",
+    "phonetic_cs": "naj khlab"
+  },
+  {
+    "thai": "ว่ยมํ้า",
+    "phonetic_cs": "váj nám"
+  },
+  {
+    "thai": "เดือนเมษายน",
+    "phonetic_cs": "dúan mésájon"
+  },
+  {
+    "thai": "ท ทหาร",
+    "phonetic_cs": "voják"
+  },
+  {
+    "thai": "หนังสือมอบอํานาจ",
+    "phonetic_cs": "nangsú móp amnát"
+  },
+  {
+    "thai": "ปอดอักเสบ",
+    "phonetic_cs": "pót aksép"
+  },
+  {
+    "thai": "ร้อย",
+    "phonetic_cs": "rój"
+  },
+  {
+    "thai": "นักหนังสือพิมพ ์",
+    "phonetic_cs": "nak nangsú phym"
+  },
+  {
+    "thai": "ต้นแขน",
+    "phonetic_cs": "ton khén"
+  },
+  {
+    "thai": "ละมุด",
+    "phonetic_cs": "lamut"
+  },
+  {
+    "thai": "กระโปรง",
+    "phonetic_cs": "krapróng"
+  },
+  {
+    "thai": "ไม้ฦ๊พึ้น",
+    "phonetic_cs": "máj thú phún"
+  },
+  {
+    "thai": "พูด",
+    "phonetic_cs": "phút"
+  },
+  {
+    "thai": "หนาวสั่น",
+    "phonetic_cs": "náu san"
+  },
+  {
+    "thai": "รังนก",
+    "phonetic_cs": "rang nok"
+  },
+  {
+    "thai": "นํ้าสลัด",
+    "phonetic_cs": "nám salat"
+  },
+  {
+    "thai": "ฉิ่ง",
+    "phonetic_cs": "čing"
+  },
+  {
+    "thai": "ไปรษณีย ์",
+    "phonetic_cs": "prajsaný"
+  },
+  {
+    "thai": "หมอ/แพทย์",
+    "phonetic_cs": "mó / phét"
+  },
+  {
+    "thai": "ไอ",
+    "phonetic_cs": "aj"
+  },
+  {
+    "thai": "หมวกแก๊ป",
+    "phonetic_cs": "múak kaép"
+  },
+  {
+    "thai": "แมลงปอ",
+    "phonetic_cs": "maléng pó"
+  },
+  {
+    "thai": "ระนาด",
+    "phonetic_cs": "ranát"
+  },
+  {
+    "thai": "ใบ",
+    "phonetic_cs": "baj"
+  },
+  {
+    "thai": "ส่ง",
+    "phonetic_cs": "song"
+  },
+  {
+    "thai": "ทะเลสาบ",
+    "phonetic_cs": "thalé sáp"
+  },
+  {
+    "thai": "สระบุร ี",
+    "phonetic_cs": "sara burý"
+  },
+  {
+    "thai": "เสื้อเชิ้ตแขนสั้น",
+    "phonetic_cs": "súa čoét khaén san"
+  },
+  {
+    "thai": "กุญแจรถ",
+    "phonetic_cs": "kundžaé rot"
+  },
+  {
+    "thai": "ปายรถเมล์",
+    "phonetic_cs": "páj rot mé"
+  },
+  {
+    "thai": "ชุดว่ายนํ้า",
+    "phonetic_cs": "čut váj nám"
+  },
+  {
+    "thai": "วิตามิน",
+    "phonetic_cs": "vitamin"
+  },
+  {
+    "thai": "ริมฝฺปาก",
+    "phonetic_cs": "rym fí pák"
+  },
+  {
+    "thai": "พัสดุไปรษณยี ์",
+    "phonetic_cs": "phatsadu prajsaný"
+  },
+  {
+    "thai": "ร้านขายของ",
+    "phonetic_cs": "rán kháj khóng"
+  },
+  {
+    "thai": "ปายทะเบียนรถ",
+    "phonetic_cs": "páj thabijan rot"
   },
   {
     "thai": "เชื้อไวรัส",
     "phonetic_cs": "čúa vajras"
   },
   {
-    "thai": "เห็ดสน",
-    "phonetic_cs": "het son"
+    "thai": "ต่อมทอลซิลอักเสบ",
+    "phonetic_cs": "tomthónsin aksép"
   },
   {
-    "thai": "ฮ นกฮุก",
-    "phonetic_cs": "sova"
+    "thai": "กระเปาเดินทาง",
+    "phonetic_cs": "krapau déntháng"
   },
   {
-    "thai": "หลอดอาหาร",
-    "phonetic_cs": "lót áhán"
+    "thai": "กระเทียม",
+    "phonetic_cs": "krathyjam"
+  },
+  {
+    "thai": "เงินบาท",
+    "phonetic_cs": "ngén bát"
+  },
+  {
+    "thai": "ฟันปลอม",
+    "phonetic_cs": "fan plom"
+  },
+  {
+    "thai": "บ่ายสามโนง",
+    "phonetic_cs": "báj sám móng"
+  },
+  {
+    "thai": "ทวีปแอนตาร์กติกา",
+    "phonetic_cs": "thvíp éntáktiká"
+  },
+  {
+    "thai": "ไหม้ / เผา",
+    "phonetic_cs": "maj / phau"
+  },
+  {
+    "thai": "กุยช่าย",
+    "phonetic_cs": "kujčáj"
+  },
+  {
+    "thai": "เก็บ",
+    "phonetic_cs": "kep"
+  },
+  {
+    "thai": "(เมื่อ) ก่อน",
+    "phonetic_cs": "(múa) kón"
+  },
+  {
+    "thai": "ปวดหัว",
+    "phonetic_cs": "puat hua"
+  },
+  {
+    "thai": "แผงไฟฟา",
+    "phonetic_cs": "phéng fajfá"
+  },
+  {
+    "thai": "อําเภอ",
+    "phonetic_cs": "amphé"
+  },
+  {
+    "thai": "คับ",
+    "phonetic_cs": "khap"
+  },
+  {
+    "thai": "เชื้อรา",
+    "phonetic_cs": "čúa rá"
+  },
+  {
+    "thai": "เสื้อยืด",
+    "phonetic_cs": "súa jút"
+  },
+  {
+    "thai": "รถแวน",
+    "phonetic_cs": "rot vén"
+  },
+  {
+    "thai": "หม้อหุงข้าวไฟฟา",
+    "phonetic_cs": "mó hung kháu fajfá"
+  },
+  {
+    "thai": "เครื่องคิดเลข",
+    "phonetic_cs": "khrúang khyt lék"
+  },
+  {
+    "thai": "ฉากละคร",
+    "phonetic_cs": "čák lakhón"
+  },
+  {
+    "thai": "ราศีเมถุน",
+    "phonetic_cs": "rásí méthun"
+  },
+  {
+    "thai": "ผูก",
+    "phonetic_cs": "phúk"
+  },
+  {
+    "thai": "นักเรียน",
+    "phonetic_cs": "nak rýjan"
+  },
+  {
+    "thai": "น่อง",
+    "phonetic_cs": "nóng"
+  },
+  {
+    "thai": "วีซ่า",
+    "phonetic_cs": "vísá"
+  },
+  {
+    "thai": "ถั่วลันเตา",
+    "phonetic_cs": "thua lantau"
+  },
+  {
+    "thai": "พรมเช๊ดเท้า",
+    "phonetic_cs": "phrom čét tháu"
+  },
+  {
+    "thai": "คาราเต้",
+    "phonetic_cs": "kháráté"
+  },
+  {
+    "thai": "จัด",
+    "phonetic_cs": "džat"
+  },
+  {
+    "thai": "ฦดูใบไม้ร่วง",
+    "phonetic_cs": "rudú bajmáj ruang"
+  },
+  {
+    "thai": "พูดโกหก",
+    "phonetic_cs": "phút kóhok"
+  },
+  {
+    "thai": "แปง",
+    "phonetic_cs": "péng"
+  },
+  {
+    "thai": "ใต้",
+    "phonetic_cs": "táj"
+  },
+  {
+    "thai": "ตกปลา",
+    "phonetic_cs": "tok plá"
+  },
+  {
+    "thai": "กระดานโต้คลื่น",
+    "phonetic_cs": "kradán tó khlún"
+  },
+  {
+    "thai": "ฬ จฬา",
+    "phonetic_cs": "drak - hvězda"
+  },
+  {
+    "thai": "นักวาดรูป",
+    "phonetic_cs": "nak vát rúp"
+  },
+  {
+    "thai": "ต้ม",
+    "phonetic_cs": "tom"
+  },
+  {
+    "thai": "จ จาน",
+    "phonetic_cs": "talíř"
+  },
+  {
+    "thai": "ลําพูน",
+    "phonetic_cs": "lamphún"
+  },
+  {
+    "thai": "ปัจจัย",
+    "phonetic_cs": "pat džaj"
+  },
+  {
+    "thai": "กางเกง",
+    "phonetic_cs": "káng kéng"
+  },
+  {
+    "thai": "กีตาร์",
+    "phonetic_cs": "kýtá"
+  },
+  {
+    "thai": "ดอกเบี้ย",
+    "phonetic_cs": "dók bíja"
+  },
+  {
+    "thai": "จดหมายอากาศ",
+    "phonetic_cs": "džotmáj ákát"
+  },
+  {
+    "thai": "อากาศ",
+    "phonetic_cs": "ákát"
+  },
+  {
+    "thai": "ไฟเลี้ยว",
+    "phonetic_cs": "faj líjao"
+  },
+  {
+    "thai": "ถ ถุง",
+    "phonetic_cs": "pytel"
+  },
+  {
+    "thai": "ปลาไหล",
+    "phonetic_cs": "plálai"
+  },
+  {
+    "thai": "เขื่อน",
+    "phonetic_cs": "khúan"
+  },
+  {
+    "thai": "ปตั ตานี",
+    "phonetic_cs": "paththáný"
+  },
+  {
+    "thai": "สุนัข / หมา",
+    "phonetic_cs": "sunak / má"
   },
   {
     "thai": "ชั้นบน",
     "phonetic_cs": "čan bon"
   },
   {
-    "thai": "จะเข",
-    "phonetic_cs": "džakhé"
+    "thai": "พ่อแม่",
+    "phonetic_cs": "phó mé"
+  },
+  {
+    "thai": "เวลา",
+    "phonetic_cs": "velá"
+  },
+  {
+    "thai": "ตะวันตก",
+    "phonetic_cs": "tavan tok"
+  },
+  {
+    "thai": "โรงภาพยนตร ์",
+    "phonetic_cs": "róng pháp phajon"
+  },
+  {
+    "thai": "การแต่งกาย",
+    "phonetic_cs": "kán taéng káj"
+  },
+  {
+    "thai": "โบว์ลิ่ง",
+    "phonetic_cs": "bóling"
+  },
+  {
+    "thai": "โซฟา",
+    "phonetic_cs": "sófá"
+  },
+  {
+    "thai": "เขียวอ่อม",
+    "phonetic_cs": "khýjau ón"
+  },
+  {
+    "thai": "กลองไทย",
+    "phonetic_cs": "klóng thaj"
+  },
+  {
+    "thai": "สัตว์",
+    "phonetic_cs": "sat"
+  },
+  {
+    "thai": "ถุง",
+    "phonetic_cs": "thung"
+  },
+  {
+    "thai": "นกนางนวล",
+    "phonetic_cs": "nok nángnuan"
+  },
+  {
+    "thai": "โทรศัพท์ทางไกลในประเทศ",
+    "phonetic_cs": "thórasapthángklajnajprathét"
+  },
+  {
+    "thai": "ตัวดักแด้",
+    "phonetic_cs": "tua dak dé"
+  },
+  {
+    "thai": "บินขึ้น",
+    "phonetic_cs": "bin kchún"
+  },
+  {
+    "thai": "ธ ธง",
+    "phonetic_cs": "vlajka"
+  },
+  {
+    "thai": "อ่",
+    "phonetic_cs": "máj ék"
+  },
+  {
+    "thai": "หมวก",
+    "phonetic_cs": "múak"
+  },
+  {
+    "thai": "สี",
+    "phonetic_cs": "sí"
+  },
+  {
+    "thai": "ยี่สิบเอ็ด",
+    "phonetic_cs": "jí sip et"
+  },
+  {
+    "thai": "ข้อนิ้วมือ",
+    "phonetic_cs": "khó njú mú"
+  },
+  {
+    "thai": "หน่อไม้",
+    "phonetic_cs": "nómaj"
+  },
+  {
+    "thai": "เชื้อโรค",
+    "phonetic_cs": "čúa rók"
+  },
+  {
+    "thai": "ประจวบคีรีขนั ธ",
+    "phonetic_cs": "prádžuap khýrý khan"
+  },
+  {
+    "thai": "โลก",
+    "phonetic_cs": "lók"
+  },
+  {
+    "thai": "ซื้อของ",
+    "phonetic_cs": "sú khóng"
+  },
+  {
+    "thai": "วันพุธ",
+    "phonetic_cs": "van phut"
+  },
+  {
+    "thai": "มีด",
+    "phonetic_cs": "mít"
+  },
+  {
+    "thai": "ผ้าพันแผล",
+    "phonetic_cs": "phá phan phlé"
+  },
+  {
+    "thai": "งา",
+    "phonetic_cs": "ngá"
+  },
+  {
+    "thai": "ข้างหลัง",
+    "phonetic_cs": "kháng lang"
+  },
+  {
+    "thai": "ร้านก๋วยเตี๋ยว",
+    "phonetic_cs": "rán kuajtyjao"
+  },
+  {
+    "thai": "กอล์ฟ",
+    "phonetic_cs": "kóp"
+  },
+  {
+    "thai": "ทะเลแบริ่ง",
+    "phonetic_cs": "thalé béryng"
+  },
+  {
+    "thai": "แรด",
+    "phonetic_cs": "rét"
+  },
+  {
+    "thai": "ที่ขายตั๋ว",
+    "phonetic_cs": "thý kháj tua"
+  },
+  {
+    "thai": "ร้องเพลง",
+    "phonetic_cs": "róng phléng"
+  },
+  {
+    "thai": "แผนกหู คอ จมูก",
+    "phonetic_cs": "phanék hú, khó, džamúk"
+  },
+  {
+    "thai": "ทางรถไฟ",
+    "phonetic_cs": "tháng rot faj"
+  },
+  {
+    "thai": "สนามบิน",
+    "phonetic_cs": "sanám bin"
+  },
+  {
+    "thai": "แม่นํ้าคองโก",
+    "phonetic_cs": "ménám khongkó"
+  },
+  {
+    "thai": "เดือนมิถุนายน",
+    "phonetic_cs": "dúan mithunájon"
+  },
+  {
+    "thai": "วันนี้",
+    "phonetic_cs": "van ný"
+  },
+  {
+    "thai": "เครื่องฟังหัวใจ",
+    "phonetic_cs": "khrúang fang huadžaj"
+  },
+  {
+    "thai": "เข็มวัดความเร็ว",
+    "phonetic_cs": "khem vát khvám reu"
+  },
+  {
+    "thai": "นกอินทรี",
+    "phonetic_cs": "nok insí"
+  },
+  {
+    "thai": "การเย็บแผล",
+    "phonetic_cs": "kán jep phlé"
+  },
+  {
+    "thai": "อ้",
+    "phonetic_cs": "máj thó"
   }
 ]

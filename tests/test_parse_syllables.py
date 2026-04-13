@@ -35,8 +35,7 @@ def test_parse_syllables_multi_syllable():
     """Test multi-syllable words."""
     assert parse_syllables("กาแฟ") == ["กา", "แฟ"]
     assert parse_syllables("โรงเรียน") == ["โรง", "เรียน"]
-    # The current implementation parses สวัสดี as ["สวัส", "ดี"]
-    assert parse_syllables("สวัสดี") == ["สวัส", "ดี"]
+    assert parse_syllables("สวัสดี") == ["ส", "วัส", "ดี"]
 
 def test_parse_syllables_non_thai():
     """Test with non-Thai characters."""

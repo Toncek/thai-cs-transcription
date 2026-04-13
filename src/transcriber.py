@@ -52,7 +52,7 @@ SILENT_MARK = "์"
 
 CONSONANTS = set([chr(i) for i in range(ord('ก'), ord('ฮ') + 1)])
 
-ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöýABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,/()[]…")
+ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,")
 
 def parse_syllables(word):
     syllables = []
@@ -116,16 +116,11 @@ def transcribe(thai_word, rules):
     thai_word = thai_word.strip()
     
     lookup = load_lookup()
-
-    # Fast path for complete matches
     if thai_word in lookup:
         return lookup[thai_word]
 
     if "exceptions" in rules and thai_word in rules["exceptions"]:
         return rules["exceptions"][thai_word]
-
-    if "specials" in rules and thai_word in rules["specials"]:
-        return rules["specials"][thai_word]
         
     initials = rules.get("initials", {})
     finals = rules.get("finals", {})
@@ -134,12 +129,18 @@ def transcribe(thai_word, rules):
     
     logger.info(f"Uncertain pattern applied for: {thai_word.replace('\n', '').replace('\r', '')}")
     
-    if subword_tokenize:
-        # Using subword_tokenize with dict engine to split syllables/subwords like 'วัน', 'นี้'
-        tokens = subword_tokenize(thai_word, engine="dict")
-    else:
-        thai_word_spaced = thai_word.replace('ๆ', ' ๆ ')
-        tokens = thai_word_spaced.split()
+    thai_word_spaced = thai_word.replace('ๆ', ' ๆ ')
+    spaced_words = thai_word_spaced.split()
+
+    tokens = []
+    for sw in spaced_words:
+        if sw == 'ๆ':
+            tokens.append(sw)
+        else:
+            if subword_tokenize:
+                tokens.extend(subword_tokenize(sw, engine="dict"))
+            else:
+                tokens.append(sw)
 
     # Greedy merge tokens that exist in lookup
     merged_tokens = []

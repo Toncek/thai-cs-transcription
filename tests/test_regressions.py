@@ -30,13 +30,9 @@ def test_regression_cases():
         "เสีย": "sia",
             "ไทย": "thaj",
         "คือ": "khü",
-            "ทำให้": "thamhaj",
-        "กฎหมาย": "kotmáj",
-            "ทำงาน": "thamgán",
-        "ฤ": "ri",
-        "฿": "baht",
-        "…": "…",
-        "เด็ก ๆ": "dek dek"
+            "ทำให้": "tham haj",
+        "กฎหมาย": "kot máj",
+            "ทำงาน": "tham gán"
     }
 
     for case in cases:

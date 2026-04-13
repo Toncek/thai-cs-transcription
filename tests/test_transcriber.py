@@ -72,4 +72,4 @@ def test_regression_cases():
     assert transcribe('เด็กๆ', rules) == 'dek dek'
     assert transcribe('เด็ก ๆ', rules) == 'dek dek'
     assert transcribe('มากๆ', rules) == 'mák mák'
-    assert transcribe('น่ารักๆ', rules) == 'ná rak rak' # with subword tokenization, rak is repeated
+    assert transcribe('น่ารักๆ', rules) == 'ná rak rak'

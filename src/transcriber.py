@@ -2,6 +2,11 @@ import json
 import logging
 from pathlib import Path
 
+try:
+    from pythainlp.tokenize import subword_tokenize
+except ImportError:
+    subword_tokenize = None
+
 logger = logging.getLogger(__name__)
 
 def load_rules(rules_path=None):
@@ -47,7 +52,7 @@ SILENT_MARK = "์"
 
 CONSONANTS = set([chr(i) for i in range(ord('ก'), ord('ฮ') + 1)])
 
-ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöýABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,/()[]…")
+ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,")
 
 def parse_syllables(word):
     syllables = []
@@ -116,9 +121,6 @@ def transcribe(thai_word, rules):
 
     if "exceptions" in rules and thai_word in rules["exceptions"]:
         return rules["exceptions"][thai_word]
-
-    if "specials" in rules and thai_word in rules["specials"]:
-        return rules["specials"][thai_word]
         
     initials = rules.get("initials", {})
     finals = rules.get("finals", {})
@@ -128,13 +130,63 @@ def transcribe(thai_word, rules):
     logger.info(f"Uncertain pattern applied for: {thai_word.replace('\n', '').replace('\r', '')}")
     
     thai_word_spaced = thai_word.replace('ๆ', ' ๆ ')
-    words = thai_word_spaced.split()
+    spaced_words = thai_word_spaced.split()
+
+    tokens = []
+    for sw in spaced_words:
+        if sw == 'ๆ':
+            tokens.append(sw)
+        else:
+            if subword_tokenize:
+                tokens.extend(subword_tokenize(sw, engine="dict"))
+            else:
+                tokens.append(sw)
+
+    # Greedy merge tokens that exist in lookup
+    merged_tokens = []
+    i = 0
+    while i < len(tokens):
+        if tokens[i].strip() == '':
+            i += 1
+            continue
+
+        # Try to match largest possible sequence in lookup
+        matched = False
+        for j in range(len(tokens), i, -1):
+            cand = "".join(tokens[i:j])
+            if cand in lookup:
+                merged_tokens.append(cand)
+                i = j
+                matched = True
+                break
+            elif "exceptions" in rules and cand in rules["exceptions"]:
+                merged_tokens.append(cand)
+                i = j
+                matched = True
+                break
+
+        if not matched:
+            merged_tokens.append(tokens[i])
+            i += 1
+
     res = []
     
-    for w in words:
+    for w in merged_tokens:
+        w = w.strip()
+        if not w:
+            continue
+
         if w == 'ๆ':
             if res:
                 res.append(res[-1])
+            continue
+
+        if w in lookup:
+            res.append(lookup[w])
+            continue
+
+        if "exceptions" in rules and w in rules["exceptions"]:
+            res.append(rules["exceptions"][w])
             continue
 
         # Pre-process double ro han

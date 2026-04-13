@@ -123,9 +123,7 @@
   "silent": {
     "์": ""
   },
-  "specials": {
-    "ๆ": "jamok"
-  },
+  "specials": {},
   "exceptions": {
     "ทิศ": "thyt",
     "โตะ": "to",

@@ -67,3 +67,9 @@ def test_regression_cases():
     assert transcribe('อยู่', rules) == 'jú'
     assert transcribe('อยาง', rules) == 'jáng'
     assert transcribe('อร่อย', rules) == 'arój'
+
+    # 6. Mai Yamok ๆ (repetition)
+    assert transcribe('เด็กๆ', rules) == 'dek dek'
+    assert transcribe('เด็ก ๆ', rules) == 'dek dek'
+    assert transcribe('มากๆ', rules) == 'mák mák'
+    assert transcribe('น่ารักๆ', rules) == 'nárak nárak'

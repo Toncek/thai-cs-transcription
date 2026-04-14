@@ -1,0 +1,191 @@
+{
+  "chapter_id": 1,
+  "title_cz": "Pozdravy",
+  "title_sk": "Pozdravy",
+  "title_th": "การทักทาย",
+  "level": "začátečník",
+  "words": [
+    {
+      "th": "สวัสดี",
+      "cz": "dobrý den",
+      "sk": "dobrý deň",
+      "czph": "savat dý"
+    },
+    {
+      "th": "ครับ",
+      "cz": "ano / částice (muži)",
+      "sk": "áno / častica (muži)",
+      "czph": "khrap"
+    },
+    {
+      "th": "ค่ะ",
+      "cz": "ano / částice (ženy)",
+      "sk": "áno / častica (ženy)",
+      "czph": "kha"
+    },
+    {
+      "th": "ขอบคุณ",
+      "cz": "děkuji",
+      "sk": "ďakujem",
+      "czph": "khóp khun"
+    },
+    {
+      "th": "ขอโทษ",
+      "cz": "promiňte",
+      "sk": "prepáčte",
+      "czph": "khó thót"
+    },
+    {
+      "th": "ไม่เป็นไร",
+      "cz": "to nic, není zač",
+      "sk": "to nič, niet za čo",
+      "czph": "maj pen raj"
+    },
+    {
+      "th": "ลาก่อน",
+      "cz": "na shledanou",
+      "sk": "dovidenia",
+      "czph": "lá kón"
+    },
+    {
+      "th": "สบายดีไหม",
+      "cz": "jak se máte?",
+      "sk": "ako sa máte?",
+      "czph": "sabáj dý maj"
+    },
+    {
+      "th": "สบายดี",
+      "cz": "mám se dobře",
+      "sk": "mám sa dobre",
+      "czph": "sabáj dý"
+    },
+    {
+      "th": "ยินดีที่ได้รู้จัก",
+      "cz": "těší mě",
+      "sk": "teší ma",
+      "czph": "jin dý thí daj rú (džak)"
+    },
+    {
+      "th": "ใช่",
+      "cz": "ano",
+      "sk": "áno",
+      "czph": "čaj"
+    },
+    {
+      "th": "ไม่ใช่",
+      "cz": "ne",
+      "sk": "nie",
+      "czph": "maj čaj"
+    },
+    {
+      "th": "พบกันใหม่",
+      "cz": "na viděnou",
+      "sk": "do videnia",
+      "czph": "phop kan maj"
+    },
+    {
+      "th": "โชคดี",
+      "cz": "hodně štěstí",
+      "sk": "veľa šťastia",
+      "czph": "čó khadý"
+    },
+    {
+      "th": "ฉัน",
+      "cz": "já (ženy)",
+      "sk": "ja (ženy)",
+      "czph": "čan"
+    },
+    {
+      "th": "ผม",
+      "cz": "já (muži)",
+      "sk": "ja (muži)",
+      "czph": "phom"
+    },
+    {
+      "th": "คุณ",
+      "cz": "vy / ty",
+      "sk": "vy / ty",
+      "czph": "khun"
+    },
+    {
+      "th": "เขา",
+      "cz": "on / ona",
+      "sk": "on / ona",
+      "czph": "khau"
+    },
+    {
+      "th": "เรา",
+      "cz": "my",
+      "sk": "my",
+      "czph": "rao"
+    },
+    {
+      "th": "พบ",
+      "cz": "potkat",
+      "sk": "stretnúť",
+      "czph": "phop"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "สวัสดีครับ",
+      "cz": "Dobrý den (říká muž).",
+      "sk": "Dobrý deň (hovorí muž).",
+      "czph": "savat dý khrap"
+    },
+    {
+      "th": "สวัสดีค่ะ",
+      "cz": "Dobrý den (říká žena).",
+      "sk": "Dobrý deň (hovorí žena).",
+      "czph": "savat dý kha"
+    },
+    {
+      "th": "ขอบคุณครับ",
+      "cz": "Děkuji (říká muž).",
+      "sk": "Ďakujem (hovorí muž).",
+      "czph": "khóp khun khrap"
+    },
+    {
+      "th": "สบายดีไหมครับ",
+      "cz": "Jak se máte?",
+      "sk": "Ako sa máte?",
+      "czph": "sabáj dý maj khrap"
+    },
+    {
+      "th": "ฉันสบายดีค่ะ",
+      "cz": "Mám se dobře (říká žena).",
+      "sk": "Mám sa dobre (hovorí žena).",
+      "czph": "čan sabáj dý kha"
+    },
+    {
+      "th": "ผมสบายดีครับ",
+      "cz": "Mám se dobře (říká muž).",
+      "sk": "Mám sa dobre (hovorí muž).",
+      "czph": "phom sabáj dý khrap"
+    },
+    {
+      "th": "ยินดีที่ได้รู้จักครับ",
+      "cz": "Těší mě.",
+      "sk": "Teší ma.",
+      "czph": "jin dý thí daj rú (džak) khrap"
+    },
+    {
+      "th": "ขอโทษค่ะ",
+      "cz": "Promiňte (říká žena).",
+      "sk": "Prepáčte (hovorí žena).",
+      "czph": "khó thót kha"
+    },
+    {
+      "th": "ไม่เป็นไรครับ",
+      "cz": "To nic (říká muž).",
+      "sk": "To nič (hovorí muž).",
+      "czph": "maj pen raj khrap"
+    },
+    {
+      "th": "พบกันใหม่ค่ะ",
+      "cz": "Na viděnou.",
+      "sk": "Do videnia.",
+      "czph": "phop kan maj kha"
+    }
+  ]
+}

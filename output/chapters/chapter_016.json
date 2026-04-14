@@ -5,7 +5,7 @@
   "orderIndex": 0,
   "words": [
     {
-      "id": 415,
+      "id": 430,
       "cz": "město",
       "sk": "mesto",
       "th": "เมือง",
@@ -13,7 +13,7 @@
       "skph": "múang"
     },
     {
-      "id": 416,
+      "id": 431,
       "cz": "křižovatka (4 cest)",
       "sk": "krížovatka (4 cesty)",
       "th": "สี่แยก",
@@ -21,7 +21,7 @@
       "skph": "sí jék"
     },
     {
-      "id": 417,
+      "id": 432,
       "cz": "křižovatka (obecně)",
       "sk": "křižovatka (obecně)",
       "th": "ทางแยก",
@@ -29,7 +29,7 @@
       "skph": "tháng jék"
     },
     {
-      "id": 418,
+      "id": 433,
       "cz": "semafor",
       "sk": "semafor",
       "th": "สัญญาณไฟจราจร",
@@ -37,7 +37,7 @@
       "skph": "sanján faj džarádžon"
     },
     {
-      "id": 419,
+      "id": 434,
       "cz": "silnice, ulice",
       "sk": "cesta, ulica",
       "th": "ถนน",
@@ -45,7 +45,7 @@
       "skph": "thanon"
     },
     {
-      "id": 420,
+      "id": 435,
       "cz": "chodník",
       "sk": "chodník",
       "th": "ทางเดินเท้า",
@@ -53,7 +53,7 @@
       "skph": "tháng dén tháu"
     },
     {
-      "id": 421,
+      "id": 436,
       "cz": "přechod (zebra)",
       "sk": "prechod (zebra)",
       "th": "ทางข้าม",
@@ -61,7 +61,7 @@
       "skph": "tháng khám"
     },
     {
-      "id": 422,
+      "id": 437,
       "cz": "světlo pouliční",
       "sk": "ulicové svetlo",
       "th": "ไฟถนน",
@@ -69,7 +69,7 @@
       "skph": "faj thanon"
     },
     {
-      "id": 423,
+      "id": 438,
       "cz": "sloup elektrický",
       "sk": "sloup elektrický",
       "th": "เสาไฟฟา",
@@ -77,7 +77,7 @@
       "skph": "sau faj fá"
     },
     {
-      "id": 424,
+      "id": 439,
       "cz": "telefonní budka",
       "sk": "telefonná búdka",
       "th": "ตู้โทรศัพท์สาธารณะ",
@@ -85,7 +85,7 @@
       "skph": "tú thórasap sáthárana"
     },
     {
-      "id": 425,
+      "id": 440,
       "cz": "nadchod",
       "sk": "nadchod",
       "th": "สะพานลอย (คนข้ม)",
@@ -93,7 +93,7 @@
       "skph": "saphán lój (khon khám)"
     },
     {
-      "id": 426,
+      "id": 441,
       "cz": "pochod",
       "sk": "pochod",
       "th": "สะพานข้ามทางแยก",
@@ -101,7 +101,7 @@
       "skph": "saphán khám tháng jék"
     },
     {
-      "id": 427,
+      "id": 442,
       "cz": "obchodní dům",
       "sk": "obchodný dom",
       "th": "ห้างสรรพสินค้า",
@@ -109,7 +109,7 @@
       "skph": "hángsapphasin khá"
     },
     {
-      "id": 428,
+      "id": 443,
       "cz": "obchod",
       "sk": "obchod",
       "th": "ร้านขายของ",
@@ -117,7 +117,7 @@
       "skph": "rán kháj khóng"
     },
     {
-      "id": 429,
+      "id": 444,
       "cz": "výkladní skříň",
       "sk": "výkladní skříň",
       "th": "ตู้โชว์",
@@ -125,7 +125,7 @@
       "skph": "tú čó"
     },
     {
-      "id": 430,
+      "id": 445,
       "cz": "hotel",
       "sk": "hotel",
       "th": "โรงแรม",
@@ -133,7 +133,7 @@
       "skph": "róng rém"
     },
     {
-      "id": 431,
+      "id": 446,
       "cz": "nemocnice",
       "sk": "nemocnica",
       "th": "โรงพยาบาล",
@@ -141,7 +141,7 @@
       "skph": "róng phajábán"
     },
     {
-      "id": 432,
+      "id": 447,
       "cz": "poštovní schránka",
       "sk": "poštová schránka",
       "th": "ตู้จดหมาย",
@@ -149,7 +149,7 @@
       "skph": "tú džotmáj"
     },
     {
-      "id": 433,
+      "id": 448,
       "cz": "úřad (budova)",
       "sk": "úrad (budova)",
       "th": "อาคารสํานักงาน",
@@ -157,7 +157,7 @@
       "skph": "ákhán samnak ngán"
     },
     {
-      "id": 434,
+      "id": 449,
       "cz": "parkoviště",
       "sk": "parkovisko",
       "th": "ที่จอดรถ",
@@ -165,7 +165,7 @@
       "skph": "thý džót rot"
     },
     {
-      "id": 435,
+      "id": 450,
       "cz": "zastávka autobusu",
       "sk": "zastávka autobusu",
       "th": "ปายรถเมล์",
@@ -173,7 +173,7 @@
       "skph": "páj rot mé"
     },
     {
-      "id": 436,
+      "id": 451,
       "cz": "odpadkový koš",
       "sk": "odpadkový kôš",
       "th": "ถังขยะ",
@@ -181,7 +181,7 @@
       "skph": "thang khaja"
     },
     {
-      "id": 437,
+      "id": 452,
       "cz": "chodec",
       "sk": "chodec",
       "th": "คนเดินถนน",
@@ -189,7 +189,7 @@
       "skph": "khon dén thanon"
     },
     {
-      "id": 438,
+      "id": 453,
       "cz": "kanál (poklop)",
       "sk": "kanál (výmenný kryt)",
       "th": "ฝาท่อระบายนํ้า",
@@ -197,7 +197,7 @@
       "skph": "fá thó rabájnám"
     },
     {
-      "id": 439,
+      "id": 454,
       "cz": "památník",
       "sk": "památník",
       "th": "อนุสาวรีย์",
@@ -205,7 +205,7 @@
       "skph": "anusávarý"
     },
     {
-      "id": 440,
+      "id": 455,
       "cz": "kruhový objezd",
       "sk": "kruhový objazd",
       "th": "วงเวียน",
@@ -213,7 +213,7 @@
       "skph": "vong vijan"
     },
     {
-      "id": 441,
+      "id": 456,
       "cz": "automobil osobní",
       "sk": "osobné auto",
       "th": "รถยนต์",
@@ -221,7 +221,7 @@
       "skph": "rot jon"
     },
     {
-      "id": 442,
+      "id": 457,
       "cz": "taxi",
       "sk": "taxi",
       "th": "รถแท็กซี่",
@@ -229,7 +229,7 @@
       "skph": "rot théksí"
     },
     {
-      "id": 443,
+      "id": 458,
       "cz": "tuk tuk",
       "sk": "tuk tuk",
       "th": "รถตุ๊กตุ๊ก",
@@ -237,7 +237,7 @@
       "skph": "rot tuktuk"
     },
     {
-      "id": 444,
+      "id": 459,
       "cz": "motocykl",
       "sk": "motocykl",
       "th": "รถมอเตอร์ไซด์",
@@ -245,7 +245,7 @@
       "skph": "rot mótésaj"
     },
     {
-      "id": 445,
+      "id": 460,
       "cz": "autobus městský",
       "sk": "autobus městský",
       "th": "รถเมล์",
@@ -253,7 +253,7 @@
       "skph": "rot mé"
     },
     {
-      "id": 446,
+      "id": 461,
       "cz": "autobus klimatizovaný",
       "sk": "klimatizovaný autobus",
       "th": "รถแอร์",
@@ -261,7 +261,7 @@
       "skph": "rot é"
     },
     {
-      "id": 447,
+      "id": 462,
       "cz": "autobus dálkový",
       "sk": "diaľkový autobus",
       "th": "รถทัวร์",
@@ -269,7 +269,7 @@
       "skph": "rot thua"
     },
     {
-      "id": 448,
+      "id": 463,
       "cz": "bicykl",
       "sk": "bicykel",
       "th": "รถจักรยาน",
@@ -277,7 +277,7 @@
       "skph": "rot džak kraján"
     },
     {
-      "id": 449,
+      "id": 464,
       "cz": "automobil nákladní",
       "sk": "nákladné auto",
       "th": "รถบรรทุก",
@@ -285,7 +285,7 @@
       "skph": "rot banthuk"
     },
     {
-      "id": 450,
+      "id": 465,
       "cz": "minibus (pick up)",
       "sk": "minibus (pick up)",
       "th": "รถสองแถว",
@@ -293,7 +293,7 @@
       "skph": "rot sóng théo"
     },
     {
-      "id": 451,
+      "id": 466,
       "cz": "ambulance (auto)",
       "sk": "ambulance (auto)",
       "th": "รถพยาบาล",
@@ -301,7 +301,7 @@
       "skph": "rot phajábán"
     },
     {
-      "id": 452,
+      "id": 467,
       "cz": "most",
       "sk": "most",
       "th": "สะพาน",
@@ -309,7 +309,7 @@
       "skph": "saphán"
     },
     {
-      "id": 453,
+      "id": 468,
       "cz": "dálnice",
       "sk": "diaľnica",
       "th": "ทางด่วน",
@@ -317,7 +317,7 @@
       "skph": "tháng duan"
     },
     {
-      "id": 454,
+      "id": 469,
       "cz": "závora na výběr poplatku",
       "sk": "závora na výber poplatku",
       "th": "ด่านเก็บค่าผานทาง",
@@ -325,7 +325,7 @@
       "skph": "dán kep khá phántháng"
     },
     {
-      "id": 455,
+      "id": 470,
       "cz": "dopravní zácpa",
       "sk": "dopravná zápcha",
       "th": "รถติด",

@@ -5,7 +5,7 @@
   "orderIndex": 3,
   "words": [
     {
-      "id": 191,
+      "id": 196,
       "cz": "spát",
       "sk": "spát",
       "th": "นอนหลับ",
@@ -13,7 +13,7 @@
       "skph": "nón lab"
     },
     {
-      "id": 192,
+      "id": 197,
       "cz": "probudit se",
       "sk": "prebudiť sa",
       "th": "ตื่น (นอน)",
@@ -21,7 +21,7 @@
       "skph": "tún (nón)"
     },
     {
-      "id": 193,
+      "id": 198,
       "cz": "pít",
       "sk": "piť",
       "th": "ดื่ม",
@@ -29,7 +29,7 @@
       "skph": "dúm"
     },
     {
-      "id": 194,
+      "id": 199,
       "cz": "jíst",
       "sk": "jesť",
       "th": "กิน / ทาน",
@@ -37,7 +37,7 @@
       "skph": "kyn / thán"
     },
     {
-      "id": 195,
+      "id": 200,
       "cz": "ochutnat",
       "sk": "ochutnať",
       "th": "ชิม",
@@ -45,7 +45,7 @@
       "skph": "čim"
     },
     {
-      "id": 196,
+      "id": 201,
       "cz": "lízat",
       "sk": "lízť",
       "th": "เลีย",
@@ -53,7 +53,7 @@
       "skph": "líja"
     },
     {
-      "id": 197,
+      "id": 202,
       "cz": "vidět, dívat se",
       "sk": "vidieť, dívať sa",
       "th": "ดู",
@@ -61,7 +61,7 @@
       "skph": "dú"
     },
     {
-      "id": 198,
+      "id": 203,
       "cz": "slyšet",
       "sk": "počúvať",
       "th": "ยิน, ได้ยิน",
@@ -69,7 +69,7 @@
       "skph": "jin, dáj jin"
     },
     {
-      "id": 199,
+      "id": 204,
       "cz": "poslouchat",
       "sk": "počúvať",
       "th": "ฟัง",
@@ -77,7 +77,7 @@
       "skph": "fang"
     },
     {
-      "id": 200,
+      "id": 205,
       "cz": "mluvit, povídat",
       "sk": "hovoriť, rozprávať",
       "th": "พูด",
@@ -85,7 +85,7 @@
       "skph": "phút"
     },
     {
-      "id": 201,
+      "id": 206,
       "cz": "říkat",
       "sk": "hovoriť",
       "th": "บอก",
@@ -93,7 +93,7 @@
       "skph": "bók"
     },
     {
-      "id": 202,
+      "id": 207,
       "cz": "ptát se",
       "sk": "ptát se",
       "th": "ถาม",
@@ -101,7 +101,7 @@
       "skph": "thám"
     },
     {
-      "id": 203,
+      "id": 208,
       "cz": "odpovídat",
       "sk": "odpovedať",
       "th": "ตอบ",
@@ -109,7 +109,7 @@
       "skph": "tóp"
     },
     {
-      "id": 204,
+      "id": 209,
       "cz": "smát se, usmívat",
       "sk": "smiať sa, usmievať",
       "th": "ยิ้ม",
@@ -117,7 +117,7 @@
       "skph": "jim"
     },
     {
-      "id": 205,
+      "id": 210,
       "cz": "smát se hlasitě",
       "sk": "smiať sa hlasno",
       "th": "หัวเราะ",
@@ -125,7 +125,7 @@
       "skph": "hua ro"
     },
     {
-      "id": 206,
+      "id": 211,
       "cz": "plakat",
       "sk": "plakať",
       "th": "ร้องไห้",
@@ -133,7 +133,7 @@
       "skph": "róng haj"
     },
     {
-      "id": 207,
+      "id": 212,
       "cz": "milovat",
       "sk": "milovať",
       "th": "หลงใหล",
@@ -141,7 +141,7 @@
       "skph": "long laj"
     },
     {
-      "id": 208,
+      "id": 213,
       "cz": "tančit",
       "sk": "tančit",
       "th": "เต้น (รํา)",
@@ -149,7 +149,7 @@
       "skph": "ten (ram)"
     },
     {
-      "id": 209,
+      "id": 214,
       "cz": "zpívat",
       "sk": "spievať",
       "th": "ร้องเพลง",
@@ -157,7 +157,7 @@
       "skph": "róng phléng"
     },
     {
-      "id": 210,
+      "id": 215,
       "cz": "číst",
       "sk": "čítať",
       "th": "อ่าน",

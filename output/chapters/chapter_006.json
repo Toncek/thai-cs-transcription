@@ -5,7 +5,7 @@
   "orderIndex": 0,
   "words": [
     {
-      "id": 90,
+      "id": 95,
       "cz": "čas",
       "sk": "čas",
       "th": "เวลา",
@@ -13,7 +13,7 @@
       "skph": "velá"
     },
     {
-      "id": 91,
+      "id": 96,
       "cz": "hodiny (nky) (…hodin)",
       "sk": "hodiny (nky) (…hodín)",
       "th": "นาฬิกา",
@@ -21,7 +21,7 @@
       "skph": "náliká"
     },
     {
-      "id": 92,
+      "id": 97,
       "cz": "hodina",
       "sk": "hodina",
       "th": "ชั่วโนง",
@@ -29,7 +29,7 @@
       "skph": "čúa móng"
     },
     {
-      "id": 93,
+      "id": 98,
       "cz": "minuta",
       "sk": "minúta",
       "th": "นาที",
@@ -37,7 +37,7 @@
       "skph": "náthý"
     },
     {
-      "id": 94,
+      "id": 99,
       "cz": "vteřina",
       "sk": "sekunda",
       "th": "วินาที",
@@ -45,7 +45,7 @@
       "skph": "vináthý"
     },
     {
-      "id": 95,
+      "id": 100,
       "cz": "jedna hodina",
       "sk": "jedna hodina",
       "th": "ตีหนฃ่ง",
@@ -53,7 +53,7 @@
       "skph": "tý nung"
     },
     {
-      "id": 96,
+      "id": 101,
       "cz": "dvě hodiny",
       "sk": "dve hodiny",
       "th": "ตีสอง",
@@ -61,7 +61,7 @@
       "skph": "tý sóng"
     },
     {
-      "id": 97,
+      "id": 102,
       "cz": "tři hodiny",
       "sk": "tři hodiny",
       "th": "ตีสาม",
@@ -69,7 +69,7 @@
       "skph": "tý sám"
     },
     {
-      "id": 98,
+      "id": 103,
       "cz": "čtyři hodiny",
       "sk": "štyri hodiny",
       "th": "ตีสี",
@@ -77,7 +77,7 @@
       "skph": "tý sí"
     },
     {
-      "id": 99,
+      "id": 104,
       "cz": "pět hodin",
       "sk": "päť hodín",
       "th": "ตีห้า",
@@ -85,7 +85,7 @@
       "skph": "tý há"
     },
     {
-      "id": 100,
+      "id": 105,
       "cz": "šest hodin",
       "sk": "šesť hodín",
       "th": "หกโมงเช้า",
@@ -93,7 +93,7 @@
       "skph": "hok móng čau"
     },
     {
-      "id": 101,
+      "id": 106,
       "cz": "sedm hodin",
       "sk": "sedem hodín",
       "th": "เจ็ดโมงเช้า",
@@ -101,7 +101,7 @@
       "skph": "džet móng čau"
     },
     {
-      "id": 102,
+      "id": 107,
       "cz": "osm hodin",
       "sk": "osem hodín",
       "th": "แปดโมงเช้า",
@@ -109,7 +109,7 @@
       "skph": "paét móng čau"
     },
     {
-      "id": 103,
+      "id": 108,
       "cz": "devět hodin",
       "sk": "devět hodin",
       "th": "เก้าโมงเช้า",
@@ -117,7 +117,7 @@
       "skph": "kau móng čau"
     },
     {
-      "id": 104,
+      "id": 109,
       "cz": "deset hodin",
       "sk": "desať hodín",
       "th": "สิบโมงเช้า",
@@ -125,7 +125,7 @@
       "skph": "sip móng čau"
     },
     {
-      "id": 105,
+      "id": 110,
       "cz": "jedenáct hodin",
       "sk": "jedenásť hodín",
       "th": "สิบเอ็ดโมงเช้า",
@@ -133,7 +133,7 @@
       "skph": "sip et móng čau"
     },
     {
-      "id": 106,
+      "id": 111,
       "cz": "dvanáct hod., poledne",
       "sk": "dvanásť hod., polednie",
       "th": "เทียง",
@@ -141,7 +141,7 @@
       "skph": "thýjang"
     },
     {
-      "id": 107,
+      "id": 112,
       "cz": "třináct hodin",
       "sk": "trinásť hodín",
       "th": "บ่ายโมง",
@@ -149,7 +149,7 @@
       "skph": "báj móng"
     },
     {
-      "id": 108,
+      "id": 113,
       "cz": "čtrnáct hodin",
       "sk": "štrnásť hodín",
       "th": "บ่ายสองโมง",
@@ -157,7 +157,7 @@
       "skph": "báj sóng móng"
     },
     {
-      "id": 109,
+      "id": 114,
       "cz": "patnáct hodin",
       "sk": "patnáct hodin",
       "th": "บ่ายสามโนง",
@@ -165,7 +165,7 @@
       "skph": "báj sám móng"
     },
     {
-      "id": 110,
+      "id": 115,
       "cz": "kalendář",
       "sk": "kalendár",
       "th": "ปฏิทิน",
@@ -173,7 +173,7 @@
       "skph": "patythyn"
     },
     {
-      "id": 111,
+      "id": 116,
       "cz": "měsíc",
       "sk": "mesiac",
       "th": "เดือน",
@@ -181,7 +181,7 @@
       "skph": "dúan"
     },
     {
-      "id": 112,
+      "id": 117,
       "cz": "leden",
       "sk": "leden",
       "th": "เดือนมกราคม",
@@ -189,7 +189,7 @@
       "skph": "dúan makarákhom"
     },
     {
-      "id": 113,
+      "id": 118,
       "cz": "únor",
       "sk": "február",
       "th": "เดือนกุมภาพันธ์",
@@ -197,7 +197,7 @@
       "skph": "dúan kumpcháphan"
     },
     {
-      "id": 114,
+      "id": 119,
       "cz": "březen",
       "sk": "marec",
       "th": "เดือนมีนาคม",
@@ -205,7 +205,7 @@
       "skph": "dúan mínákhom"
     },
     {
-      "id": 115,
+      "id": 120,
       "cz": "duben",
       "sk": "apríl",
       "th": "เดือนเมษายน",
@@ -213,7 +213,7 @@
       "skph": "dúan mésájon"
     },
     {
-      "id": 116,
+      "id": 121,
       "cz": "květen",
       "sk": "máj",
       "th": "เดือนพฦษภาคม",
@@ -221,7 +221,7 @@
       "skph": "dúan prútsaphákhom"
     },
     {
-      "id": 117,
+      "id": 122,
       "cz": "červen",
       "sk": "jún",
       "th": "เดือนมิถุนายน",
@@ -229,7 +229,7 @@
       "skph": "dúan mithunájon"
     },
     {
-      "id": 118,
+      "id": 123,
       "cz": "červenec",
       "sk": "červenec",
       "th": "เดือนกรกฎาคม",
@@ -237,7 +237,7 @@
       "skph": "dúan karakadákhom"
     },
     {
-      "id": 119,
+      "id": 124,
       "cz": "srpen",
       "sk": "august",
       "th": "เดือนสิงหาคม",

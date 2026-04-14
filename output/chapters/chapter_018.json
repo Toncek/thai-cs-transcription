@@ -5,7 +5,7 @@
   "orderIndex": 2,
   "words": [
     {
-      "id": 481,
+      "id": 496,
       "cz": "cestování",
       "sk": "cestovanie",
       "th": "การท่องเที่ยว",
@@ -13,7 +13,7 @@
       "skph": "kán thóng thýjau"
     },
     {
-      "id": 482,
+      "id": 497,
       "cz": "hora",
       "sk": "hora",
       "th": "ภูเขา",
@@ -21,7 +21,7 @@
       "skph": "phúkhao"
     },
     {
-      "id": 483,
+      "id": 498,
       "cz": "vodopád",
       "sk": "vodopád",
       "th": "นํ้าตก",
@@ -29,7 +29,7 @@
       "skph": "nám tok"
     },
     {
-      "id": 484,
+      "id": 499,
       "cz": "les",
       "sk": "les",
       "th": "ป็า",
@@ -37,7 +37,7 @@
       "skph": "pá"
     },
     {
-      "id": 485,
+      "id": 500,
       "cz": "plošina (náhorní)",
       "sk": "platnica (horská)",
       "th": "ที่ราบสูง",
@@ -45,7 +45,7 @@
       "skph": "thý ráp súng"
     },
     {
-      "id": 486,
+      "id": 501,
       "cz": "řeka",
       "sk": "rieka",
       "th": "แม่นํ้า",
@@ -53,7 +53,7 @@
       "skph": "mé nám"
     },
     {
-      "id": 487,
+      "id": 502,
       "cz": "pole",
       "sk": "pole",
       "th": "ไร่",
@@ -61,7 +61,7 @@
       "skph": "raj"
     },
     {
-      "id": 488,
+      "id": 503,
       "cz": "pole rýžové",
       "sk": "ryžové pole",
       "th": "ทุงนา",
@@ -69,7 +69,7 @@
       "skph": "thung ná"
     },
     {
-      "id": 489,
+      "id": 504,
       "cz": "strom",
       "sk": "strom",
       "th": "ต้นไม้",
@@ -77,7 +77,7 @@
       "skph": "ton máj"
     },
     {
-      "id": 490,
+      "id": 505,
       "cz": "jezero",
       "sk": "jazero",
       "th": "ทะเลสาบ",
@@ -85,7 +85,7 @@
       "skph": "thalé sáp"
     },
     {
-      "id": 491,
+      "id": 506,
       "cz": "hráz",
       "sk": "hráz",
       "th": "เขื่อน",
@@ -93,7 +93,7 @@
       "skph": "khúan"
     },
     {
-      "id": 492,
+      "id": 507,
       "cz": "elektrárna",
       "sk": "elektráreň",
       "th": "โรงไฟฟา",
@@ -101,7 +101,7 @@
       "skph": "róng faj fá"
     },
     {
-      "id": 493,
+      "id": 508,
       "cz": "moře",
       "sk": "more",
       "th": "ทะเล",
@@ -109,7 +109,7 @@
       "skph": "thalé"
     },
     {
-      "id": 494,
+      "id": 509,
       "cz": "pláž",
       "sk": "pláž",
       "th": "หาดทราย",
@@ -117,7 +117,7 @@
       "skph": "hát sáj"
     },
     {
-      "id": 495,
+      "id": 510,
       "cz": "písek",
       "sk": "písek",
       "th": "ทราย",
@@ -125,7 +125,7 @@
       "skph": "sáj"
     },
     {
-      "id": 496,
+      "id": 511,
       "cz": "kámen, balvan",
       "sk": "kameň, balvan",
       "th": "โขดหิน",
@@ -133,7 +133,7 @@
       "skph": "khót hyn"
     },
     {
-      "id": 497,
+      "id": 512,
       "cz": "ulita ústřice",
       "sk": "ulita ústrice",
       "th": "เปลือกหอย",
@@ -141,7 +141,7 @@
       "skph": "plúak hój"
     },
     {
-      "id": 498,
+      "id": 513,
       "cz": "vlna",
       "sk": "vlna",
       "th": "คลื่น",
@@ -149,7 +149,7 @@
       "skph": "khlún"
     },
     {
-      "id": 499,
+      "id": 514,
       "cz": "mořská voda",
       "sk": "morská voda",
       "th": "นํ้าทะเล",
@@ -157,7 +157,7 @@
       "skph": "nám thalé"
     },
     {
-      "id": 500,
+      "id": 515,
       "cz": "útes, skalní stěna",
       "sk": "útes, skalná stena",
       "th": "หน้ผา",
@@ -165,7 +165,7 @@
       "skph": "ná phá"
     },
     {
-      "id": 501,
+      "id": 516,
       "cz": "plavky",
       "sk": "plavky",
       "th": "ชุดว่ายนํ้า",
@@ -173,7 +173,7 @@
       "skph": "čut váj nám"
     },
     {
-      "id": 502,
+      "id": 517,
       "cz": "ručník",
       "sk": "ručník",
       "th": "ผ้าเช็ดตัว",
@@ -181,7 +181,7 @@
       "skph": "phá čet tua"
     },
     {
-      "id": 503,
+      "id": 518,
       "cz": "brýle (plavecké)",
       "sk": "okuliare (plavecké)",
       "th": "แว่นตาว่ายนํ้า",
@@ -189,7 +189,7 @@
       "skph": "véntá váj nám"
     },
     {
-      "id": 504,
+      "id": 519,
       "cz": "bungalov",
       "sk": "bungalov",
       "th": "บังกาโล",
@@ -197,7 +197,7 @@
       "skph": "bangkáló"
     },
     {
-      "id": 505,
+      "id": 520,
       "cz": "hotel",
       "sk": "hotel",
       "th": "โรงแรม",
@@ -205,7 +205,7 @@
       "skph": "róng rém"
     },
     {
-      "id": 506,
+      "id": 521,
       "cz": "železnice",
       "sk": "železnica",
       "th": "การรถไฟ",
@@ -213,7 +213,7 @@
       "skph": "kán rot faj"
     },
     {
-      "id": 507,
+      "id": 522,
       "cz": "nádraží",
       "sk": "stanica",
       "th": "สถานีรถไฟ",
@@ -221,7 +221,7 @@
       "skph": "satháný rot faj"
     },
     {
-      "id": 508,
+      "id": 523,
       "cz": "pokladna (na jízdenky)",
       "sk": "pokladna (na jízdenky)",
       "th": "ที่ขายตั๋ว",
@@ -229,7 +229,7 @@
       "skph": "thý kháj tua"
     },
     {
-      "id": 509,
+      "id": 524,
       "cz": "jízdní řád",
       "sk": "jazdný poriadok",
       "th": "ตารางเวลาเดินรถ",
@@ -237,7 +237,7 @@
       "skph": "táráng vélá dén rot"
     },
     {
-      "id": 510,
+      "id": 525,
       "cz": "východ (brána)",
       "sk": "východ (brána)",
       "th": "ทางเข้าชานชลา",
@@ -245,7 +245,7 @@
       "skph": "tháng khao čánčalá"
     },
     {
-      "id": 511,
+      "id": 526,
       "cz": "nástupiště",
       "sk": "nástupište",
       "th": "ชานชลา",
@@ -253,7 +253,7 @@
       "skph": "čánčalá"
     },
     {
-      "id": 512,
+      "id": 527,
       "cz": "kolejnice",
       "sk": "koľaje",
       "th": "รางรถไฟ",
@@ -261,7 +261,7 @@
       "skph": "ráng rot faj"
     },
     {
-      "id": 513,
+      "id": 528,
       "cz": "vlak",
       "sk": "vlak",
       "th": "รถไฟ",
@@ -269,7 +269,7 @@
       "skph": "rot faj"
     },
     {
-      "id": 514,
+      "id": 529,
       "cz": "první třída",
       "sk": "první třída",
       "th": "ชั้นหนึ่ง",
@@ -277,7 +277,7 @@
       "skph": "čan núng"
     },
     {
-      "id": 515,
+      "id": 530,
       "cz": "druhá třída",
       "sk": "druhá trieda",
       "th": "ชั้นสอง",
@@ -285,7 +285,7 @@
       "skph": "čan sóng"
     },
     {
-      "id": 516,
+      "id": 531,
       "cz": "třetí třída",
       "sk": "tretia trieda",
       "th": "ชั้นสาม",
@@ -293,7 +293,7 @@
       "skph": "čan sám"
     },
     {
-      "id": 517,
+      "id": 532,
       "cz": "expres",
       "sk": "expres",
       "th": "รถด่วน",
@@ -301,7 +301,7 @@
       "skph": "rot duan"
     },
     {
-      "id": 518,
+      "id": 533,
       "cz": "osobní vlak",
       "sk": "osobný vlak",
       "th": "รถธรรมดา",
@@ -309,7 +309,7 @@
       "skph": "rot tham madá"
     },
     {
-      "id": 519,
+      "id": 534,
       "cz": "spací vagón",
       "sk": "spací vagon",
       "th": "รถนอน",
@@ -317,7 +317,7 @@
       "skph": "rot nón"
     },
     {
-      "id": 520,
+      "id": 535,
       "cz": "jídelní vagón",
       "sk": "jídelní vagón",
       "th": "รถเสบียง",
@@ -325,7 +325,7 @@
       "skph": "rot sabijang"
     },
     {
-      "id": 521,
+      "id": 536,
       "cz": "nákladní vagón",
       "sk": "nákladný vagon",
       "th": "รถสินค้า",
@@ -333,7 +333,7 @@
       "skph": "rot sinkhá"
     },
     {
-      "id": 522,
+      "id": 537,
       "cz": "vlak",
       "sk": "vlak",
       "th": "ขบวนรถ",
@@ -341,7 +341,7 @@
       "skph": "khabuan rot"
     },
     {
-      "id": 523,
+      "id": 538,
       "cz": "jízdenka",
       "sk": "jízdenka",
       "th": "ตั๋ว",
@@ -349,7 +349,7 @@
       "skph": "tua"
     },
     {
-      "id": 524,
+      "id": 539,
       "cz": "sedadlo",
       "sk": "sedadlo",
       "th": "ที่นั่ง",
@@ -357,7 +357,7 @@
       "skph": "thý nang"
     },
     {
-      "id": 525,
+      "id": 540,
       "cz": "cestující, pasažér",
       "sk": "cestujúci, pasažier",
       "th": "ผู้โดยสาร",
@@ -365,7 +365,7 @@
       "skph": "phú dój sán"
     },
     {
-      "id": 526,
+      "id": 541,
       "cz": "průvodčí",
       "sk": "průvodčí",
       "th": "พนักงานตรวจตั๋ว",
@@ -373,7 +373,7 @@
       "skph": "phanak ngán truat tua"
     },
     {
-      "id": 527,
+      "id": 542,
       "cz": "místenkový vagón",
       "sk": "miestny vagon",
       "th": "รถทัวร์",

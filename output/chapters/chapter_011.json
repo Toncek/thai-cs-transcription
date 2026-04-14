@@ -5,7 +5,7 @@
   "orderIndex": 0,
   "words": [
     {
-      "id": 221,
+      "id": 231,
       "cz": "dům",
       "sk": "dom",
       "th": "บ้าน",
@@ -13,7 +13,7 @@
       "skph": "bán"
     },
     {
-      "id": 222,
+      "id": 232,
       "cz": "střecha šikmá",
       "sk": "šikmá strecha",
       "th": "หลังคา",
@@ -21,7 +21,7 @@
       "skph": "lang khá"
     },
     {
-      "id": 223,
+      "id": 233,
       "cz": "střecha rovná",
       "sk": "střecha rovná",
       "th": "ดาดฟา",
@@ -29,7 +29,7 @@
       "skph": "dád fá"
     },
     {
-      "id": 224,
+      "id": 234,
       "cz": "anténa",
       "sk": "anténa",
       "th": "เสาอากาศ",
@@ -37,7 +37,7 @@
       "skph": "sáu ákát"
     },
     {
-      "id": 225,
+      "id": 235,
       "cz": "anténa satelitní",
       "sk": "satelitná anténa",
       "th": "จานดาวเทียม",
@@ -45,7 +45,7 @@
       "skph": "džán dáu thýjam"
     },
     {
-      "id": 226,
+      "id": 236,
       "cz": "okno",
       "sk": "okno",
       "th": "หน้าต่าง",
@@ -53,7 +53,7 @@
       "skph": "nátáng"
     },
     {
-      "id": 227,
+      "id": 237,
       "cz": "balkón",
       "sk": "balkón",
       "th": "ระเบียง",
@@ -61,7 +61,7 @@
       "skph": "rabíjang"
     },
     {
-      "id": 228,
+      "id": 238,
       "cz": "dveře",
       "sk": "dvere",
       "th": "ประต ู",
@@ -69,7 +69,7 @@
       "skph": "pratú"
     },
     {
-      "id": 229,
+      "id": 239,
       "cz": "zahrada",
       "sk": "zahrada",
       "th": "สวน",
@@ -77,7 +77,7 @@
       "skph": "suan"
     },
     {
-      "id": 230,
+      "id": 240,
       "cz": "žebřík",
       "sk": "rebrík",
       "th": "บันได",
@@ -85,7 +85,7 @@
       "skph": "bandaj"
     },
     {
-      "id": 231,
+      "id": 241,
       "cz": "garáž",
       "sk": "garáž",
       "th": "โรงรถ",
@@ -93,7 +93,7 @@
       "skph": "róng rot"
     },
     {
-      "id": 232,
+      "id": 242,
       "cz": "sklad, kůlna",
       "sk": "sklad, stodola",
       "th": "ห้องเก็บของ",
@@ -101,7 +101,7 @@
       "skph": "hóng kep khong"
     },
     {
-      "id": 233,
+      "id": 243,
       "cz": "roleta",
       "sk": "roleta",
       "th": "ประตูเหล็กม้วน",
@@ -109,7 +109,7 @@
       "skph": "pratú lek muan"
     },
     {
-      "id": 234,
+      "id": 244,
       "cz": "trávník",
       "sk": "trávnik",
       "th": "สนามหญา",
@@ -117,7 +117,7 @@
       "skph": "sanám já"
     },
     {
-      "id": 235,
+      "id": 245,
       "cz": "trávník před domem",
       "sk": "trávník před domem",
       "th": "ลาน",
@@ -125,7 +125,7 @@
       "skph": "lán"
     },
     {
-      "id": 236,
+      "id": 246,
       "cz": "plot",
       "sk": "plot",
       "th": "รั้ว",
@@ -133,7 +133,7 @@
       "skph": "rúa"
     },
     {
-      "id": 237,
+      "id": 247,
       "cz": "plot kolem domu",
       "sk": "plot okolo domu",
       "th": "รั้วบ้าน",
@@ -141,7 +141,7 @@
       "skph": "rúa bán"
     },
     {
-      "id": 238,
+      "id": 248,
       "cz": "vrata, brána",
       "sk": "vráta, brána",
       "th": "ประตูรั้ว",
@@ -149,7 +149,7 @@
       "skph": "pratú rúa"
     },
     {
-      "id": 239,
+      "id": 249,
       "cz": "zvonek (domovní)",
       "sk": "zvonček (domový)",
       "th": "ออด",
@@ -157,7 +157,7 @@
       "skph": "ót"
     },
     {
-      "id": 240,
+      "id": 250,
       "cz": "domovní deska",
       "sk": "domová doska",
       "th": "ปายชื่อ",
@@ -165,7 +165,7 @@
       "skph": "páj čú"
     },
     {
-      "id": 241,
+      "id": 251,
       "cz": "poštovní schránka",
       "sk": "poštovní schránka",
       "th": "กล่องจดหมาย",
@@ -173,7 +173,7 @@
       "skph": "klóng džot máj"
     },
     {
-      "id": 242,
+      "id": 252,
       "cz": "pokoj, místnost",
       "sk": "izba, miestnosť",
       "th": "ห้อง",
@@ -181,7 +181,7 @@
       "skph": "hóng"
     },
     {
-      "id": 243,
+      "id": 253,
       "cz": "salón",
       "sk": "salón",
       "th": "ห้องรับแขก",
@@ -189,7 +189,7 @@
       "skph": "hóng rap khék"
     },
     {
-      "id": 244,
+      "id": 254,
       "cz": "záchod",
       "sk": "záchod",
       "th": "ห้องส้วม",
@@ -197,7 +197,7 @@
       "skph": "hóng súam"
     },
     {
-      "id": 245,
+      "id": 255,
       "cz": "záchod (veřejný)",
       "sk": "verejný záchod",
       "th": "ห้องสุขา",
@@ -205,7 +205,7 @@
       "skph": "hóng sukhá"
     },
     {
-      "id": 246,
+      "id": 256,
       "cz": "toaleta, záchod",
       "sk": "toaleta, záchod",
       "th": "ห้องนํ้",
@@ -213,7 +213,7 @@
       "skph": "hóng nám"
     },
     {
-      "id": 247,
+      "id": 257,
       "cz": "jídelna",
       "sk": "jedáleň",
       "th": "ห้องทานข้าว",
@@ -221,7 +221,7 @@
       "skph": "hóng thán kháu"
     },
     {
-      "id": 248,
+      "id": 258,
       "cz": "kuchyně",
       "sk": "kuchyňa",
       "th": "ห้องครัว",
@@ -229,7 +229,7 @@
       "skph": "hóng khrúa"
     },
     {
-      "id": 249,
+      "id": 259,
       "cz": "komora",
       "sk": "komora",
       "th": "ห้องเก็บของ",
@@ -237,7 +237,7 @@
       "skph": "hóng kep khong"
     },
     {
-      "id": 250,
+      "id": 260,
       "cz": "obývací pokoj",
       "sk": "obývací pokoj",
       "th": "ห้องนั่งล่น",
@@ -245,7 +245,7 @@
       "skph": "hóng nang len"
     },
     {
-      "id": 251,
+      "id": 261,
       "cz": "studovna",
       "sk": "študovňa",
       "th": "ห้องหนังสือ",
@@ -253,7 +253,7 @@
       "skph": "hóng nangsú"
     },
     {
-      "id": 252,
+      "id": 262,
       "cz": "knihovna (místnost)",
       "sk": "knižnica (miestnosť)",
       "th": "ห้องสมุด",
@@ -261,7 +261,7 @@
       "skph": "hóng samut"
     },
     {
-      "id": 253,
+      "id": 263,
       "cz": "dětský pokoj",
       "sk": "detská izba",
       "th": "ห้องด็ก",
@@ -269,7 +269,7 @@
       "skph": "hóng dek"
     },
     {
-      "id": 254,
+      "id": 264,
       "cz": "ložnice",
       "sk": "spálňa",
       "th": "ห้องนอน",
@@ -277,7 +277,7 @@
       "skph": "hóng nón"
     },
     {
-      "id": 255,
+      "id": 265,
       "cz": "koupelna",
       "sk": "kúpeľňa",
       "th": "ห้องอาบนํ้า",
@@ -285,7 +285,7 @@
       "skph": "hóng ápnám"
     },
     {
-      "id": 256,
+      "id": 266,
       "cz": "chodba",
       "sk": "chodba",
       "th": "ทางเดิน",

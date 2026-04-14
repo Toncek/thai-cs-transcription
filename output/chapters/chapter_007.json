@@ -5,7 +5,7 @@
   "orderIndex": 1,
   "words": [
     {
-      "id": 120,
+      "id": 125,
       "cz": "rodina",
       "sk": "rodina",
       "th": "ครอบครัว",
@@ -13,7 +13,7 @@
       "skph": "khrób khrúa"
     },
     {
-      "id": 121,
+      "id": 126,
       "cz": "dědeček (z otcovy strany)",
       "sk": "dedko (z otcovej strany)",
       "th": "ปู็",
@@ -21,7 +21,7 @@
       "skph": "pú"
     },
     {
-      "id": 122,
+      "id": 127,
       "cz": "babička (z otcovy strany)",
       "sk": "babička (z otcovy strany)",
       "th": "ย่า",
@@ -29,7 +29,7 @@
       "skph": "já"
     },
     {
-      "id": 123,
+      "id": 128,
       "cz": "dědeček (z matčiny strany)",
       "sk": "dedko (z matkiny strany)",
       "th": "ตา",
@@ -37,7 +37,7 @@
       "skph": "tá"
     },
     {
-      "id": 124,
+      "id": 129,
       "cz": "babička (z matčiny strany)",
       "sk": "babička (z matkiny strany)",
       "th": "ยาย",
@@ -45,7 +45,7 @@
       "skph": "jáj"
     },
     {
-      "id": 125,
+      "id": 130,
       "cz": "strýc (starší bratr rodičů)",
       "sk": "strýko (starší brat rodičov)",
       "th": "ลุง",
@@ -53,7 +53,7 @@
       "skph": "lung"
     },
     {
-      "id": 126,
+      "id": 131,
       "cz": "teta (starší sestra rodičů)",
       "sk": "teta (staršia sestra rodičov)",
       "th": "ปา",
@@ -61,7 +61,7 @@
       "skph": "pá"
     },
     {
-      "id": 127,
+      "id": 132,
       "cz": "teta, strýc (ml.bratr nebo sestra matky)",
       "sk": "teta, strýc (ml.bratr nebo sestra matky)",
       "th": "น้า",
@@ -69,7 +69,7 @@
       "skph": "ná"
     },
     {
-      "id": 128,
+      "id": 133,
       "cz": "teta, strýc (ml.bratr nebo sestra otce)",
       "sk": "teta, strýc (ml.bratr nebo sestra otce)",
       "th": "อา",
@@ -77,7 +77,7 @@
       "skph": "á"
     },
     {
-      "id": 129,
+      "id": 134,
       "cz": "otec",
       "sk": "otec",
       "th": "พ่อ",
@@ -85,7 +85,7 @@
       "skph": "phó"
     },
     {
-      "id": 130,
+      "id": 135,
       "cz": "matka",
       "sk": "matka",
       "th": "แม่",
@@ -93,7 +93,7 @@
       "skph": "mé"
     },
     {
-      "id": 131,
+      "id": 136,
       "cz": "syn",
       "sk": "syn",
       "th": "ลูกชาย",
@@ -101,7 +101,7 @@
       "skph": "lúk čáj"
     },
     {
-      "id": 132,
+      "id": 137,
       "cz": "dcera",
       "sk": "dcéra",
       "th": "ลูกสาว",
@@ -109,7 +109,7 @@
       "skph": "lúk sáu"
     },
     {
-      "id": 133,
+      "id": 138,
       "cz": "bratr (starší)",
       "sk": "brat (starší)",
       "th": "พี่ชาย",
@@ -117,7 +117,7 @@
       "skph": "phý čáj"
     },
     {
-      "id": 134,
+      "id": 139,
       "cz": "sestra (starší)",
       "sk": "sestra (starší)",
       "th": "พี่สาว",
@@ -125,7 +125,7 @@
       "skph": "phý sáu"
     },
     {
-      "id": 135,
+      "id": 140,
       "cz": "bratr (mladší)",
       "sk": "brat (mladší)",
       "th": "น้องชาย",
@@ -133,7 +133,7 @@
       "skph": "nóng čáj"
     },
     {
-      "id": 136,
+      "id": 141,
       "cz": "sestra (mladší)",
       "sk": "sestra (mladší)",
       "th": "น้องสาว",
@@ -141,7 +141,7 @@
       "skph": "nóng sáu"
     },
     {
-      "id": 137,
+      "id": 142,
       "cz": "sestřenice, bratranec",
       "sk": "sesternica, bratranec",
       "th": "ลูกพี่ ลูกน้อง",
@@ -149,7 +149,7 @@
       "skph": "lúk phý, lúk nóng"
     },
     {
-      "id": 138,
+      "id": 143,
       "cz": "vnouče",
       "sk": "vnuk",
       "th": "หลาน",
@@ -157,7 +157,7 @@
       "skph": "lán"
     },
     {
-      "id": 139,
+      "id": 144,
       "cz": "synovec",
       "sk": "synovec",
       "th": "หลานชาย",
@@ -165,7 +165,7 @@
       "skph": "lán čáj"
     },
     {
-      "id": 140,
+      "id": 145,
       "cz": "neteř",
       "sk": "neteř",
       "th": "หลานสาว",
@@ -173,7 +173,7 @@
       "skph": "lán sáu"
     },
     {
-      "id": 141,
+      "id": 146,
       "cz": "manžel",
       "sk": "manžel",
       "th": "สาม ี",
@@ -181,7 +181,7 @@
       "skph": "sámí"
     },
     {
-      "id": 142,
+      "id": 147,
       "cz": "manželka",
       "sk": "manželka",
       "th": "ภรรยา",
@@ -189,7 +189,7 @@
       "skph": "phanrajá"
     },
     {
-      "id": 143,
+      "id": 148,
       "cz": "manželka",
       "sk": "manželka",
       "th": "เมีย",
@@ -197,7 +197,7 @@
       "skph": "míja"
     },
     {
-      "id": 144,
+      "id": 149,
       "cz": "rodiče",
       "sk": "rodičia",
       "th": "พ่อแม่",
@@ -205,7 +205,7 @@
       "skph": "phó mé"
     },
     {
-      "id": 145,
+      "id": 150,
       "cz": "dítě",
       "sk": "dieťa",
       "th": "ลูก",
@@ -213,7 +213,7 @@
       "skph": "lúk"
     },
     {
-      "id": 146,
+      "id": 151,
       "cz": "syn (nejstarší)",
       "sk": "syn (najstarší)",
       "th": "ลูกชายคนโต",
@@ -221,7 +221,7 @@
       "skph": "lúk čáj khontó"
     },
     {
-      "id": 147,
+      "id": 152,
       "cz": "dcera (druhorozená)",
       "sk": "dcéra (druhorodená)",
       "th": "ลูกสาวคนรอง",
@@ -229,7 +229,7 @@
       "skph": "lúk sáu khon róng"
     },
     {
-      "id": 148,
+      "id": 153,
       "cz": "dítě (nejmladší)",
       "sk": "dieťa (najmladšie)",
       "th": "ลูกคนสุดท้อง",
@@ -237,7 +237,7 @@
       "skph": "lúk khon sut thóng"
     },
     {
-      "id": 149,
+      "id": 154,
       "cz": "dcera (nejstarší)",
       "sk": "dcéra (najstaršia)",
       "th": "ลูกสาวคนโต",
@@ -245,7 +245,7 @@
       "skph": "lúk sau khontó"
     },
     {
-      "id": 150,
+      "id": 155,
       "cz": "syn (druhorozený)",
       "sk": "syn (druhorodený)",
       "th": "ลูกชายคนรอง",
@@ -253,7 +253,7 @@
       "skph": "lúk čáj khon róng"
     },
     {
-      "id": 151,
+      "id": 156,
       "cz": "tchán (otec manželky)",
       "sk": "tchán (otec manželky)",
       "th": "พ่อตา",
@@ -261,7 +261,7 @@
       "skph": "phó tá"
     },
     {
-      "id": 152,
+      "id": 157,
       "cz": "tchán (otec manžela)",
       "sk": "tchán (otec manžela)",
       "th": "พ่อสาม ี",
@@ -269,7 +269,7 @@
       "skph": "phó sámí"
     },
     {
-      "id": 153,
+      "id": 158,
       "cz": "tchyně (matka manželky)",
       "sk": "tchyně (matka manželky)",
       "th": "แม่ยาย",
@@ -277,7 +277,7 @@
       "skph": "mé jáj"
     },
     {
-      "id": 154,
+      "id": 159,
       "cz": "tchyně (matka manžela)",
       "sk": "tchyně (matka manžela)",
       "th": "แม่สามี",
@@ -285,7 +285,7 @@
       "skph": "mé sámí"
     },
     {
-      "id": 155,
+      "id": 160,
       "cz": "švagrová",
       "sk": "švagr (manželka ml. brata)",
       "th": "ลูกสะใภ้",
@@ -293,7 +293,7 @@
       "skph": "lúk saphaj"
     },
     {
-      "id": 156,
+      "id": 161,
       "cz": "švagr",
       "sk": "švagr",
       "th": "ลูกเขย",
@@ -301,7 +301,7 @@
       "skph": "lúk khej"
     },
     {
-      "id": 157,
+      "id": 162,
       "cz": "švagrová (manželka st.bratra)",
       "sk": "švagrová (manželka st.bratra)",
       "th": "พี่สะใภ ้",
@@ -309,7 +309,7 @@
       "skph": "phý saphaj"
     },
     {
-      "id": 158,
+      "id": 163,
       "cz": "švagr (manžel st.sestry)",
       "sk": "švagr (manžel staršej sestry)",
       "th": "พี่เขย",
@@ -317,7 +317,7 @@
       "skph": "phý khéj"
     },
     {
-      "id": 159,
+      "id": 164,
       "cz": "švagrová(manželka ml.bratra)",
       "sk": "švagrová (manželka mladšieho brata)",
       "th": "น้องสะใภ้",
@@ -325,7 +325,7 @@
       "skph": "nóng saphaj"
     },
     {
-      "id": 160,
+      "id": 165,
       "cz": "švagr (manžel ml. sestry)",
       "sk": "švagr (manžel mladšej sestry)",
       "th": "น้องเขย",

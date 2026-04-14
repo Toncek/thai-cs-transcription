@@ -5,7 +5,7 @@
   "orderIndex": 3,
   "words": [
     {
-      "id": 528,
+      "id": 543,
       "cz": "spojky,předložky",
       "sk": "spojky,predložky",
       "th": "สันธาน, บุพบท",
@@ -13,7 +13,7 @@
       "skph": "san thán, bup bot"
     },
     {
-      "id": 529,
+      "id": 544,
       "cz": "a",
       "sk": "a",
       "th": "และ",
@@ -21,7 +21,7 @@
       "skph": "le"
     },
     {
-      "id": 530,
+      "id": 545,
       "cz": "s",
       "sk": "s",
       "th": "กับ",
@@ -29,7 +29,7 @@
       "skph": "kap"
     },
     {
-      "id": 531,
+      "id": 546,
       "cz": "ale",
       "sk": "ale",
       "th": "แต่",
@@ -37,7 +37,7 @@
       "skph": "té"
     },
     {
-      "id": 532,
+      "id": 547,
       "cz": "nebo",
       "sk": "alebo",
       "th": "หรือ",
@@ -45,7 +45,7 @@
       "skph": "rú"
     },
     {
-      "id": 533,
+      "id": 548,
       "cz": "že",
       "sk": "že",
       "th": "ว่า",
@@ -53,7 +53,7 @@
       "skph": "vá"
     },
     {
-      "id": 534,
+      "id": 549,
       "cz": "bez",
       "sk": "bez",
       "th": "โดยไม่",
@@ -61,7 +61,7 @@
       "skph": "dój maj"
     },
     {
-      "id": 535,
+      "id": 550,
       "cz": "kromě",
       "sk": "okrem",
       "th": "เว้น",
@@ -69,7 +69,7 @@
       "skph": "vén"
     },
     {
-      "id": 536,
+      "id": 551,
       "cz": "kromě",
       "sk": "okrem",
       "th": "เว้นแต่",
@@ -77,7 +77,7 @@
       "skph": "vén té"
     },
     {
-      "id": 537,
+      "id": 552,
       "cz": "kromě",
       "sk": "okrem",
       "th": "ยกเว้น",
@@ -85,7 +85,7 @@
       "skph": "jok vén"
     },
     {
-      "id": 538,
+      "id": 553,
       "cz": "z (odkud)",
       "sk": "z (odkiaľ)",
       "th": "จาก",
@@ -93,7 +93,7 @@
       "skph": "džák"
     },
     {
-      "id": 539,
+      "id": 554,
       "cz": "v (uvnitř)",
       "sk": "v (vnútri)",
       "th": "ใน",
@@ -101,7 +101,7 @@
       "skph": "naj"
     },
     {
-      "id": 540,
+      "id": 555,
       "cz": "v",
       "sk": "v",
       "th": "ภายใน",
@@ -109,7 +109,7 @@
       "skph": "pháj naj"
     },
     {
-      "id": 541,
+      "id": 556,
       "cz": "na",
       "sk": "na",
       "th": "บน",
@@ -117,7 +117,7 @@
       "skph": "bon"
     },
     {
-      "id": 542,
+      "id": 557,
       "cz": "pod",
       "sk": "pod",
       "th": "ใต้",
@@ -125,7 +125,7 @@
       "skph": "taj"
     },
     {
-      "id": 543,
+      "id": 558,
       "cz": "do (místně)",
       "sk": "do (miestne)",
       "th": "ที",
@@ -133,7 +133,7 @@
       "skph": "thý"
     },
     {
-      "id": 544,
+      "id": 559,
       "cz": "k (směrem k …)",
       "sk": "k (smerom k …)",
       "th": "ทิศ",
@@ -141,7 +141,7 @@
       "skph": "thyt"
     },
     {
-      "id": 545,
+      "id": 560,
       "cz": "podél, po",
       "sk": "popri, po",
       "th": "ตาม",
@@ -149,7 +149,7 @@
       "skph": "thám"
     },
     {
-      "id": 546,
+      "id": 561,
       "cz": "čím, s čím, přes, skrz",
       "sk": "čím, s čím, cez, skrz",
       "th": "ทาง",
@@ -157,7 +157,7 @@
       "skph": "tháng"
     },
     {
-      "id": 547,
+      "id": 562,
       "cz": "čím (pomocí čeho)",
       "sk": "čím (pomocou čoho)",
       "th": "ด้วย",
@@ -165,7 +165,7 @@
       "skph": "dúaj"
     },
     {
-      "id": 548,
+      "id": 563,
       "cz": "příslovce",
       "sk": "príslovky",
       "th": "กริยาวิเศษณ์",
@@ -173,7 +173,7 @@
       "skph": "kryjá visét"
     },
     {
-      "id": 549,
+      "id": 564,
       "cz": "venku",
       "sk": "vonku",
       "th": "ข้างนอก",
@@ -181,7 +181,7 @@
       "skph": "kháng nók"
     },
     {
-      "id": 550,
+      "id": 565,
       "cz": "uvnitř",
       "sk": "uvnitř",
       "th": "ข้างใน",
@@ -189,7 +189,7 @@
       "skph": "kháng naj"
     },
     {
-      "id": 551,
+      "id": 566,
       "cz": "na (nahoře)",
       "sk": "na (hore)",
       "th": "ข้างบน",
@@ -197,7 +197,7 @@
       "skph": "kháng bon"
     },
     {
-      "id": 552,
+      "id": 567,
       "cz": "pod",
       "sk": "pod",
       "th": "ข้างใต้",
@@ -205,7 +205,7 @@
       "skph": "kháng táj"
     },
     {
-      "id": 553,
+      "id": 568,
       "cz": "vpředu",
       "sk": "vpredu",
       "th": "ข้างหน้า",
@@ -213,7 +213,7 @@
       "skph": "kháng ná"
     },
     {
-      "id": 554,
+      "id": 569,
       "cz": "vzadu",
       "sk": "vzadu",
       "th": "ข้างหลัง",
@@ -221,7 +221,7 @@
       "skph": "kháng lang"
     },
     {
-      "id": 555,
+      "id": 570,
       "cz": "vedle",
       "sk": "vedľa",
       "th": "ข้าง ๆ",
@@ -229,7 +229,7 @@
       "skph": "khang kháng"
     },
     {
-      "id": 556,
+      "id": 571,
       "cz": "vlevo (od)",
       "sk": "vlevo (od)",
       "th": "ข้างซ้าย",
@@ -237,7 +237,7 @@
       "skph": "kháng sáj"
     },
     {
-      "id": 557,
+      "id": 572,
       "cz": "vpravo (od)",
       "sk": "vpravo (od)",
       "th": "ข้างขวา",
@@ -245,7 +245,7 @@
       "skph": "kháng khvá"
     },
     {
-      "id": 558,
+      "id": 573,
       "cz": "zde",
       "sk": "tu",
       "th": "ที่มี้",
@@ -253,7 +253,7 @@
       "skph": "thý ný"
     },
     {
-      "id": 559,
+      "id": 574,
       "cz": "právě zde, přesně",
       "sk": "presne tu, presne",
       "th": "ตรงนี้",
@@ -261,7 +261,7 @@
       "skph": "trong ný"
     },
     {
-      "id": 560,
+      "id": 575,
       "cz": "tam",
       "sk": "tam",
       "th": "ที่นั่น",
@@ -269,7 +269,7 @@
       "skph": "thý nan"
     },
     {
-      "id": 561,
+      "id": 576,
       "cz": "tamhle",
       "sk": "tamto",
       "th": "ที่โน่น",
@@ -277,7 +277,7 @@
       "skph": "thý nón"
     },
     {
-      "id": 562,
+      "id": 577,
       "cz": "vedle sebe, těsně",
       "sk": "vedle sebe, těsně",
       "th": "ติดข้าง",
@@ -285,7 +285,7 @@
       "skph": "tyt kháng"
     },
     {
-      "id": 563,
+      "id": 578,
       "cz": "přes (co, něco)",
       "sk": "cez (čo, niečo)",
       "th": "ข้าม",
@@ -293,7 +293,7 @@
       "skph": "khám"
     },
     {
-      "id": 564,
+      "id": 579,
       "cz": "přímo, rovně",
       "sk": "priamo, rovno",
       "th": "ตรง",
@@ -301,7 +301,7 @@
       "skph": "trong"
     },
     {
-      "id": 565,
+      "id": 580,
       "cz": "na druhé straně",
       "sk": "na druhej strane",
       "th": "ฝั้งโน้น",
@@ -309,7 +309,7 @@
       "skph": "fang nón"
     },
     {
-      "id": 566,
+      "id": 581,
       "cz": "na rohu",
       "sk": "na rohu",
       "th": "ตรงมุม",
@@ -317,7 +317,7 @@
       "skph": "trongmum"
     },
     {
-      "id": 567,
+      "id": 582,
       "cz": "před",
       "sk": "pred",
       "th": "ดา้ นหม้า",

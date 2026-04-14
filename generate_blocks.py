@@ -25,7 +25,7 @@ def generate_practice_sentences(learned_words_pool, count):
     # Build word list string for the prompt
     word_list = ", ".join([f"{w['th']} ({w['sk']}/{w['cz']})" for w in learned_words_pool])
 
-    prompt = f"""Vygeneruj {count} thajských viet (len th, sk, cz vo formáte JSON). Musíš použiť VÝHRADNE iba slová z predloženého zoznamu, aby si študent opakoval už naučené učivo.
+    prompt = f"""Vygeneruj {count} thajských viet (len th, sk, cz vo formáte JSON). Musíš použiť hlavne slová z predloženého zoznamu, aby si študent opakoval už naučené učivo.
 
 Zoznam slov:
 {word_list}
@@ -143,7 +143,7 @@ def main():
                         logger.warning(f"Source chapter '{title}' not found in train.json")
 
             elif chapter_type == "practice":
-                count = chapter.get("sentence_count", 10)
+                count = 15
                 sentences = generate_practice_sentences(learned_words_pool, count)
 
                 for s in sentences:

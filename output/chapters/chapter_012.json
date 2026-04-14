@@ -5,7 +5,7 @@
   "orderIndex": 1,
   "words": [
     {
-      "id": 257,
+      "id": 267,
       "cz": "kuchyně",
       "sk": "kuchyň",
       "th": "ห้องครัว",
@@ -13,7 +13,7 @@
       "skph": "hóng khrúa"
     },
     {
-      "id": 258,
+      "id": 268,
       "cz": "sporák",
       "sk": "sporák",
       "th": "เตา",
@@ -21,7 +21,7 @@
       "skph": "tau"
     },
     {
-      "id": 259,
+      "id": 269,
       "cz": "trouba (u kamen)",
       "sk": "trouba (u kamen)",
       "th": "เตาอบ",
@@ -29,7 +29,7 @@
       "skph": "tau op"
     },
     {
-      "id": 260,
+      "id": 270,
       "cz": "gril (u kamen)",
       "sk": "gril (pri kameni)",
       "th": "เตาปู๊ง",
@@ -37,7 +37,7 @@
       "skph": "tau ping"
     },
     {
-      "id": 261,
+      "id": 271,
       "cz": "odpadkový koš",
       "sk": "odpadkový kôš",
       "th": "ถังขยะ",
@@ -45,7 +45,7 @@
       "skph": "thang khaja"
     },
     {
-      "id": 262,
+      "id": 272,
       "cz": "hořák (u sporáku)",
       "sk": "horák (pri sporáku)",
       "th": "หัวแก๊ส",
@@ -53,7 +53,7 @@
       "skph": "húa két"
     },
     {
-      "id": 263,
+      "id": 273,
       "cz": "konvice",
       "sk": "konvice",
       "th": "กาต้มนํ้า",
@@ -61,7 +61,7 @@
       "skph": "ká tom nám"
     },
     {
-      "id": 264,
+      "id": 274,
       "cz": "pánev na pečení",
       "sk": "panvica na pečenie",
       "th": "กระทะ",
@@ -69,7 +69,7 @@
       "skph": "kratha"
     },
     {
-      "id": 265,
+      "id": 275,
       "cz": "mikrovlnná trouba",
       "sk": "mikrovlnná trouba",
       "th": "เตาไมโครเวฟ",
@@ -77,7 +77,7 @@
       "skph": "tau majkhró vép"
     },
     {
-      "id": 266,
+      "id": 276,
       "cz": "moždíř",
       "sk": "mlynček",
       "th": "ครก",
@@ -85,7 +85,7 @@
       "skph": "khrok"
     },
     {
-      "id": 267,
+      "id": 277,
       "cz": "dřevěný tlouk",
       "sk": "drevený tlouč",
       "th": "สาก",
@@ -93,7 +93,7 @@
       "skph": "sák"
     },
     {
-      "id": 268,
+      "id": 278,
       "cz": "el. hrnec na rýži",
       "sk": "el. hrniec na ryžu",
       "th": "หม้อหุงข้าวไฟฟา",
@@ -101,7 +101,7 @@
       "skph": "mó hung kháu fajfá"
     },
     {
-      "id": 269,
+      "id": 279,
       "cz": "prkénko na krájení",
       "sk": "doska na krájanie",
       "th": "เขียง",
@@ -109,7 +109,7 @@
       "skph": "khyjang"
     },
     {
-      "id": 270,
+      "id": 280,
       "cz": "ocet",
       "sk": "ocot",
       "th": "นํ้าส้มสายช ู",
@@ -117,7 +117,7 @@
       "skph": "nám som sáj čú"
     },
     {
-      "id": 271,
+      "id": 281,
       "cz": "rybí omáčka",
       "sk": "rybí omáčka",
       "th": "มํ้าปลา",
@@ -125,7 +125,7 @@
       "skph": "nám plá"
     },
     {
-      "id": 272,
+      "id": 282,
       "cz": "sojová omáčka",
       "sk": "sójová omáčka",
       "th": "ซีอวิ๊ ญี่ปุ็น",
@@ -133,7 +133,7 @@
       "skph": "sí íju jípun"
     },
     {
-      "id": 273,
+      "id": 283,
       "cz": "omáčka (obecně)",
       "sk": "omáčka (všeobecne)",
       "th": "ซ้อส",
@@ -141,7 +141,7 @@
       "skph": "sót"
     },
     {
-      "id": 274,
+      "id": 284,
       "cz": "nůž",
       "sk": "nôž",
       "th": "มีด",
@@ -149,7 +149,7 @@
       "skph": "mít"
     },
     {
-      "id": 275,
+      "id": 285,
       "cz": "toustovač",
       "sk": "toastovač",
       "th": "เตาปู๊งขนมปัง",
@@ -157,7 +157,7 @@
       "skph": "tau ping khanom pang"
     },
     {
-      "id": 276,
+      "id": 286,
       "cz": "police",
       "sk": "polica",
       "th": "ชั้นวางของ",
@@ -165,7 +165,7 @@
       "skph": "čán váng khóng"
     },
     {
-      "id": 277,
+      "id": 287,
       "cz": "lžíce",
       "sk": "lžíce",
       "th": "ช้อน",
@@ -173,7 +173,7 @@
       "skph": "čón"
     },
     {
-      "id": 278,
+      "id": 288,
       "cz": "vidlička",
       "sk": "vidlička",
       "th": "ส้อม",
@@ -181,7 +181,7 @@
       "skph": "sóm"
     },
     {
-      "id": 279,
+      "id": 289,
       "cz": "talíř",
       "sk": "tanier",
       "th": "จาน",
@@ -189,7 +189,7 @@
       "skph": "džán"
     },
     {
-      "id": 280,
+      "id": 290,
       "cz": "miska (jídelní)",
       "sk": "miska (jedálenská)",
       "th": "ชาม",
@@ -197,7 +197,7 @@
       "skph": "čám"
     },
     {
-      "id": 281,
+      "id": 291,
       "cz": "umyvadlo (na nádobí)",
       "sk": "umyvadlo (na riad)",
       "th": "อ่างล้าง",
@@ -205,7 +205,7 @@
       "skph": "áng láng"
     },
     {
-      "id": 282,
+      "id": 292,
       "cz": "skříňka na nádobí",
       "sk": "skriňka na riad",
       "th": "ตู้ใส่ถ้วยชาม",
@@ -213,7 +213,7 @@
       "skph": "tú saj thuaj čám"
     },
     {
-      "id": 283,
+      "id": 293,
       "cz": "myčka na nádobí",
       "sk": "myčka riadu",
       "th": "เครื่องล้างจาน",
@@ -221,7 +221,7 @@
       "skph": "khrúang láng džán"
     },
     {
-      "id": 284,
+      "id": 294,
       "cz": "hrnec",
       "sk": "hrniec",
       "th": "หม้อ",
@@ -229,7 +229,7 @@
       "skph": "mó"
     },
     {
-      "id": 285,
+      "id": 295,
       "cz": "plechovka",
       "sk": "plechovka",
       "th": "กระปอง",
@@ -237,7 +237,7 @@
       "skph": "krapóng"
     },
     {
-      "id": 286,
+      "id": 296,
       "cz": "otvírák (na lahve)",
       "sk": "otvárač (na fľaše)",
       "th": "ที่เปูดขวด",
@@ -245,7 +245,7 @@
       "skph": "thý pét khuat"
     },
     {
-      "id": 287,
+      "id": 297,
       "cz": "lednička",
       "sk": "chladnička",
       "th": "ตู้เย็น",
@@ -253,7 +253,7 @@
       "skph": "tú jen"
     },
     {
-      "id": 288,
+      "id": 298,
       "cz": "stůl",
       "sk": "stôl",
       "th": "โต๊ะ",
@@ -261,7 +261,7 @@
       "skph": "to"
     },
     {
-      "id": 289,
+      "id": 299,
       "cz": "židle",
       "sk": "židle",
       "th": "เก้าอี้",
@@ -269,7 +269,7 @@
       "skph": "kau í"
     },
     {
-      "id": 290,
+      "id": 300,
       "cz": "kávovar",
       "sk": "kávovar",
       "th": "หม้อกาแฟ",
@@ -277,7 +277,7 @@
       "skph": "mó káfé"
     },
     {
-      "id": 291,
+      "id": 301,
       "cz": "utěrka, ubrousek",
       "sk": "utierka, obrúsky",
       "th": "ผ้าเช็ดมือ",
@@ -285,7 +285,7 @@
       "skph": "phá čet mú"
     },
     {
-      "id": 292,
+      "id": 302,
       "cz": "zásobník na ubrousky",
       "sk": "zásobník na obrúsky",
       "th": "ที่ใส่ผ้าเช็ดมือ",
@@ -293,7 +293,7 @@
       "skph": "thý saj phá čet mú"
     },
     {
-      "id": 293,
+      "id": 303,
       "cz": "ovoce",
       "sk": "ovocie",
       "th": "ผลไม้",
@@ -301,7 +301,7 @@
       "skph": "phonlamáj"
     },
     {
-      "id": 294,
+      "id": 304,
       "cz": "košíček na ovoce",
       "sk": "košík na ovocie",
       "th": "ตะกร้าใส่ผลไม้",
@@ -309,7 +309,7 @@
       "skph": "takrá saj phonlamáj"
     },
     {
-      "id": 295,
+      "id": 305,
       "cz": "šálek",
       "sk": "šálek",
       "th": "ถ้วย",
@@ -317,7 +317,7 @@
       "skph": "thuaj"
     },
     {
-      "id": 296,
+      "id": 306,
       "cz": "pult, pracovní stůl",
       "sk": "pult, pracovný stôl",
       "th": "เคาน์ตอร์ทําอาหาร",
@@ -325,7 +325,7 @@
       "skph": "khau té tham áhán"
     },
     {
-      "id": 297,
+      "id": 307,
       "cz": "otvírák na konzervy",
       "sk": "otvárač na konzervy",
       "th": "ที่เปูดกระปอง",
@@ -333,7 +333,7 @@
       "skph": "thý pét krapong"
     },
     {
-      "id": 298,
+      "id": 308,
       "cz": "stojan na talíře",
       "sk": "stojan na taniere",
       "th": "ที่ควํ่าจาน",
@@ -341,7 +341,7 @@
       "skph": "thý khvam džán"
     },
     {
-      "id": 299,
+      "id": 309,
       "cz": "sklenice",
       "sk": "sklenenka",
       "th": "แก้ว",
@@ -349,7 +349,7 @@
       "skph": "kaéu"
     },
     {
-      "id": 300,
+      "id": 310,
       "cz": "džbán",
       "sk": "džbán",
       "th": "เหยือก",
@@ -357,7 +357,7 @@
       "skph": "júak"
     },
     {
-      "id": 301,
+      "id": 311,
       "cz": "sklenice na cukr",
       "sk": "sklenice na cukr",
       "th": "โถนํ้าตาล",
@@ -365,7 +365,7 @@
       "skph": "thó námtán"
     },
     {
-      "id": 302,
+      "id": 312,
       "cz": "slánka",
       "sk": "soľnička",
       "th": "ขวดเกลือ",
@@ -373,7 +373,7 @@
       "skph": "khuat klúa"
     },
     {
-      "id": 303,
+      "id": 313,
       "cz": "pepřenka",
       "sk": "korenička",
       "th": "ขวดพริกไทย",
@@ -381,7 +381,7 @@
       "skph": "khuat phryk thaj"
     },
     {
-      "id": 304,
+      "id": 314,
       "cz": "koupelna",
       "sk": "kúpeľňa",
       "th": "ห้องนํ้า",
@@ -389,7 +389,7 @@
       "skph": "hóng nám"
     },
     {
-      "id": 305,
+      "id": 315,
       "cz": "vana",
       "sk": "vaňa",
       "th": "อ่างอาบนํ้า",
@@ -397,7 +397,7 @@
       "skph": "áng ápnám"
     },
     {
-      "id": 306,
+      "id": 316,
       "cz": "kohoutek (vodovodní)",
       "sk": "kohoutek (vodovodní)",
       "th": "ก๊อกปรับทางนํ้า",
@@ -405,7 +405,7 @@
       "skph": "kók phrap thang nám"
     },
     {
-      "id": 307,
+      "id": 317,
       "cz": "zátka, špunt",
       "sk": "zátka, kolík",
       "th": "จุก",
@@ -413,7 +413,7 @@
       "skph": "džuk"
     },
     {
-      "id": 308,
+      "id": 318,
       "cz": "odpad (např. u vany)",
       "sk": "odpad (napr. pri vani)",
       "th": "ท่อนํ้าทิ้ง",
@@ -421,7 +421,7 @@
       "skph": "thó nám thyg"
     },
     {
-      "id": 309,
+      "id": 319,
       "cz": "sprcha (hlavice,tryska)",
       "sk": "sprcha (hlavice, tryska)",
       "th": "ฝกบัว",
@@ -429,7 +429,7 @@
       "skph": "fak bua"
     },
     {
-      "id": 310,
+      "id": 320,
       "cz": "mýdlo",
       "sk": "mydlo",
       "th": "สปู็",
@@ -437,7 +437,7 @@
       "skph": "sabú"
     },
     {
-      "id": 311,
+      "id": 321,
       "cz": "houba (mycí)",
       "sk": "hubka (čistiaca)",
       "th": "ฟองนํ้า",
@@ -445,7 +445,7 @@
       "skph": "fóng nám"
     },
     {
-      "id": 312,
+      "id": 322,
       "cz": "kartáček (na nehty)",
       "sk": "kartáček (na nehty)",
       "th": "แปรงขัดเล็บ",
@@ -453,7 +453,7 @@
       "skph": "préng khat lep"
     },
     {
-      "id": 313,
+      "id": 323,
       "cz": "pleťová voda (lotion)",
       "sk": "pleťová voda (lotion)",
       "th": "โลชั่น",
@@ -461,7 +461,7 @@
       "skph": "lóčan"
     },
     {
-      "id": 314,
+      "id": 324,
       "cz": "mýdlo (tekuté)",
       "sk": "mydlo (tekuté)",
       "th": "สบู่หลว",
@@ -469,7 +469,7 @@
       "skph": "sabú léu"
     },
     {
-      "id": 315,
+      "id": 325,
       "cz": "kondicionér (na vlasy)",
       "sk": "kondicionér (na vlasy)",
       "th": "ครีมนวดผม",
@@ -477,7 +477,7 @@
       "skph": "khrým nuat phom"
     },
     {
-      "id": 316,
+      "id": 326,
       "cz": "šampón",
       "sk": "šampón",
       "th": "แชมพู",
@@ -485,7 +485,7 @@
       "skph": "čemphú"
     },
     {
-      "id": 317,
+      "id": 327,
       "cz": "závěs okolo sprchy",
       "sk": "záves okolo sprchy",
       "th": "ม่านห้องนํ้า",
@@ -493,7 +493,7 @@
       "skph": "mán hóng nám"
     },
     {
-      "id": 318,
+      "id": 328,
       "cz": "tyč na závěs",
       "sk": "tyč na závěs",
       "th": "ราวผ้าม่าน",
@@ -501,7 +501,7 @@
       "skph": "ráu phá mán"
     },
     {
-      "id": 319,
+      "id": 329,
       "cz": "zrcadlo",
       "sk": "zrkadlo",
       "th": "กระจก",
@@ -509,7 +509,7 @@
       "skph": "kradžok"
     },
     {
-      "id": 320,
+      "id": 330,
       "cz": "štětka na holení",
       "sk": "štetka na holenie",
       "th": "แปรงโกมหนวด",
@@ -517,7 +517,7 @@
       "skph": "préng kón nuat"
     },
     {
-      "id": 321,
+      "id": 331,
       "cz": "pasta na zuby",
       "sk": "zubná pasta",
       "th": "ยาสีฟัน",
@@ -525,7 +525,7 @@
       "skph": "já sí fan"
     },
     {
-      "id": 322,
+      "id": 332,
       "cz": "kartáček na zuby",
       "sk": "zubná kefka",
       "th": "แปรงสีฟัน",
@@ -533,7 +533,7 @@
       "skph": "préng sí fan"
     },
     {
-      "id": 323,
+      "id": 333,
       "cz": "holicí strojek",
       "sk": "holiaci strojček",
       "th": "มีดโกน",
@@ -541,7 +541,7 @@
       "skph": "mít kón"
     },
     {
-      "id": 324,
+      "id": 334,
       "cz": "holicí strojek (elektr.)",
       "sk": "holicí strojek (elektr.)",
       "th": "เครื่องโกนหนวด",
@@ -549,7 +549,7 @@
       "skph": "khrúang kón nuat"
     },
     {
-      "id": 325,
+      "id": 335,
       "cz": "žiletka",
       "sk": "holiaci stroj",
       "th": "ใบมีดโกน",
@@ -557,7 +557,7 @@
       "skph": "baj mít kón"
     },
     {
-      "id": 326,
+      "id": 336,
       "cz": "umyvadlo (na zdi)",
       "sk": "umyvadlo (na stene)",
       "th": "อ่างล้างหน้า",
@@ -565,7 +565,7 @@
       "skph": "áng láng ná"
     },
     {
-      "id": 327,
+      "id": 337,
       "cz": "kohoutek (horká voda)",
       "sk": "kohútik (horúca voda)",
       "th": "ก๊อกนํ้าร้อน",
@@ -573,7 +573,7 @@
       "skph": "kót nám rón"
     },
     {
-      "id": 328,
+      "id": 338,
       "cz": "kohoutek (studená voda)",
       "sk": "kohútik (studená voda)",
       "th": "ก๊อกนํ้าเย็น",
@@ -581,7 +581,7 @@
       "skph": "kót nám jen"
     },
     {
-      "id": 329,
+      "id": 339,
       "cz": "sklenice",
       "sk": "sklenenka",
       "th": "แก้ว",
@@ -589,7 +589,7 @@
       "skph": "kaéu"
     },
     {
-      "id": 330,
+      "id": 340,
       "cz": "věšák na ručníky",
       "sk": "vešák na uteráky",
       "th": "ราวแขวนผ้าช็ดตัว",
@@ -597,7 +597,7 @@
       "skph": "ráu khvén phá čet tua"
     },
     {
-      "id": 331,
+      "id": 341,
       "cz": "ručník",
       "sk": "uterák",
       "th": "ผ้าช็ดตัว",
@@ -605,7 +605,7 @@
       "skph": "phá čet tua"
     },
     {
-      "id": 332,
+      "id": 342,
       "cz": "osuška",
       "sk": "osuška",
       "th": "ผ้าขนหนูเช็ดหน้า",
@@ -613,7 +613,7 @@
       "skph": "phá khon nú čet ná"
     },
     {
-      "id": 333,
+      "id": 343,
       "cz": "papír (toaletní)",
       "sk": "papier (toaletný)",
       "th": "กระดาษชําระ",
@@ -621,7 +621,7 @@
       "skph": "kradát čam rá"
     },
     {
-      "id": 334,
+      "id": 344,
       "cz": "mísa (záchodová)",
       "sk": "miska (záchodová)",
       "th": "โถส้วม",
@@ -629,7 +629,7 @@
       "skph": "thó suam"
     },
     {
-      "id": 335,
+      "id": 345,
       "cz": "splachovadlo",
       "sk": "splachovadlo",
       "th": "ปุ็มกดนํ้าชักโครก",
@@ -637,7 +637,7 @@
       "skph": "pum kot nám čak khrók"
     },
     {
-      "id": 336,
+      "id": 346,
       "cz": "dlaždice, kachlík",
       "sk": "dlažba, dlaždica",
       "th": "กระบึ้อง",
@@ -645,7 +645,7 @@
       "skph": "krabúang"
     },
     {
-      "id": 337,
+      "id": 347,
       "cz": "váha (osobní)",
       "sk": "váha (osobná)",
       "th": "เครื่องชั่งนํ่าหนัก",
@@ -653,7 +653,7 @@
       "skph": "khrúang čang nám nak"
     },
     {
-      "id": 338,
+      "id": 348,
       "cz": "koupelnová rohož",
       "sk": "kúpeľňová rohož",
       "th": "พรมเช็ดเท้า",
@@ -661,7 +661,7 @@
       "skph": "phrom četháu"
     },
     {
-      "id": 339,
+      "id": 349,
       "cz": "koš (prádelní)",
       "sk": "kôš (prádelný)",
       "th": "ตะกร้าใส่เสอึ้ ผ้า",

@@ -5,7 +5,7 @@
   "orderIndex": 1,
   "words": [
     {
-      "id": 456,
+      "id": 471,
       "cz": "nákupy",
       "sk": "nákupy",
       "th": "ซื้อของ",
@@ -13,7 +13,7 @@
       "skph": "sú khóng"
     },
     {
-      "id": 457,
+      "id": 472,
       "cz": "zaměstnanec obchodu",
       "sk": "zamestnanec obchodu",
       "th": "พนักงานขายของ",
@@ -21,7 +21,7 @@
       "skph": "phanak ngán kháj khóng"
     },
     {
-      "id": 458,
+      "id": 473,
       "cz": "pokladní",
       "sk": "pokladní",
       "th": "แคชเชียร์",
@@ -29,7 +29,7 @@
       "skph": "khétčíja"
     },
     {
-      "id": 459,
+      "id": 474,
       "cz": "zákazník",
       "sk": "zákazník",
       "th": "ลูกค้า",
@@ -37,7 +37,7 @@
       "skph": "lúk khá"
     },
     {
-      "id": 460,
+      "id": 475,
       "cz": "taška (nákupní)",
       "sk": "taška (nákupná)",
       "th": "ถุง",
@@ -45,7 +45,7 @@
       "skph": "thung"
     },
     {
-      "id": 461,
+      "id": 476,
       "cz": "košík (nákupní)",
       "sk": "košík (nákupný)",
       "th": "ตะกร้า",
@@ -53,7 +53,7 @@
       "skph": "takrá"
     },
     {
-      "id": 462,
+      "id": 477,
       "cz": "vozík (nákupní)",
       "sk": "vozík (nákupný)",
       "th": "รถเข็น",
@@ -61,7 +61,7 @@
       "skph": "rot khen"
     },
     {
-      "id": 463,
+      "id": 478,
       "cz": "chléb",
       "sk": "chlieb",
       "th": "ขนมปัง",
@@ -69,7 +69,7 @@
       "skph": "khanom pang"
     },
     {
-      "id": 464,
+      "id": 479,
       "cz": "pečivo",
       "sk": "pečivo",
       "th": "คุ้กกี้",
@@ -77,7 +77,7 @@
       "skph": "khuk ký"
     },
     {
-      "id": 465,
+      "id": 480,
       "cz": "moučník",
       "sk": "múčník",
       "th": "เค้ก",
@@ -85,7 +85,7 @@
       "skph": "khék"
     },
     {
-      "id": 466,
+      "id": 481,
       "cz": "sušenky",
       "sk": "sušienky",
       "th": "ขนมปังกรอบ",
@@ -93,7 +93,7 @@
       "skph": "khanom pang króp"
     },
     {
-      "id": 467,
+      "id": 482,
       "cz": "šunka",
       "sk": "šunka",
       "th": "แฮม",
@@ -101,7 +101,7 @@
       "skph": "hém"
     },
     {
-      "id": 468,
+      "id": 483,
       "cz": "slanina",
       "sk": "slanina",
       "th": "เบคอน",
@@ -109,7 +109,7 @@
       "skph": "békhón"
     },
     {
-      "id": 469,
+      "id": 484,
       "cz": "klobása",
       "sk": "klobása",
       "th": "ไส้กรอก",
@@ -117,7 +117,7 @@
       "skph": "sajkrók"
     },
     {
-      "id": 470,
+      "id": 485,
       "cz": "marmeláda",
       "sk": "marmeláda",
       "th": "แยม",
@@ -125,7 +125,7 @@
       "skph": "jém"
     },
     {
-      "id": 471,
+      "id": 486,
       "cz": "máslo",
       "sk": "maslo",
       "th": "เนย",
@@ -133,7 +133,7 @@
       "skph": "néj"
     },
     {
-      "id": 472,
+      "id": 487,
       "cz": "sýr",
       "sk": "syr",
       "th": "เนยแข็ง",
@@ -141,7 +141,7 @@
       "skph": "néj khéng"
     },
     {
-      "id": 473,
+      "id": 488,
       "cz": "džus",
       "sk": "džús",
       "th": "นํ้าผลไม้",
@@ -149,7 +149,7 @@
       "skph": "nám phonlamáj"
     },
     {
-      "id": 474,
+      "id": 489,
       "cz": "mléko",
       "sk": "mlieko",
       "th": "นม",
@@ -157,7 +157,7 @@
       "skph": "nom"
     },
     {
-      "id": 475,
+      "id": 490,
       "cz": "zmrzlina",
       "sk": "zmrzlina",
       "th": "ไอศกรีม",
@@ -165,7 +165,7 @@
       "skph": "ajskrým"
     },
     {
-      "id": 476,
+      "id": 491,
       "cz": "jogurt",
       "sk": "jogurt",
       "th": "โยเกิร์ต",
@@ -173,7 +173,7 @@
       "skph": "jókét"
     },
     {
-      "id": 477,
+      "id": 492,
       "cz": "bean curd (?)",
       "sk": "bean curd (?)",
       "th": "เต้าหู้",
@@ -181,7 +181,7 @@
       "skph": "táu hú"
     },
     {
-      "id": 478,
+      "id": 493,
       "cz": "zelenina",
       "sk": "zelenina",
       "th": "ผัก",
@@ -189,7 +189,7 @@
       "skph": "phak"
     },
     {
-      "id": 479,
+      "id": 494,
       "cz": "ovoce",
       "sk": "ovocie",
       "th": "ผลไม้",
@@ -197,7 +197,7 @@
       "skph": "phonlamáj"
     },
     {
-      "id": 480,
+      "id": 495,
       "cz": "mražené potraviny",
       "sk": "mrazené potraviny",
       "th": "อาหารแช่แข็ง",

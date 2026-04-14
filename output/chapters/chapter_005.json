@@ -6,123 +6,123 @@
   "words": [
     {
       "id": 80,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Dobrý den (říká muž).",
+      "sk": "Dobrý deň (hovorí muž).",
+      "th": "สวัสดีครับ",
+      "czph": "suatdýkrap",
+      "skph": "suatdýkrap"
     },
     {
       "id": 81,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Dobrý den (říká žena).",
+      "sk": "Dobrý deň (hovorí žena).",
+      "th": "สวัสดีค่ะ",
+      "czph": "suatdýkha",
+      "skph": "suatdýkha"
     },
     {
       "id": 82,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Děkuji (říká muž).",
+      "sk": "Ďakujem (hovorí muž).",
+      "th": "ขอบคุณครับ",
+      "czph": "khópkhunkhrap",
+      "skph": "khópkhunkhrap"
     },
     {
       "id": 83,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Děkuji (říká žena).",
+      "sk": "Ďakujem (hovorí žena).",
+      "th": "ขอบคุณค่ะ",
+      "czph": "khópkhunkha",
+      "skph": "khópkhunkha"
     },
     {
       "id": 84,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Jak se máte?",
+      "sk": "Ako sa máte?",
+      "th": "สบายดีไหมครับ",
+      "czph": "sbájdýmajkrap",
+      "skph": "sbájdýmajkrap"
     },
     {
       "id": 85,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Mám se dobře (říká žena).",
+      "sk": "Mám sa dobre (hovorí žena).",
+      "th": "ฉันสบายดีค่ะ",
+      "czph": "čansbájdýkha",
+      "skph": "čansbájdýkha"
     },
     {
       "id": 86,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Mám se dobře (říká muž).",
+      "sk": "Mám sa dobre (hovorí muž).",
+      "th": "ผมสบายดีครับ",
+      "czph": "phmtbájdýkrap",
+      "skph": "phmtbájdýkrap"
     },
     {
       "id": 87,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Omlouvám se / Promiňte (říká muž).",
+      "sk": "Ospravedlňujem sa / Prepáčte (hovorí muž).",
+      "th": "ขอโทษครับ",
+      "czph": "khóthóskrap",
+      "skph": "khóthóskrap"
     },
     {
       "id": 88,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Omlouvám se / Promiňte (říká žena).",
+      "sk": "Ospravedlňujem sa / Prepáčte (hovorí žena).",
+      "th": "ขอโทษค่ะ",
+      "czph": "khóthótkha",
+      "skph": "khóthótkha"
     },
     {
       "id": 89,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Jak se jmenuješ? (říká muž)",
+      "sk": "Ako sa voláš? (hovorí muž)",
+      "th": "คุณชื่ออะไรครับ",
+      "czph": "khunčüóarajkrap",
+      "skph": "khunčüóarajkrap"
     },
     {
       "id": 90,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Jak se jmenuješ? (říká žena)",
+      "sk": "Ako sa voláš? (hovorí žena)",
+      "th": "คุณชื่ออะไรคะ",
+      "czph": "khunčüóarajka",
+      "skph": "khunčüóarajka"
     },
     {
       "id": 91,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Jmenuji se Peter (říká muž).",
+      "sk": "Volám sa Peter (hovorí muž).",
+      "th": "ผมชื่อปีเตอร์ครับ",
+      "czph": "phomčüpítéókharap",
+      "skph": "phomčüpítéókharap"
     },
     {
       "id": 92,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Jmenuji se Anna (říká žena).",
+      "sk": "Volám sa Anna (hovorí žena).",
+      "th": "ฉันชื่อแอนนาค่ะ",
+      "czph": "čančüénnákha",
+      "skph": "čančüénnákha"
     },
     {
       "id": 93,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Rád tě poznávám (říká muž).",
+      "sk": "Rád ťa spoznávam (hovorí muž).",
+      "th": "ยินดีที่ได้รู้จักครับ",
+      "czph": "jindýthídajrúdžakkhrap",
+      "skph": "jindýthídajrúdžakkhrap"
     },
     {
       "id": 94,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Na shledanou (říká muž).",
+      "sk": "Dovidenia (hovorí muž).",
+      "th": "ลาก่อนครับ",
+      "czph": "lákónkhrap",
+      "skph": "lákónkhrap"
     }
   ]
 }

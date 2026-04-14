@@ -3,7 +3,6 @@ import os
 import sys
 import logging
 from pathlib import Path
-from openai import OpenAI
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -16,63 +15,30 @@ from src.transcriber import transcribe, load_rules
 # Constants
 TRAIN_DATA_PATH = Path("data/train.json")
 CURRICULUM_PATH = Path("anki/curriculum.json")
+PRACTICE_SENTENCES_PATH = Path("data/practice_sentences.json")
 OUTPUT_DIR = Path("output")
 CHAPTERS_OUT_DIR = OUTPUT_DIR / "chapters"
 BLOCKS_INDEX_PATH = OUTPUT_DIR / "blocks_index.json"
 
-def generate_practice_sentences(learned_words_pool, count):
-    """Calls LLM to generate practice sentences."""
-    # Build word list string for the prompt
-    word_list = ", ".join([f"{w['th']} ({w['sk']}/{w['cz']})" for w in learned_words_pool])
-
-    prompt = f"""Vygeneruj {count} thajských viet (len th, sk, cz vo formáte JSON). Musíš použiť hlavne slová z predloženého zoznamu, aby si študent opakoval už naučené učivo.
-
-Zoznam slov:
-{word_list}
-
-Vráť výstup ako JSON pole objektov vnútri wrapper objektu. Formát musí byť presne takýto:
-{{
-  "sentences": [
-    {{"th": "...", "sk": "...", "cz": "..."}},
-    {{"th": "...", "sk": "...", "cz": "..."}}
-  ]
-}}"""
-
-    api_key = os.environ.get("OPENAI_API_KEY")
-    if not api_key:
-        logger.warning("No OPENAI_API_KEY found, generating mock sentences.")
+def get_practice_sentences(chapter_id, count):
+    """Loads pre-generated practice sentences for the given chapter."""
+    if not PRACTICE_SENTENCES_PATH.exists():
+        logger.warning(f"{PRACTICE_SENTENCES_PATH} not found.")
         return [{"th": "mock thai", "sk": "mock slovak", "cz": "mock czech"} for _ in range(count)]
 
     try:
-        client = OpenAI(api_key=api_key)
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "You are a helpful language learning assistant. Always reply with valid JSON."},
-                {"role": "user", "content": prompt}
-            ],
-            response_format={ "type": "json_object" }
-        )
-        content = response.choices[0].message.content
-        try:
-            parsed = json.loads(content)
-            if isinstance(parsed, dict) and "sentences" in parsed:
-                return parsed["sentences"]
-            elif isinstance(parsed, list):
-                return parsed
-            elif isinstance(parsed, dict):
-                # Try finding any list value
-                for v in parsed.values():
-                    if isinstance(v, list):
-                        return v
-            return parsed
-        except Exception as e:
-            logger.error(f"Failed to parse JSON: {content}")
-            return []
-    except Exception as e:
-        logger.error(f"LLM API call failed: {e}")
-        return []
+        with open(PRACTICE_SENTENCES_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
+        sentences = data.get(str(chapter_id), [])
+        if not sentences:
+            logger.warning(f"No sentences found for chapter {chapter_id} in {PRACTICE_SENTENCES_PATH}.")
+            return [{"th": "mock thai", "sk": "mock slovak", "cz": "mock czech"} for _ in range(count)]
+
+        return sentences[:count]
+    except Exception as e:
+        logger.error(f"Failed to load practice sentences: {e}")
+        return [{"th": "mock thai", "sk": "mock slovak", "cz": "mock czech"} for _ in range(count)]
 
 def main():
     CHAPTERS_OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -143,8 +109,8 @@ def main():
                         logger.warning(f"Source chapter '{title}' not found in train.json")
 
             elif chapter_type == "practice":
-                count = 15
-                sentences = generate_practice_sentences(learned_words_pool, count)
+                count = 15 # Strict instruction
+                sentences = get_practice_sentences(chapter_id, count)
 
                 for s in sentences:
                     th_text = s.get("th", "")
@@ -156,7 +122,7 @@ def main():
                         "sk": s.get("sk", ""),
                         "th": th_text,
                         "czph": czph,
-                        "skph": czph
+                        "skph": czph # skph is set to czph as requested
                     }
                     word_id_counter += 1
                     output_words.append(new_word)

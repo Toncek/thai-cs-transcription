@@ -1,0 +1,310 @@
+{
+  "5": [
+    {
+      "th": "สวัสดีครับ",
+      "cz": "Dobrý den (říká muž).",
+      "sk": "Dobrý deň (hovorí muž)."
+    },
+    {
+      "th": "สวัสดีค่ะ",
+      "cz": "Dobrý den (říká žena).",
+      "sk": "Dobrý deň (hovorí žena)."
+    },
+    {
+      "th": "ขอบคุณครับ",
+      "cz": "Děkuji (říká muž).",
+      "sk": "Ďakujem (hovorí muž)."
+    },
+    {
+      "th": "ขอบคุณค่ะ",
+      "cz": "Děkuji (říká žena).",
+      "sk": "Ďakujem (hovorí žena)."
+    },
+    {
+      "th": "สบายดีไหมครับ",
+      "cz": "Jak se máte?",
+      "sk": "Ako sa máte?"
+    },
+    {
+      "th": "ฉันสบายดีค่ะ",
+      "cz": "Mám se dobře (říká žena).",
+      "sk": "Mám sa dobre (hovorí žena)."
+    },
+    {
+      "th": "ผมสบายดีครับ",
+      "cz": "Mám se dobře (říká muž).",
+      "sk": "Mám sa dobre (hovorí muž)."
+    },
+    {
+      "th": "ขอโทษครับ",
+      "cz": "Omlouvám se / Promiňte (říká muž).",
+      "sk": "Ospravedlňujem sa / Prepáčte (hovorí muž)."
+    },
+    {
+      "th": "ขอโทษค่ะ",
+      "cz": "Omlouvám se / Promiňte (říká žena).",
+      "sk": "Ospravedlňujem sa / Prepáčte (hovorí žena)."
+    },
+    {
+      "th": "คุณชื่ออะไรครับ",
+      "cz": "Jak se jmenuješ? (říká muž)",
+      "sk": "Ako sa voláš? (hovorí muž)"
+    },
+    {
+      "th": "คุณชื่ออะไรคะ",
+      "cz": "Jak se jmenuješ? (říká žena)",
+      "sk": "Ako sa voláš? (hovorí žena)"
+    },
+    {
+      "th": "ผมชื่อปีเตอร์ครับ",
+      "cz": "Jmenuji se Peter (říká muž).",
+      "sk": "Volám sa Peter (hovorí muž)."
+    },
+    {
+      "th": "ฉันชื่อแอนนาค่ะ",
+      "cz": "Jmenuji se Anna (říká žena).",
+      "sk": "Volám sa Anna (hovorí žena)."
+    },
+    {
+      "th": "ยินดีที่ได้รู้จักครับ",
+      "cz": "Rád tě poznávám (říká muž).",
+      "sk": "Rád ťa spoznávam (hovorí muž)."
+    },
+    {
+      "th": "ลาก่อนครับ",
+      "cz": "Na shledanou (říká muž).",
+      "sk": "Dovidenia (hovorí muž)."
+    }
+  ],
+  "10": [
+    {
+      "th": "คุณมีพี่น้องไหมครับ",
+      "cz": "Máš sourozence?",
+      "sk": "Máš súrodencov?"
+    },
+    {
+      "th": "ผมมีพี่ชายหนึ่งคน",
+      "cz": "Mám jednoho staršího bratra.",
+      "sk": "Mám jedného staršieho brata."
+    },
+    {
+      "th": "ฉันมีน้องสาวสองคน",
+      "cz": "Mám dvě mladší sestry.",
+      "sk": "Mám dve mladšie sestry."
+    },
+    {
+      "th": "นี่คือพ่อของฉัน",
+      "cz": "Tohle je můj otec.",
+      "sk": "Toto je môj otec."
+    },
+    {
+      "th": "แม่ของฉันอยู่ที่บ้าน",
+      "cz": "Moje matka je doma.",
+      "sk": "Moja mama je doma."
+    },
+    {
+      "th": "ตอนนี้กี่โมงครับ",
+      "cz": "Kolik je hodin?",
+      "sk": "Koľko je hodín?"
+    },
+    {
+      "th": "ตอนนี้เก้าโมงเช้า",
+      "cz": "Teď je devět hodin ráno.",
+      "sk": "Teraz je deväť hodín ráno."
+    },
+    {
+      "th": "วันนี้คือวันจันทร์",
+      "cz": "Dnes je pondělí.",
+      "sk": "Dnes je pondelok."
+    },
+    {
+      "th": "พรุ่งนี้คือวันอังคาร",
+      "cz": "Zítra je úterý.",
+      "sk": "Zajtra je utorok."
+    },
+    {
+      "th": "คุณชอบสีอะไรครับ",
+      "cz": "Jakou barvu máš rád?",
+      "sk": "Akú farbu máš rád?"
+    },
+    {
+      "th": "ผมชอบสีแดง",
+      "cz": "Mám rád červenou barvu.",
+      "sk": "Mám rád červenú farbu."
+    },
+    {
+      "th": "ฉันชอบสีฟ้า",
+      "cz": "Mám ráda modrou barvu.",
+      "sk": "Mám rada modrú farbu."
+    },
+    {
+      "th": "รถสีดำสวยมาก",
+      "cz": "Černé auto je velmi hezké.",
+      "sk": "Čierne auto je veľmi pekné."
+    },
+    {
+      "th": "ผมจะไปหาครอบครัวพรุ่งนี้",
+      "cz": "Zítra navštívím rodinu.",
+      "sk": "Zajtra navštívim rodinu."
+    },
+    {
+      "th": "ฉันมีลูกชายหนึ่งคน",
+      "cz": "Mám jednoho syna.",
+      "sk": "Mám jedného syna."
+    }
+  ],
+  "15": [
+    {
+      "th": "บ้านของฉันใหญ่มาก",
+      "cz": "Můj dům je velmi velký.",
+      "sk": "Môj dom je veľmi veľký."
+    },
+    {
+      "th": "ห้องนอนอยู่ที่ไหนครับ",
+      "cz": "Kde je ložnice?",
+      "sk": "Kde je spálňa?"
+    },
+    {
+      "th": "ห้องน้ำอยู่ทางซ้ายมือ",
+      "cz": "Koupelna je nalevo.",
+      "sk": "Kúpeľňa je naľavo."
+    },
+    {
+      "th": "ฉันหิวข้าวแล้ว",
+      "cz": "Mám už hlad.",
+      "sk": "Už som hladný/á."
+    },
+    {
+      "th": "คุณอยากกินอะไรครับ",
+      "cz": "Co si chceš dát k jídlu?",
+      "sk": "Čo si chceš dať jesť?"
+    },
+    {
+      "th": "ผมขอเมนูหน่อยครับ",
+      "cz": "Můžu poprosit o jídelní lístek?",
+      "sk": "Môžem poprosiť o jedálny lístok?"
+    },
+    {
+      "th": "เอาข้าวผัดหมูหนึ่งจานครับ",
+      "cz": "Dám si smaženou rýži s vepřovým masem.",
+      "sk": "Dám si vyprážanú ryžu s bravčovým mäsom."
+    },
+    {
+      "th": "ไม่เผ็ดนะครับ",
+      "cz": "Ne pálivé, prosím.",
+      "sk": "Nie pikantné, prosím."
+    },
+    {
+      "th": "ฉันชอบกินผลไม้",
+      "cz": "Rád(a) jím ovoce.",
+      "sk": "Rád(a) jem ovocie."
+    },
+    {
+      "th": "มังคุดอร่อยมาก",
+      "cz": "Mangosteen je velmi chutný.",
+      "sk": "Mangosteen je veľmi chutný."
+    },
+    {
+      "th": "ผักสดดีต่อสุขภาพ",
+      "cz": "Čerstvá zelenina je dobrá pro zdraví.",
+      "sk": "Čerstvá zelenina je dobrá pre zdravie."
+    },
+    {
+      "th": "ขอน้ำเปล่าหนึ่งขวดครับ",
+      "cz": "Můžu poprosit o láhev vody?",
+      "sk": "Môžem poprosiť o fľašu vody?"
+    },
+    {
+      "th": "เก็บเงินด้วยครับ",
+      "cz": "Účet, prosím.",
+      "sk": "Účet, prosím."
+    },
+    {
+      "th": "กี่บาทครับ",
+      "cz": "Kolik to stojí (báhtů)?",
+      "sk": "Koľko to stojí (báhtov)?"
+    },
+    {
+      "th": "อาหารอร่อยมากครับ",
+      "cz": "Jídlo je velmi chutné.",
+      "sk": "Jedlo je veľmi chutné."
+    }
+  ],
+  "20": [
+    {
+      "th": "ฉันกำลังจะไปห้างสรรพสินค้า",
+      "cz": "Chystám se do nákupního centra.",
+      "sk": "Chystám sa do nákupného centra."
+    },
+    {
+      "th": "คุณจะไปที่ไหนครับ",
+      "cz": "Kam jdeš?",
+      "sk": "Kam ideš?"
+    },
+    {
+      "th": "ตลาดอยู่ไกลไหมครับ",
+      "cz": "Je trh daleko?",
+      "sk": "Je trh ďaleko?"
+    },
+    {
+      "th": "เดินไปประมาณสิบนาที",
+      "cz": "Je to asi deset minut chůze.",
+      "sk": "Je to asi desať minút chôdze."
+    },
+    {
+      "th": "นั่งรถแท็กซี่ดีกว่า",
+      "cz": "Bude lepší jet taxíkem.",
+      "sk": "Bude lepšie ísť taxíkom."
+    },
+    {
+      "th": "ไปสนามบินครับ",
+      "cz": "Na letiště, prosím.",
+      "sk": "Na letisko, prosím."
+    },
+    {
+      "th": "ตั๋วรถไฟราคาเท่าไหร่ครับ",
+      "cz": "Kolik stojí jízdenka na vlak?",
+      "sk": "Koľko stojí lístok na vlak?"
+    },
+    {
+      "th": "ฉันอยากซื้อเสื้อตัวนี้",
+      "cz": "Chci si koupit tohle tričko.",
+      "sk": "Chcem si kúpiť toto tričko."
+    },
+    {
+      "th": "ลดราคาได้ไหมครับ",
+      "cz": "Můžete mi dát slevu?",
+      "sk": "Môžete mi dať zľavu?"
+    },
+    {
+      "th": "มีสีอื่นไหมคะ",
+      "cz": "Máte jinou barvu?",
+      "sk": "Máte inú farbu?"
+    },
+    {
+      "th": "สถานีรถไฟอยู่ข้างหน้า",
+      "cz": "Vlakové nádraží je vpředu.",
+      "sk": "Vlaková stanica je vpredu."
+    },
+    {
+      "th": "เลี้ยวซ้ายตรงสี่แยก",
+      "cz": "Zahněte doleva na křižovatce.",
+      "sk": "Zahnite doľava na križovatke."
+    },
+    {
+      "th": "เลี้ยวขวาแล้วตรงไป",
+      "cz": "Zahněte doprava a pak rovně.",
+      "sk": "Zahnite doprava a potom rovno."
+    },
+    {
+      "th": "ข้างบนมีร้านอาหาร",
+      "cz": "Nahoře je restaurace.",
+      "sk": "Hore je reštaurácia."
+    },
+    {
+      "th": "เดินทางปลอดภัยนะครับ",
+      "cz": "Šťastnou cestu.",
+      "sk": "Šťastnú cestu."
+    }
+  ]
+}

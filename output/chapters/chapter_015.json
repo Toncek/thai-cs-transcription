@@ -6,123 +6,123 @@
   "words": [
     {
       "id": 415,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Můj dům je velmi velký.",
+      "sk": "Môj dom je veľmi veľký.",
+      "th": "บ้านของฉันใหญ่มาก",
+      "czph": "bánkhóngčanjajmák",
+      "skph": "bánkhóngčanjajmák"
     },
     {
       "id": 416,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Kde je ložnice?",
+      "sk": "Kde je spálňa?",
+      "th": "ห้องนอนอยู่ที่ไหนครับ",
+      "czph": "hóngnónjúthínajkrap",
+      "skph": "hóngnónjúthínajkrap"
     },
     {
       "id": 417,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Koupelna je nalevo.",
+      "sk": "Kúpeľňa je naľavo.",
+      "th": "ห้องน้ำอยู่ทางซ้ายมือ",
+      "czph": "hóngnamójúthángsájmü",
+      "skph": "hóngnamójúthángsájmü"
     },
     {
       "id": 418,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Mám už hlad.",
+      "sk": "Už som hladný/á.",
+      "th": "ฉันหิวข้าวแล้ว",
+      "czph": "čanhiukháuléu",
+      "skph": "čanhiukháuléu"
     },
     {
       "id": 419,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Co si chceš dát k jídlu?",
+      "sk": "Čo si chceš dať jesť?",
+      "th": "คุณอยากกินอะไรครับ",
+      "czph": "khunjákkinarajkrap",
+      "skph": "khunjákkinarajkrap"
     },
     {
       "id": 420,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Můžu poprosit o jídelní lístek?",
+      "sk": "Môžem poprosiť o jedálny lístok?",
+      "th": "ผมขอเมนูหน่อยครับ",
+      "czph": "phmkaméúnnójkrap",
+      "skph": "phmkaméúnnójkrap"
     },
     {
       "id": 421,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Dám si smaženou rýži s vepřovým masem.",
+      "sk": "Dám si vyprážanú ryžu s bravčovým mäsom.",
+      "th": "เอาข้าวผัดหมูหนึ่งจานครับ",
+      "czph": "aokháuphatmúnungdžánkhrap",
+      "skph": "aokháuphatmúnungdžánkhrap"
     },
     {
       "id": 422,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Ne pálivé, prosím.",
+      "sk": "Nie pikantné, prosím.",
+      "th": "ไม่เผ็ดนะครับ",
+      "czph": "majphetnakhrap",
+      "skph": "majphetnakhrap"
     },
     {
       "id": 423,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Rád(a) jím ovoce.",
+      "sk": "Rád(a) jem ovocie.",
+      "th": "ฉันชอบกินผลไม้",
+      "czph": "čančópkinphonmaj",
+      "skph": "čančópkinphonmaj"
     },
     {
       "id": 424,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Mangosteen je velmi chutný.",
+      "sk": "Mangosteen je veľmi chutný.",
+      "th": "มังคุดอร่อยมาก",
+      "czph": "mangkhutarójmák",
+      "skph": "mangkhutarójmák"
     },
     {
       "id": 425,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Čerstvá zelenina je dobrá pro zdraví.",
+      "sk": "Čerstvá zelenina je dobrá pre zdravie.",
+      "th": "ผักสดดีต่อสุขภาพ",
+      "czph": "phaksotdýtósukpháp",
+      "skph": "phaksotdýtósukpháp"
     },
     {
       "id": 426,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Můžu poprosit o láhev vody?",
+      "sk": "Môžem poprosiť o fľašu vody?",
+      "th": "ขอน้ำเปล่าหนึ่งขวดครับ",
+      "czph": "khónampaonnungkhuatkhrap",
+      "skph": "khónampaonnungkhuatkhrap"
     },
     {
       "id": 427,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Účet, prosím.",
+      "sk": "Účet, prosím.",
+      "th": "เก็บเงินด้วยครับ",
+      "czph": "kepgönduajkrap",
+      "skph": "kepgönduajkrap"
     },
     {
       "id": 428,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Kolik to stojí (báhtů)?",
+      "sk": "Koľko to stojí (báhtov)?",
+      "th": "กี่บาทครับ",
+      "czph": "kíbátkhrap",
+      "skph": "kíbátkhrap"
     },
     {
       "id": 429,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Jídlo je velmi chutné.",
+      "sk": "Jedlo je veľmi chutné.",
+      "th": "อาหารอร่อยมากครับ",
+      "czph": "áhánarójmákkhrap",
+      "skph": "áhánarójmákkhrap"
     }
   ]
 }

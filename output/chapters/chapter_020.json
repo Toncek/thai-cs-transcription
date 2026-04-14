@@ -6,123 +6,123 @@
   "words": [
     {
       "id": 583,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Chystám se do nákupního centra.",
+      "sk": "Chystám sa do nákupného centra.",
+      "th": "ฉันกำลังจะไปห้างสรรพสินค้า",
+      "czph": "čankamlangdžapajhángsrnphsinkhá",
+      "skph": "čankamlangdžapajhángsrnphsinkhá"
     },
     {
       "id": 584,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Kam jdeš?",
+      "sk": "Kam ideš?",
+      "th": "คุณจะไปที่ไหนครับ",
+      "czph": "khundžapajítnajkrap",
+      "skph": "khundžapajítnajkrap"
     },
     {
       "id": 585,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Je trh daleko?",
+      "sk": "Je trh ďaleko?",
+      "th": "ตลาดอยู่ไกลไหมครับ",
+      "czph": "tlátjúkajnmajkrap",
+      "skph": "tlátjúkajnmajkrap"
     },
     {
       "id": 586,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Je to asi deset minut chůze.",
+      "sk": "Je to asi desať minút chôdze.",
+      "th": "เดินไปประมาณสิบนาที",
+      "czph": "dönpajpramánsipnáthí",
+      "skph": "dönpajpramánsipnáthí"
     },
     {
       "id": 587,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Bude lepší jet taxíkem.",
+      "sk": "Bude lepšie ísť taxíkom.",
+      "th": "นั่งรถแท็กซี่ดีกว่า",
+      "czph": "nangrottheksídýkvá",
+      "skph": "nangrottheksídýkvá"
     },
     {
       "id": 588,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Na letiště, prosím.",
+      "sk": "Na letisko, prosím.",
+      "th": "ไปสนามบินครับ",
+      "czph": "pajtnámbinkhrap",
+      "skph": "pajtnámbinkhrap"
     },
     {
       "id": 589,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Kolik stojí jízdenka na vlak?",
+      "sk": "Koľko stojí lístok na vlak?",
+      "th": "ตั๋วรถไฟราคาเท่าไหร่ครับ",
+      "czph": "túanthafajánkháthaorajkrap",
+      "skph": "túanthafajánkháthaorajkrap"
     },
     {
       "id": 590,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Chci si koupit tohle tričko.",
+      "sk": "Chcem si kúpiť toto tričko.",
+      "th": "ฉันอยากซื้อเสื้อตัวนี้",
+      "czph": "čanjáksüsúatúaný",
+      "skph": "čanjáksüsúatúaný"
     },
     {
       "id": 591,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Můžete mi dát slevu?",
+      "sk": "Môžete mi dať zľavu?",
+      "th": "ลดราคาได้ไหมครับ",
+      "czph": "lotrákhádajmajkrap",
+      "skph": "lotrákhádajmajkrap"
     },
     {
       "id": 592,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Máte jinou barvu?",
+      "sk": "Máte inú farbu?",
+      "th": "มีสีอื่นไหมคะ",
+      "czph": "mísíúnmajkha",
+      "skph": "mísíúnmajkha"
     },
     {
       "id": 593,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Vlakové nádraží je vpředu.",
+      "sk": "Vlaková stanica je vpredu.",
+      "th": "สถานีรถไฟอยู่ข้างหน้า",
+      "czph": "sátnýnthafajójúkhángná",
+      "skph": "sátnýnthafajójúkhángná"
     },
     {
       "id": 594,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Zahněte doleva na křižovatce.",
+      "sk": "Zahnite doľava na križovatke.",
+      "th": "เลี้ยวซ้ายตรงสี่แยก",
+      "czph": "lyausájtrongsíjék",
+      "skph": "lyausájtrongsíjék"
     },
     {
       "id": 595,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Zahněte doprava a pak rovně.",
+      "sk": "Zahnite doprava a potom rovno.",
+      "th": "เลี้ยวขวาแล้วตรงไป",
+      "czph": "lyauakváléuatrongpaj",
+      "skph": "lyauakváléuatrongpaj"
     },
     {
       "id": 596,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Nahoře je restaurace.",
+      "sk": "Hore je reštaurácia.",
+      "th": "ข้างบนมีร้านอาหาร",
+      "czph": "khángbonmíránáhán",
+      "skph": "khángbonmíránáhán"
     },
     {
       "id": 597,
-      "cz": "mock czech",
-      "sk": "mock slovak",
-      "th": "mock thai",
-      "czph": "mock thai",
-      "skph": "mock thai"
+      "cz": "Šťastnou cestu.",
+      "sk": "Šťastnú cestu.",
+      "th": "เดินทางปลอดภัยนะครับ",
+      "czph": "dönthángplótphajnakhrap",
+      "skph": "dönthángplótphajnakhrap"
     }
   ]
 }

@@ -147,14 +147,14 @@
     },
     {
       "th": "มีห้า",
-      "cz": "Je jich pět.",
-      "sk": "Je ich päť.",
+      "cz": "Mám pět.",
+      "sk": "Mám päť.",
       "czph": "mí há"
     },
     {
       "th": "มีสิบสอง",
-      "cz": "Je jich dvanáct.",
-      "sk": "Je ich dvanásť.",
+      "cz": "Mám dvanáct.",
+      "sk": "Mám dvanásť.",
       "czph": "mí sip sóng"
     },
     {
@@ -165,20 +165,20 @@
     },
     {
       "th": "มีเท่าไหร่",
-      "cz": "Kolik toho je?",
-      "sk": "Koľko toho je?",
+      "cz": "Kolik toho máte?",
+      "sk": "Koľko toho máte?",
       "czph": "mí thao raj"
     },
     {
       "th": "ผมมีสาม",
-      "cz": "Mám tři.",
-      "sk": "Mám tri.",
+      "cz": "Mám tři. (muž)",
+      "sk": "Mám tri. (muž)",
       "czph": "phom mí sám"
     },
     {
       "th": "คุณมีสิบ",
-      "cz": "Máte deset.",
-      "sk": "Máte desať.",
+      "cz": "Ty máš deset.",
+      "sk": "Ty máš desať.",
       "czph": "khun mí sip"
     },
     {

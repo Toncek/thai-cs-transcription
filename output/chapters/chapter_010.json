@@ -1,0 +1,88 @@
+{
+  "id": 10,
+  "blockId": 2,
+  "name": "PRAX 2 - Rodina a čas",
+  "orderIndex": 4,
+  "words": [
+    {
+      "id": 211,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 212,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 213,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 214,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 215,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 216,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 217,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 218,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 219,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    },
+    {
+      "id": 220,
+      "cz": "mock czech",
+      "sk": "mock slovak",
+      "th": "mock thai",
+      "czph": "mock thai",
+      "skph": "mock thai"
+    }
+  ]
+}

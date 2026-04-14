@@ -1,0 +1,144 @@
+{
+  "id": 1,
+  "blockId": 1,
+  "name": "Zámená a základné slová",
+  "orderIndex": 0,
+  "words": [
+    {
+      "id": 1,
+      "cz": "zájména",
+      "sk": "zámená",
+      "th": "สรรพนาม",
+      "czph": "sap phanám",
+      "skph": "sap phanám"
+    },
+    {
+      "id": 2,
+      "cz": "já, (muž)",
+      "sk": "ja, (muž)",
+      "th": "ผม",
+      "czph": "phom",
+      "skph": "phom"
+    },
+    {
+      "id": 3,
+      "cz": "já, (žena)",
+      "sk": "ja, (žena)",
+      "th": "ฉัน",
+      "czph": "čan",
+      "skph": "čan"
+    },
+    {
+      "id": 4,
+      "cz": "já, (žena)",
+      "sk": "ja, (žena)",
+      "th": "ดิฉัน",
+      "czph": "dy čan",
+      "skph": "dy čan"
+    },
+    {
+      "id": 5,
+      "cz": "ty (tykání i vykání)",
+      "sk": "ty (tykanie i vykání)",
+      "th": "คุณ",
+      "czph": "khun",
+      "skph": "khun"
+    },
+    {
+      "id": 6,
+      "cz": "ty,(intimně)",
+      "sk": "ty,(intímne)",
+      "th": "เธอ",
+      "czph": "thé",
+      "skph": "thé"
+    },
+    {
+      "id": 7,
+      "cz": "vykání, s respektem",
+      "sk": "vykání, s úctou",
+      "th": "ท่าน",
+      "czph": "thán",
+      "skph": "thán"
+    },
+    {
+      "id": 8,
+      "cz": "on, ona",
+      "sk": "on, ona",
+      "th": "เขา",
+      "czph": "khao",
+      "skph": "khao"
+    },
+    {
+      "id": 9,
+      "cz": "on",
+      "sk": "on",
+      "th": "เขาผู้ชาย",
+      "czph": "khao phú čáj",
+      "skph": "khao phú čáj"
+    },
+    {
+      "id": 10,
+      "cz": "ona",
+      "sk": "ona",
+      "th": "เขาผู้หญิง",
+      "czph": "khao phú jing",
+      "skph": "khao phú jing"
+    },
+    {
+      "id": 11,
+      "cz": "on, oni, (s respektem)",
+      "sk": "on, oni, (s úctou)",
+      "th": "ท่าน",
+      "czph": "thán",
+      "skph": "thán"
+    },
+    {
+      "id": 12,
+      "cz": "ono, to",
+      "sk": "ono, to",
+      "th": "มัน",
+      "czph": "man",
+      "skph": "man"
+    },
+    {
+      "id": 13,
+      "cz": "my",
+      "sk": "my",
+      "th": "เรา",
+      "czph": "rao",
+      "skph": "rao"
+    },
+    {
+      "id": 14,
+      "cz": "my (více osob)",
+      "sk": "my (viac osôb)",
+      "th": "ผวกเรา",
+      "czph": "phúak rao",
+      "skph": "phúak rao"
+    },
+    {
+      "id": 15,
+      "cz": "vy",
+      "sk": "vy",
+      "th": "คุณ",
+      "czph": "khun",
+      "skph": "khun"
+    },
+    {
+      "id": 16,
+      "cz": "vy (více osob)",
+      "sk": "vy (viac osôb)",
+      "th": "ผวกคุณ",
+      "czph": "phúak khun",
+      "skph": "phúak khun"
+    },
+    {
+      "id": 17,
+      "cz": "oni",
+      "sk": "oni",
+      "th": "ผวกเขา",
+      "czph": "phúak khao",
+      "skph": "phúak khao"
+    }
+  ]
+}

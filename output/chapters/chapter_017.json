@@ -1,0 +1,208 @@
+{
+  "id": 17,
+  "blockId": 4,
+  "name": "Nakupovanie",
+  "orderIndex": 1,
+  "words": [
+    {
+      "id": 456,
+      "cz": "nákupy",
+      "sk": "nákupy",
+      "th": "ซื้อของ",
+      "czph": "sú khóng",
+      "skph": "sú khóng"
+    },
+    {
+      "id": 457,
+      "cz": "zaměstnanec obchodu",
+      "sk": "zamestnanec obchodu",
+      "th": "พนักงานขายของ",
+      "czph": "phanak ngán kháj khóng",
+      "skph": "phanak ngán kháj khóng"
+    },
+    {
+      "id": 458,
+      "cz": "pokladní",
+      "sk": "pokladní",
+      "th": "แคชเชียร์",
+      "czph": "khétčíja",
+      "skph": "khétčíja"
+    },
+    {
+      "id": 459,
+      "cz": "zákazník",
+      "sk": "zákazník",
+      "th": "ลูกค้า",
+      "czph": "lúk khá",
+      "skph": "lúk khá"
+    },
+    {
+      "id": 460,
+      "cz": "taška (nákupní)",
+      "sk": "taška (nákupná)",
+      "th": "ถุง",
+      "czph": "thung",
+      "skph": "thung"
+    },
+    {
+      "id": 461,
+      "cz": "košík (nákupní)",
+      "sk": "košík (nákupný)",
+      "th": "ตะกร้า",
+      "czph": "takrá",
+      "skph": "takrá"
+    },
+    {
+      "id": 462,
+      "cz": "vozík (nákupní)",
+      "sk": "vozík (nákupný)",
+      "th": "รถเข็น",
+      "czph": "rot khen",
+      "skph": "rot khen"
+    },
+    {
+      "id": 463,
+      "cz": "chléb",
+      "sk": "chlieb",
+      "th": "ขนมปัง",
+      "czph": "khanom pang",
+      "skph": "khanom pang"
+    },
+    {
+      "id": 464,
+      "cz": "pečivo",
+      "sk": "pečivo",
+      "th": "คุ้กกี้",
+      "czph": "khuk ký",
+      "skph": "khuk ký"
+    },
+    {
+      "id": 465,
+      "cz": "moučník",
+      "sk": "múčník",
+      "th": "เค้ก",
+      "czph": "khék",
+      "skph": "khék"
+    },
+    {
+      "id": 466,
+      "cz": "sušenky",
+      "sk": "sušienky",
+      "th": "ขนมปังกรอบ",
+      "czph": "khanom pang króp",
+      "skph": "khanom pang króp"
+    },
+    {
+      "id": 467,
+      "cz": "šunka",
+      "sk": "šunka",
+      "th": "แฮม",
+      "czph": "hém",
+      "skph": "hém"
+    },
+    {
+      "id": 468,
+      "cz": "slanina",
+      "sk": "slanina",
+      "th": "เบคอน",
+      "czph": "békhón",
+      "skph": "békhón"
+    },
+    {
+      "id": 469,
+      "cz": "klobása",
+      "sk": "klobása",
+      "th": "ไส้กรอก",
+      "czph": "sajkrók",
+      "skph": "sajkrók"
+    },
+    {
+      "id": 470,
+      "cz": "marmeláda",
+      "sk": "marmeláda",
+      "th": "แยม",
+      "czph": "jém",
+      "skph": "jém"
+    },
+    {
+      "id": 471,
+      "cz": "máslo",
+      "sk": "maslo",
+      "th": "เนย",
+      "czph": "néj",
+      "skph": "néj"
+    },
+    {
+      "id": 472,
+      "cz": "sýr",
+      "sk": "syr",
+      "th": "เนยแข็ง",
+      "czph": "néj khéng",
+      "skph": "néj khéng"
+    },
+    {
+      "id": 473,
+      "cz": "džus",
+      "sk": "džús",
+      "th": "นํ้าผลไม้",
+      "czph": "nám phonlamáj",
+      "skph": "nám phonlamáj"
+    },
+    {
+      "id": 474,
+      "cz": "mléko",
+      "sk": "mlieko",
+      "th": "นม",
+      "czph": "nom",
+      "skph": "nom"
+    },
+    {
+      "id": 475,
+      "cz": "zmrzlina",
+      "sk": "zmrzlina",
+      "th": "ไอศกรีม",
+      "czph": "ajskrým",
+      "skph": "ajskrým"
+    },
+    {
+      "id": 476,
+      "cz": "jogurt",
+      "sk": "jogurt",
+      "th": "โยเกิร์ต",
+      "czph": "jókét",
+      "skph": "jókét"
+    },
+    {
+      "id": 477,
+      "cz": "bean curd (?)",
+      "sk": "bean curd (?)",
+      "th": "เต้าหู้",
+      "czph": "táu hú",
+      "skph": "táu hú"
+    },
+    {
+      "id": 478,
+      "cz": "zelenina",
+      "sk": "zelenina",
+      "th": "ผัก",
+      "czph": "phak",
+      "skph": "phak"
+    },
+    {
+      "id": 479,
+      "cz": "ovoce",
+      "sk": "ovocie",
+      "th": "ผลไม้",
+      "czph": "phonlamáj",
+      "skph": "phonlamáj"
+    },
+    {
+      "id": 480,
+      "cz": "mražené potraviny",
+      "sk": "mrazené potraviny",
+      "th": "อาหารแช่แข็ง",
+      "czph": "áhán čé khéng",
+      "skph": "áhán čé khéng"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "id": 18,
+  "blockId": 4,
+  "name": "Cestovanie a doprava",
+  "orderIndex": 2,
+  "words": [
+    {
+      "id": 481,
+      "cz": "cestování",
+      "sk": "cestovanie",
+      "th": "การท่องเที่ยว",
+      "czph": "kán thóng thýjau",
+      "skph": "kán thóng thýjau"
+    },
+    {
+      "id": 482,
+      "cz": "hora",
+      "sk": "hora",
+      "th": "ภูเขา",
+      "czph": "phúkhao",
+      "skph": "phúkhao"
+    },
+    {
+      "id": 483,
+      "cz": "vodopád",
+      "sk": "vodopád",
+      "th": "นํ้าตก",
+      "czph": "nám tok",
+      "skph": "nám tok"
+    },
+    {
+      "id": 484,
+      "cz": "les",
+      "sk": "les",
+      "th": "ป็า",
+      "czph": "pá",
+      "skph": "pá"
+    },
+    {
+      "id": 485,
+      "cz": "plošina (náhorní)",
+      "sk": "platnica (horská)",
+      "th": "ที่ราบสูง",
+      "czph": "thý ráp súng",
+      "skph": "thý ráp súng"
+    },
+    {
+      "id": 486,
+      "cz": "řeka",
+      "sk": "rieka",
+      "th": "แม่นํ้า",
+      "czph": "mé nám",
+      "skph": "mé nám"
+    },
+    {
+      "id": 487,
+      "cz": "pole",
+      "sk": "pole",
+      "th": "ไร่",
+      "czph": "raj",
+      "skph": "raj"
+    },
+    {
+      "id": 488,
+      "cz": "pole rýžové",
+      "sk": "ryžové pole",
+      "th": "ทุงนา",
+      "czph": "thung ná",
+      "skph": "thung ná"
+    },
+    {
+      "id": 489,
+      "cz": "strom",
+      "sk": "strom",
+      "th": "ต้นไม้",
+      "czph": "ton máj",
+      "skph": "ton máj"
+    },
+    {
+      "id": 490,
+      "cz": "jezero",
+      "sk": "jazero",
+      "th": "ทะเลสาบ",
+      "czph": "thalé sáp",
+      "skph": "thalé sáp"
+    },
+    {
+      "id": 491,
+      "cz": "hráz",
+      "sk": "hráz",
+      "th": "เขื่อน",
+      "czph": "khúan",
+      "skph": "khúan"
+    },
+    {
+      "id": 492,
+      "cz": "elektrárna",
+      "sk": "elektráreň",
+      "th": "โรงไฟฟา",
+      "czph": "róng faj fá",
+      "skph": "róng faj fá"
+    },
+    {
+      "id": 493,
+      "cz": "moře",
+      "sk": "more",
+      "th": "ทะเล",
+      "czph": "thalé",
+      "skph": "thalé"
+    },
+    {
+      "id": 494,
+      "cz": "pláž",
+      "sk": "pláž",
+      "th": "หาดทราย",
+      "czph": "hát sáj",
+      "skph": "hát sáj"
+    },
+    {
+      "id": 495,
+      "cz": "písek",
+      "sk": "písek",
+      "th": "ทราย",
+      "czph": "sáj",
+      "skph": "sáj"
+    },
+    {
+      "id": 496,
+      "cz": "kámen, balvan",
+      "sk": "kameň, balvan",
+      "th": "โขดหิน",
+      "czph": "khót hyn",
+      "skph": "khót hyn"
+    },
+    {
+      "id": 497,
+      "cz": "ulita ústřice",
+      "sk": "ulita ústrice",
+      "th": "เปลือกหอย",
+      "czph": "plúak hój",
+      "skph": "plúak hój"
+    },
+    {
+      "id": 498,
+      "cz": "vlna",
+      "sk": "vlna",
+      "th": "คลื่น",
+      "czph": "khlún",
+      "skph": "khlún"
+    },
+    {
+      "id": 499,
+      "cz": "mořská voda",
+      "sk": "morská voda",
+      "th": "นํ้าทะเล",
+      "czph": "nám thalé",
+      "skph": "nám thalé"
+    },
+    {
+      "id": 500,
+      "cz": "útes, skalní stěna",
+      "sk": "útes, skalná stena",
+      "th": "หน้ผา",
+      "czph": "ná phá",
+      "skph": "ná phá"
+    },
+    {
+      "id": 501,
+      "cz": "plavky",
+      "sk": "plavky",
+      "th": "ชุดว่ายนํ้า",
+      "czph": "čut váj nám",
+      "skph": "čut váj nám"
+    },
+    {
+      "id": 502,
+      "cz": "ručník",
+      "sk": "ručník",
+      "th": "ผ้าเช็ดตัว",
+      "czph": "phá čet tua",
+      "skph": "phá čet tua"
+    },
+    {
+      "id": 503,
+      "cz": "brýle (plavecké)",
+      "sk": "okuliare (plavecké)",
+      "th": "แว่นตาว่ายนํ้า",
+      "czph": "véntá váj nám",
+      "skph": "véntá váj nám"
+    },
+    {
+      "id": 504,
+      "cz": "bungalov",
+      "sk": "bungalov",
+      "th": "บังกาโล",
+      "czph": "bangkáló",
+      "skph": "bangkáló"
+    },
+    {
+      "id": 505,
+      "cz": "hotel",
+      "sk": "hotel",
+      "th": "โรงแรม",
+      "czph": "róng rém",
+      "skph": "róng rém"
+    },
+    {
+      "id": 506,
+      "cz": "železnice",
+      "sk": "železnica",
+      "th": "การรถไฟ",
+      "czph": "kán rot faj",
+      "skph": "kán rot faj"
+    },
+    {
+      "id": 507,
+      "cz": "nádraží",
+      "sk": "stanica",
+      "th": "สถานีรถไฟ",
+      "czph": "satháný rot faj",
+      "skph": "satháný rot faj"
+    },
+    {
+      "id": 508,
+      "cz": "pokladna (na jízdenky)",
+      "sk": "pokladna (na jízdenky)",
+      "th": "ที่ขายตั๋ว",
+      "czph": "thý kháj tua",
+      "skph": "thý kháj tua"
+    },
+    {
+      "id": 509,
+      "cz": "jízdní řád",
+      "sk": "jazdný poriadok",
+      "th": "ตารางเวลาเดินรถ",
+      "czph": "táráng vélá dén rot",
+      "skph": "táráng vélá dén rot"
+    },
+    {
+      "id": 510,
+      "cz": "východ (brána)",
+      "sk": "východ (brána)",
+      "th": "ทางเข้าชานชลา",
+      "czph": "tháng khao čánčalá",
+      "skph": "tháng khao čánčalá"
+    },
+    {
+      "id": 511,
+      "cz": "nástupiště",
+      "sk": "nástupište",
+      "th": "ชานชลา",
+      "czph": "čánčalá",
+      "skph": "čánčalá"
+    },
+    {
+      "id": 512,
+      "cz": "kolejnice",
+      "sk": "koľaje",
+      "th": "รางรถไฟ",
+      "czph": "ráng rot faj",
+      "skph": "ráng rot faj"
+    },
+    {
+      "id": 513,
+      "cz": "vlak",
+      "sk": "vlak",
+      "th": "รถไฟ",
+      "czph": "rot faj",
+      "skph": "rot faj"
+    },
+    {
+      "id": 514,
+      "cz": "první třída",
+      "sk": "první třída",
+      "th": "ชั้นหนึ่ง",
+      "czph": "čan núng",
+      "skph": "čan núng"
+    },
+    {
+      "id": 515,
+      "cz": "druhá třída",
+      "sk": "druhá trieda",
+      "th": "ชั้นสอง",
+      "czph": "čan sóng",
+      "skph": "čan sóng"
+    },
+    {
+      "id": 516,
+      "cz": "třetí třída",
+      "sk": "tretia trieda",
+      "th": "ชั้นสาม",
+      "czph": "čan sám",
+      "skph": "čan sám"
+    },
+    {
+      "id": 517,
+      "cz": "expres",
+      "sk": "expres",
+      "th": "รถด่วน",
+      "czph": "rot duan",
+      "skph": "rot duan"
+    },
+    {
+      "id": 518,
+      "cz": "osobní vlak",
+      "sk": "osobný vlak",
+      "th": "รถธรรมดา",
+      "czph": "rot tham madá",
+      "skph": "rot tham madá"
+    },
+    {
+      "id": 519,
+      "cz": "spací vagón",
+      "sk": "spací vagon",
+      "th": "รถนอน",
+      "czph": "rot nón",
+      "skph": "rot nón"
+    },
+    {
+      "id": 520,
+      "cz": "jídelní vagón",
+      "sk": "jídelní vagón",
+      "th": "รถเสบียง",
+      "czph": "rot sabijang",
+      "skph": "rot sabijang"
+    },
+    {
+      "id": 521,
+      "cz": "nákladní vagón",
+      "sk": "nákladný vagon",
+      "th": "รถสินค้า",
+      "czph": "rot sinkhá",
+      "skph": "rot sinkhá"
+    },
+    {
+      "id": 522,
+      "cz": "vlak",
+      "sk": "vlak",
+      "th": "ขบวนรถ",
+      "czph": "khabuan rot",
+      "skph": "khabuan rot"
+    },
+    {
+      "id": 523,
+      "cz": "jízdenka",
+      "sk": "jízdenka",
+      "th": "ตั๋ว",
+      "czph": "tua",
+      "skph": "tua"
+    },
+    {
+      "id": 524,
+      "cz": "sedadlo",
+      "sk": "sedadlo",
+      "th": "ที่นั่ง",
+      "czph": "thý nang",
+      "skph": "thý nang"
+    },
+    {
+      "id": 525,
+      "cz": "cestující, pasažér",
+      "sk": "cestujúci, pasažier",
+      "th": "ผู้โดยสาร",
+      "czph": "phú dój sán",
+      "skph": "phú dój sán"
+    },
+    {
+      "id": 526,
+      "cz": "průvodčí",
+      "sk": "průvodčí",
+      "th": "พนักงานตรวจตั๋ว",
+      "czph": "phanak ngán truat tua",
+      "skph": "phanak ngán truat tua"
+    },
+    {
+      "id": 527,
+      "cz": "místenkový vagón",
+      "sk": "miestny vagon",
+      "th": "รถทัวร์",
+      "czph": "rot thua",
+      "skph": "rot thua"
+    }
+  ]
+}

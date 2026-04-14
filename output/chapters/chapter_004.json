@@ -1,0 +1,168 @@
+{
+  "id": 4,
+  "blockId": 1,
+  "name": "Základné prídavné mená I",
+  "orderIndex": 3,
+  "words": [
+    {
+      "id": 60,
+      "cz": "přídavná jména",
+      "sk": "prídavné mená",
+      "th": "คุณศัพท์",
+      "czph": "khunasap",
+      "skph": "khunasap"
+    },
+    {
+      "id": 61,
+      "cz": "velký",
+      "sk": "veľký",
+      "th": "ใหญ่",
+      "czph": "jaj",
+      "skph": "jaj"
+    },
+    {
+      "id": 62,
+      "cz": "malý",
+      "sk": "malý",
+      "th": "เล็ก",
+      "czph": "lek",
+      "skph": "lek"
+    },
+    {
+      "id": 63,
+      "cz": "drahý",
+      "sk": "drahý",
+      "th": "แพง",
+      "czph": "phéng",
+      "skph": "phéng"
+    },
+    {
+      "id": 64,
+      "cz": "levný",
+      "sk": "lacný",
+      "th": "ถูก",
+      "czph": "thúk",
+      "skph": "thúk"
+    },
+    {
+      "id": 65,
+      "cz": "horký",
+      "sk": "horúci",
+      "th": "ร้อน",
+      "czph": "rón",
+      "skph": "rón"
+    },
+    {
+      "id": 66,
+      "cz": "studený",
+      "sk": "studený",
+      "th": "หนาว",
+      "czph": "náu",
+      "skph": "náu"
+    },
+    {
+      "id": 67,
+      "cz": "chladný",
+      "sk": "chladný",
+      "th": "เย็น",
+      "czph": "jen",
+      "skph": "jen"
+    },
+    {
+      "id": 68,
+      "cz": "teplý, vlažný",
+      "sk": "teplý, vlažný",
+      "th": "อุ่น",
+      "czph": "un",
+      "skph": "un"
+    },
+    {
+      "id": 69,
+      "cz": "vysoký",
+      "sk": "vysoký",
+      "th": "สูง",
+      "czph": "súng",
+      "skph": "súng"
+    },
+    {
+      "id": 70,
+      "cz": "nízký",
+      "sk": "nízky",
+      "th": "เตี้ย",
+      "czph": "tyja",
+      "skph": "tyja"
+    },
+    {
+      "id": 71,
+      "cz": "dlouhý",
+      "sk": "dlhý",
+      "th": "ยาว",
+      "czph": "jáu",
+      "skph": "jáu"
+    },
+    {
+      "id": 72,
+      "cz": "krátký",
+      "sk": "krátky",
+      "th": "สั้น",
+      "czph": "san",
+      "skph": "san"
+    },
+    {
+      "id": 73,
+      "cz": "rychlý",
+      "sk": "rýchly",
+      "th": "เร็ว",
+      "czph": "reu",
+      "skph": "reu"
+    },
+    {
+      "id": 74,
+      "cz": "pomalý",
+      "sk": "pomalý",
+      "th": "ช้า",
+      "czph": "čá",
+      "skph": "čá"
+    },
+    {
+      "id": 75,
+      "cz": "nový",
+      "sk": "nový",
+      "th": "ใหม่",
+      "czph": "maj",
+      "skph": "maj"
+    },
+    {
+      "id": 76,
+      "cz": "starý",
+      "sk": "starý",
+      "th": "เก่า",
+      "czph": "kau",
+      "skph": "kau"
+    },
+    {
+      "id": 77,
+      "cz": "snadný",
+      "sk": "ľahký",
+      "th": "ง่าย",
+      "czph": "ngáj",
+      "skph": "ngáj"
+    },
+    {
+      "id": 78,
+      "cz": "těžký, obtížný",
+      "sk": "ťažký, náročný",
+      "th": "ยาก",
+      "czph": "ják",
+      "skph": "ják"
+    },
+    {
+      "id": 79,
+      "cz": "světlý",
+      "sk": "svetlý",
+      "th": "สว่าง",
+      "czph": "saváng",
+      "skph": "saváng"
+    }
+  ]
+}

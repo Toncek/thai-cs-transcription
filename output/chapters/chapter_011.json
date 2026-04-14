@@ -1,0 +1,296 @@
+{
+  "id": 11,
+  "blockId": 3,
+  "name": "Dom a byt",
+  "orderIndex": 0,
+  "words": [
+    {
+      "id": 221,
+      "cz": "dům",
+      "sk": "dom",
+      "th": "บ้าน",
+      "czph": "bán",
+      "skph": "bán"
+    },
+    {
+      "id": 222,
+      "cz": "střecha šikmá",
+      "sk": "šikmá strecha",
+      "th": "หลังคา",
+      "czph": "lang khá",
+      "skph": "lang khá"
+    },
+    {
+      "id": 223,
+      "cz": "střecha rovná",
+      "sk": "střecha rovná",
+      "th": "ดาดฟา",
+      "czph": "dád fá",
+      "skph": "dád fá"
+    },
+    {
+      "id": 224,
+      "cz": "anténa",
+      "sk": "anténa",
+      "th": "เสาอากาศ",
+      "czph": "sáu ákát",
+      "skph": "sáu ákát"
+    },
+    {
+      "id": 225,
+      "cz": "anténa satelitní",
+      "sk": "satelitná anténa",
+      "th": "จานดาวเทียม",
+      "czph": "džán dáu thýjam",
+      "skph": "džán dáu thýjam"
+    },
+    {
+      "id": 226,
+      "cz": "okno",
+      "sk": "okno",
+      "th": "หน้าต่าง",
+      "czph": "nátáng",
+      "skph": "nátáng"
+    },
+    {
+      "id": 227,
+      "cz": "balkón",
+      "sk": "balkón",
+      "th": "ระเบียง",
+      "czph": "rabíjang",
+      "skph": "rabíjang"
+    },
+    {
+      "id": 228,
+      "cz": "dveře",
+      "sk": "dvere",
+      "th": "ประต ู",
+      "czph": "pratú",
+      "skph": "pratú"
+    },
+    {
+      "id": 229,
+      "cz": "zahrada",
+      "sk": "zahrada",
+      "th": "สวน",
+      "czph": "suan",
+      "skph": "suan"
+    },
+    {
+      "id": 230,
+      "cz": "žebřík",
+      "sk": "rebrík",
+      "th": "บันได",
+      "czph": "bandaj",
+      "skph": "bandaj"
+    },
+    {
+      "id": 231,
+      "cz": "garáž",
+      "sk": "garáž",
+      "th": "โรงรถ",
+      "czph": "róng rot",
+      "skph": "róng rot"
+    },
+    {
+      "id": 232,
+      "cz": "sklad, kůlna",
+      "sk": "sklad, stodola",
+      "th": "ห้องเก็บของ",
+      "czph": "hóng kep khong",
+      "skph": "hóng kep khong"
+    },
+    {
+      "id": 233,
+      "cz": "roleta",
+      "sk": "roleta",
+      "th": "ประตูเหล็กม้วน",
+      "czph": "pratú lek muan",
+      "skph": "pratú lek muan"
+    },
+    {
+      "id": 234,
+      "cz": "trávník",
+      "sk": "trávnik",
+      "th": "สนามหญา",
+      "czph": "sanám já",
+      "skph": "sanám já"
+    },
+    {
+      "id": 235,
+      "cz": "trávník před domem",
+      "sk": "trávník před domem",
+      "th": "ลาน",
+      "czph": "lán",
+      "skph": "lán"
+    },
+    {
+      "id": 236,
+      "cz": "plot",
+      "sk": "plot",
+      "th": "รั้ว",
+      "czph": "rúa",
+      "skph": "rúa"
+    },
+    {
+      "id": 237,
+      "cz": "plot kolem domu",
+      "sk": "plot okolo domu",
+      "th": "รั้วบ้าน",
+      "czph": "rúa bán",
+      "skph": "rúa bán"
+    },
+    {
+      "id": 238,
+      "cz": "vrata, brána",
+      "sk": "vráta, brána",
+      "th": "ประตูรั้ว",
+      "czph": "pratú rúa",
+      "skph": "pratú rúa"
+    },
+    {
+      "id": 239,
+      "cz": "zvonek (domovní)",
+      "sk": "zvonček (domový)",
+      "th": "ออด",
+      "czph": "ót",
+      "skph": "ót"
+    },
+    {
+      "id": 240,
+      "cz": "domovní deska",
+      "sk": "domová doska",
+      "th": "ปายชื่อ",
+      "czph": "páj čú",
+      "skph": "páj čú"
+    },
+    {
+      "id": 241,
+      "cz": "poštovní schránka",
+      "sk": "poštovní schránka",
+      "th": "กล่องจดหมาย",
+      "czph": "klóng džot máj",
+      "skph": "klóng džot máj"
+    },
+    {
+      "id": 242,
+      "cz": "pokoj, místnost",
+      "sk": "izba, miestnosť",
+      "th": "ห้อง",
+      "czph": "hóng",
+      "skph": "hóng"
+    },
+    {
+      "id": 243,
+      "cz": "salón",
+      "sk": "salón",
+      "th": "ห้องรับแขก",
+      "czph": "hóng rap khék",
+      "skph": "hóng rap khék"
+    },
+    {
+      "id": 244,
+      "cz": "záchod",
+      "sk": "záchod",
+      "th": "ห้องส้วม",
+      "czph": "hóng súam",
+      "skph": "hóng súam"
+    },
+    {
+      "id": 245,
+      "cz": "záchod (veřejný)",
+      "sk": "verejný záchod",
+      "th": "ห้องสุขา",
+      "czph": "hóng sukhá",
+      "skph": "hóng sukhá"
+    },
+    {
+      "id": 246,
+      "cz": "toaleta, záchod",
+      "sk": "toaleta, záchod",
+      "th": "ห้องนํ้",
+      "czph": "hóng nám",
+      "skph": "hóng nám"
+    },
+    {
+      "id": 247,
+      "cz": "jídelna",
+      "sk": "jedáleň",
+      "th": "ห้องทานข้าว",
+      "czph": "hóng thán kháu",
+      "skph": "hóng thán kháu"
+    },
+    {
+      "id": 248,
+      "cz": "kuchyně",
+      "sk": "kuchyňa",
+      "th": "ห้องครัว",
+      "czph": "hóng khrúa",
+      "skph": "hóng khrúa"
+    },
+    {
+      "id": 249,
+      "cz": "komora",
+      "sk": "komora",
+      "th": "ห้องเก็บของ",
+      "czph": "hóng kep khong",
+      "skph": "hóng kep khong"
+    },
+    {
+      "id": 250,
+      "cz": "obývací pokoj",
+      "sk": "obývací pokoj",
+      "th": "ห้องนั่งล่น",
+      "czph": "hóng nang len",
+      "skph": "hóng nang len"
+    },
+    {
+      "id": 251,
+      "cz": "studovna",
+      "sk": "študovňa",
+      "th": "ห้องหนังสือ",
+      "czph": "hóng nangsú",
+      "skph": "hóng nangsú"
+    },
+    {
+      "id": 252,
+      "cz": "knihovna (místnost)",
+      "sk": "knižnica (miestnosť)",
+      "th": "ห้องสมุด",
+      "czph": "hóng samut",
+      "skph": "hóng samut"
+    },
+    {
+      "id": 253,
+      "cz": "dětský pokoj",
+      "sk": "detská izba",
+      "th": "ห้องด็ก",
+      "czph": "hóng dek",
+      "skph": "hóng dek"
+    },
+    {
+      "id": 254,
+      "cz": "ložnice",
+      "sk": "spálňa",
+      "th": "ห้องนอน",
+      "czph": "hóng nón",
+      "skph": "hóng nón"
+    },
+    {
+      "id": 255,
+      "cz": "koupelna",
+      "sk": "kúpeľňa",
+      "th": "ห้องอาบนํ้า",
+      "czph": "hóng ápnám",
+      "skph": "hóng ápnám"
+    },
+    {
+      "id": 256,
+      "cz": "chodba",
+      "sk": "chodba",
+      "th": "ทางเดิน",
+      "czph": "tháng dén",
+      "skph": "tháng dén"
+    }
+  ]
+}

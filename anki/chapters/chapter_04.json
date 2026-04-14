@@ -1,0 +1,191 @@
+{
+  "chapter_id": 4,
+  "title_cz": "Rodina",
+  "title_sk": "Rodina",
+  "title_th": "ครอบครัว",
+  "level": "začátečník",
+  "words": [
+    {
+      "th": "ครอบครัว",
+      "cz": "rodina",
+      "sk": "rodina",
+      "czph": "khrób khrúa"
+    },
+    {
+      "th": "พ่อ",
+      "cz": "otec",
+      "sk": "otec",
+      "czph": "phó"
+    },
+    {
+      "th": "แม่",
+      "cz": "matka",
+      "sk": "matka",
+      "czph": "mé"
+    },
+    {
+      "th": "ลูก",
+      "cz": "dítě",
+      "sk": "dieťa",
+      "czph": "lúk"
+    },
+    {
+      "th": "ลูกชาย",
+      "cz": "syn",
+      "sk": "syn",
+      "czph": "lúk čáj"
+    },
+    {
+      "th": "ลูกสาว",
+      "cz": "dcera",
+      "sk": "dcéra",
+      "czph": "lúk sáu"
+    },
+    {
+      "th": "พี่ชาย",
+      "cz": "starší bratr",
+      "sk": "starší brat",
+      "czph": "phý čáj"
+    },
+    {
+      "th": "น้องชาย",
+      "cz": "mladší bratr",
+      "sk": "mladší brat",
+      "czph": "nóng čáj"
+    },
+    {
+      "th": "พี่สาว",
+      "cz": "starší sestra",
+      "sk": "staršia sestra",
+      "czph": "phý sáu"
+    },
+    {
+      "th": "น้องสาว",
+      "cz": "mladší sestra",
+      "sk": "mladšia sestra",
+      "czph": "nóng sáu"
+    },
+    {
+      "th": "ปู่",
+      "cz": "dědeček (z otcovy strany)",
+      "sk": "dedko (z otcovej strany)",
+      "czph": "pú"
+    },
+    {
+      "th": "ย่า",
+      "cz": "babička (z otcovy strany)",
+      "sk": "babka (z otcovej strany)",
+      "czph": "já"
+    },
+    {
+      "th": "ตา",
+      "cz": "dědeček (z matčiny strany)",
+      "sk": "dedko (z matkinej strany)",
+      "czph": "tá"
+    },
+    {
+      "th": "ยาย",
+      "cz": "babička (z matčiny strany)",
+      "sk": "babka (z matkinej strany)",
+      "czph": "jáj"
+    },
+    {
+      "th": "สามี",
+      "cz": "manžel",
+      "sk": "manžel",
+      "czph": "sá mí"
+    },
+    {
+      "th": "ภรรยา",
+      "cz": "manželka",
+      "sk": "manželka",
+      "czph": "phanrajá"
+    },
+    {
+      "th": "แฟน",
+      "cz": "přítel / přítelkyně",
+      "sk": "priateľ / priateľka",
+      "czph": "fén"
+    },
+    {
+      "th": "เพื่อน",
+      "cz": "kamarád",
+      "sk": "kamarát",
+      "czph": "phúan"
+    },
+    {
+      "th": "มี",
+      "cz": "mít",
+      "sk": "mať",
+      "czph": "mí"
+    },
+    {
+      "th": "รัก",
+      "cz": "milovat",
+      "sk": "milovať",
+      "czph": "rak"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "ฉันรักครอบครัว",
+      "cz": "Miluji svou rodinu.",
+      "sk": "Milujem svoju rodinu.",
+      "czph": "čan rak khrób khrúa"
+    },
+    {
+      "th": "ผมมีพี่ชาย",
+      "cz": "Mám staršího bratra.",
+      "sk": "Mám staršieho brata.",
+      "czph": "phom mí phý čáj"
+    },
+    {
+      "th": "เขามีน้องสาว",
+      "cz": "On má mladší sestru.",
+      "sk": "On má mladšiu sestru.",
+      "czph": "khau mí nóng sáu"
+    },
+    {
+      "th": "พ่อรักแม่",
+      "cz": "Otec miluje matku.",
+      "sk": "Otec miluje matku.",
+      "czph": "phó rak mé"
+    },
+    {
+      "th": "ตากับยาย",
+      "cz": "Dědeček a babička.",
+      "sk": "Dedko a babka.",
+      "czph": "tá kap jáj"
+    },
+    {
+      "th": "ฉันมีลูกชายสองคน",
+      "cz": "Mám dva syny.",
+      "sk": "Mám dvoch synov.",
+      "czph": "čan mí lúk čáj sóng khon"
+    },
+    {
+      "th": "แฟนของผม",
+      "cz": "Moje přítelkyně.",
+      "sk": "Moja priateľka.",
+      "czph": "fén khóng phom"
+    },
+    {
+      "th": "ครอบครัวของฉัน",
+      "cz": "Moje rodina.",
+      "sk": "Moja rodina.",
+      "czph": "khrób khrúa khóng čan"
+    },
+    {
+      "th": "เราเป็นเพื่อนกัน",
+      "cz": "Jsme přátelé.",
+      "sk": "Sme priatelia.",
+      "czph": "rao pen phúan kan"
+    },
+    {
+      "th": "คุณมีพี่น้องไหม",
+      "cz": "Máte sourozence?",
+      "sk": "Máte súrodencov?",
+      "czph": "khun mí phí nóng maj"
+    }
+  ]
+}

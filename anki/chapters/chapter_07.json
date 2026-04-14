@@ -1,0 +1,191 @@
+{
+  "chapter_id": 7,
+  "title_cz": "Doprava",
+  "title_sk": "Doprava",
+  "title_th": "การคมนาคม",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "รถ",
+      "cz": "auto",
+      "sk": "auto",
+      "czph": "rot"
+    },
+    {
+      "th": "รถเมล์",
+      "cz": "autobus",
+      "sk": "autobus",
+      "czph": "rot mé"
+    },
+    {
+      "th": "รถไฟ",
+      "cz": "vlak",
+      "sk": "vlak",
+      "czph": "rot faj"
+    },
+    {
+      "th": "แท็กซี่",
+      "cz": "taxi",
+      "sk": "taxi",
+      "czph": "thek sí"
+    },
+    {
+      "th": "เครื่องบิน",
+      "cz": "letadlo",
+      "sk": "lietadlo",
+      "czph": "khrúang bin"
+    },
+    {
+      "th": "ไป",
+      "cz": "jít / jet",
+      "sk": "ísť",
+      "czph": "paj"
+    },
+    {
+      "th": "มา",
+      "cz": "přijít",
+      "sk": "prísť",
+      "czph": "má"
+    },
+    {
+      "th": "ซ้าย",
+      "cz": "vlevo",
+      "sk": "vľavo",
+      "czph": "sáj"
+    },
+    {
+      "th": "ขวา",
+      "cz": "vpravo",
+      "sk": "vpravo",
+      "czph": "kháu"
+    },
+    {
+      "th": "ตรงไป",
+      "cz": "rovně",
+      "sk": "rovno",
+      "czph": "trong paj"
+    },
+    {
+      "th": "ใกล้",
+      "cz": "blízko",
+      "sk": "blízko",
+      "czph": "klaj (vyslov klesající tón)"
+    },
+    {
+      "th": "ไกล",
+      "cz": "daleko",
+      "sk": "ďaleko",
+      "czph": "klaj"
+    },
+    {
+      "th": "ที่ไหน",
+      "cz": "kde",
+      "sk": "kde",
+      "czph": "thí naj"
+    },
+    {
+      "th": "ถนน",
+      "cz": "ulice",
+      "sk": "ulica",
+      "czph": "thanon"
+    },
+    {
+      "th": "สถานี",
+      "cz": "stanice",
+      "sk": "stanica",
+      "czph": "sathá ný"
+    },
+    {
+      "th": "สนามบิน",
+      "cz": "letiště",
+      "sk": "letisko",
+      "czph": "sanám bin"
+    },
+    {
+      "th": "ขับรถ",
+      "cz": "řídit",
+      "sk": "šoférovať",
+      "czph": "khap rot"
+    },
+    {
+      "th": "เดิน",
+      "cz": "chodit pěšky",
+      "sk": "kráčať",
+      "czph": "dön"
+    },
+    {
+      "th": "จอด",
+      "cz": "zastavit",
+      "sk": "zastaviť",
+      "czph": "džót"
+    },
+    {
+      "th": "ทาง",
+      "cz": "cesta",
+      "sk": "cesta",
+      "czph": "tháng"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "รถไฟไปที่ไหน",
+      "cz": "Kam jede vlak?",
+      "sk": "Kam ide vlak?",
+      "czph": "rot faj paj thí naj"
+    },
+    {
+      "th": "สนามบินอยู่ไกลไหม",
+      "cz": "Je letiště daleko?",
+      "sk": "Je letisko ďaleko?",
+      "czph": "sanám bin jú klaj maj"
+    },
+    {
+      "th": "สถานีอยู่ใกล้",
+      "cz": "Stanice je blízko.",
+      "sk": "Stanica je blízko.",
+      "czph": "sathá ný jú klaj (vyslov klesající tón)"
+    },
+    {
+      "th": "เลี้ยวซ้าย",
+      "cz": "Zahněte doleva.",
+      "sk": "Odbočte doľava.",
+      "czph": "lyau sáj"
+    },
+    {
+      "th": "เลี้ยวขวา",
+      "cz": "Zahněte doprava.",
+      "sk": "Odbočte doprava.",
+      "czph": "lyau kháu"
+    },
+    {
+      "th": "เดินตรงไป",
+      "cz": "Jděte rovně.",
+      "sk": "Choďte rovno.",
+      "czph": "dön trong paj"
+    },
+    {
+      "th": "ผมขับรถ",
+      "cz": "Řídím auto.",
+      "sk": "Šoférujem auto.",
+      "czph": "phom khap rot"
+    },
+    {
+      "th": "แท็กซี่มาแล้ว",
+      "cz": "Taxík už přijel.",
+      "sk": "Taxík už prišiel.",
+      "czph": "thek sí má léu"
+    },
+    {
+      "th": "จอดที่นี่ครับ",
+      "cz": "Zastavte tady, prosím.",
+      "sk": "Zastavte tu, prosím.",
+      "czph": "džót thí ný khrap"
+    },
+    {
+      "th": "ไปรถเมล์",
+      "cz": "Jet autobusem.",
+      "sk": "Ísť autobusom.",
+      "czph": "paj rot mé"
+    }
+  ]
+}

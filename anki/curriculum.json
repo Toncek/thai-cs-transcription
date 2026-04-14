@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "version": "4.0",
+    "source": "data/train.json",
+    "description": "Hierarchická osnova - Bloky obsahujúce kapitoly s kumulatívnym slovníkom pre vety."
+  },
+  "blocks": [
+    {
+      "id": 1,
+      "name": "Základy",
+      "chapters": [
+        {
+          "id": 1,
+          "type": "vocab",
+          "name": "Zámená a základné slová",
+          "sources": [
+            {
+              "title": "Zájména",
+              "take": "all"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "type": "vocab",
+          "name": "Čísla 0-20",
+          "sources": [
+            {
+              "title": "Číslice",
+              "take": 22
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "type": "vocab",
+          "name": "Základné slovesá I",
+          "sources": [
+            {
+              "title": "Slovesa",
+              "take": 20,
+              "skip": 0
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "type": "vocab",
+          "name": "Základné prídavné mená I",
+          "sources": [
+            {
+              "title": "Přídavná jména",
+              "take": 20,
+              "skip": 0
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "type": "practice",
+          "name": "PRAX 1 - Zoznámenie",
+          "sentence_count": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Čas a rodina",
+      "chapters": [
+        {
+          "id": 6,
+          "type": "vocab",
+          "name": "Čas a dni",
+          "sources": [
+            {
+              "title": "Čas",
+              "take": 20
+            },
+            {
+              "title": "Kalendář",
+              "take": 10
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "type": "vocab",
+          "name": "Rodina",
+          "sources": [
+            {
+              "title": "Rodina, příbuzenské vztahy",
+              "take": "all"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "type": "vocab",
+          "name": "Farby",
+          "sources": [
+            {
+              "title": "Barvy",
+              "take": "all"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "type": "vocab",
+          "name": "Základné slovesá II",
+          "sources": [
+            {
+              "title": "Slovesa",
+              "take": 20,
+              "skip": 20
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "type": "practice",
+          "name": "PRAX 2 - Rodina a čas",
+          "sentence_count": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bývanie a jedlo",
+      "chapters": [
+        {
+          "id": 11,
+          "type": "vocab",
+          "name": "Dom a byt",
+          "sources": [
+            {
+              "title": "Dům",
+              "take": "all"
+            },
+            {
+              "title": "Byt",
+              "take": "all"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "type": "vocab",
+          "name": "Kuchyňa a kúpeľňa",
+          "sources": [
+            {
+              "title": "Kuchyně",
+              "take": "all"
+            },
+            {
+              "title": "Koupelna",
+              "take": "all"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "type": "vocab",
+          "name": "Ovocie a zelenina",
+          "sources": [
+            {
+              "title": "Ovoce",
+              "take": 20
+            },
+            {
+              "title": "Zelenina",
+              "take": 20
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "type": "vocab",
+          "name": "V reštaurácii",
+          "sources": [
+            {
+              "title": "Restaurace",
+              "take": 25
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "type": "practice",
+          "name": "PRAX 3 - Doma a pri jedle",
+          "sentence_count": 10
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mesto a pohyb",
+      "chapters": [
+        {
+          "id": 16,
+          "type": "vocab",
+          "name": "Mesto a miesta",
+          "sources": [
+            {
+              "title": "Město",
+              "take": "all"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "type": "vocab",
+          "name": "Nakupovanie",
+          "sources": [
+            {
+              "title": "Nákupy, obchod",
+              "take": 25
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "type": "vocab",
+          "name": "Cestovanie a doprava",
+          "sources": [
+            {
+              "title": "Cestování",
+              "take": "all"
+            },
+            {
+              "title": "Železnice",
+              "take": "all"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "type": "vocab",
+          "name": "Predložky a príslovky",
+          "sources": [
+            {
+              "title": "Spojky, předložky",
+              "take": 20
+            },
+            {
+              "title": "Příslovce",
+              "take": 20
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "type": "practice",
+          "name": "PRAX 4 - V meste",
+          "sentence_count": 10
+        }
+      ]
+    }
+  ]
+}

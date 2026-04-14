@@ -1,0 +1,184 @@
+{
+  "id": 2,
+  "blockId": 1,
+  "name": "Čísla 0-20",
+  "orderIndex": 1,
+  "words": [
+    {
+      "id": 18,
+      "cz": "číslice",
+      "sk": "číslice",
+      "th": "ตัวเลข",
+      "czph": "túa lék",
+      "skph": "túa lék"
+    },
+    {
+      "id": 19,
+      "cz": "nula",
+      "sk": "nula",
+      "th": "ศูนย์",
+      "czph": "sún",
+      "skph": "sún"
+    },
+    {
+      "id": 20,
+      "cz": "jedna",
+      "sk": "jedna",
+      "th": "หนึ่ง",
+      "czph": "nung",
+      "skph": "nung"
+    },
+    {
+      "id": 21,
+      "cz": "dvě",
+      "sk": "dve",
+      "th": "สอง",
+      "czph": "sóng",
+      "skph": "sóng"
+    },
+    {
+      "id": 22,
+      "cz": "tři",
+      "sk": "tri",
+      "th": "สาม",
+      "czph": "sám",
+      "skph": "sám"
+    },
+    {
+      "id": 23,
+      "cz": "čtyři",
+      "sk": "štyri",
+      "th": "สี่",
+      "czph": "sí",
+      "skph": "sí"
+    },
+    {
+      "id": 24,
+      "cz": "pět",
+      "sk": "päť",
+      "th": "ห้า",
+      "czph": "há",
+      "skph": "há"
+    },
+    {
+      "id": 25,
+      "cz": "šest",
+      "sk": "šesť",
+      "th": "หก",
+      "czph": "hok",
+      "skph": "hok"
+    },
+    {
+      "id": 26,
+      "cz": "sedm",
+      "sk": "sedm",
+      "th": "เจ็ด",
+      "czph": "džet",
+      "skph": "džet"
+    },
+    {
+      "id": 27,
+      "cz": "osm",
+      "sk": "osem",
+      "th": "แปด",
+      "czph": "paét",
+      "skph": "paét"
+    },
+    {
+      "id": 28,
+      "cz": "devět",
+      "sk": "deväť",
+      "th": "เก้า",
+      "czph": "kau",
+      "skph": "kau"
+    },
+    {
+      "id": 29,
+      "cz": "deset",
+      "sk": "desiat",
+      "th": "สิบ",
+      "czph": "sip",
+      "skph": "sip"
+    },
+    {
+      "id": 30,
+      "cz": "jedenáct",
+      "sk": "jedenásť",
+      "th": "สิบเอ็ด",
+      "czph": "sip et",
+      "skph": "sip et"
+    },
+    {
+      "id": 31,
+      "cz": "dvanáct",
+      "sk": "dvanásť",
+      "th": "สิบสอง",
+      "czph": "sip sóng",
+      "skph": "sip sóng"
+    },
+    {
+      "id": 32,
+      "cz": "třináct",
+      "sk": "třináct",
+      "th": "สิบสาม",
+      "czph": "sip sám",
+      "skph": "sip sám"
+    },
+    {
+      "id": 33,
+      "cz": "dvacet",
+      "sk": "dvadsať",
+      "th": "ยี่สิบ",
+      "czph": "jí sip",
+      "skph": "jí sip"
+    },
+    {
+      "id": 34,
+      "cz": "dvacet jedna",
+      "sk": "dvadsať jedna",
+      "th": "ยี่สิบเอ็ด",
+      "czph": "jí sip et",
+      "skph": "jí sip et"
+    },
+    {
+      "id": 35,
+      "cz": "dvacet dva",
+      "sk": "dvadsať dva",
+      "th": "ยี่สิบสอง",
+      "czph": "jí sip sóng",
+      "skph": "jí sip sóng"
+    },
+    {
+      "id": 36,
+      "cz": "třicet",
+      "sk": "tridsať",
+      "th": "สามสิบ",
+      "czph": "sám sip",
+      "skph": "sám sip"
+    },
+    {
+      "id": 37,
+      "cz": "sto",
+      "sk": "sto",
+      "th": "ร้อย",
+      "czph": "rój",
+      "skph": "rój"
+    },
+    {
+      "id": 38,
+      "cz": "stojedna",
+      "sk": "stojedna",
+      "th": "ร้ยเอ็ด",
+      "czph": "rój ét",
+      "skph": "rój ét"
+    },
+    {
+      "id": 39,
+      "cz": "dvěstě",
+      "sk": "dvesto",
+      "th": "สองร้อย",
+      "czph": "sóng rój",
+      "skph": "sóng rój"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": 3,
+  "blockId": 1,
+  "name": "Základné slovesá I",
+  "orderIndex": 2,
+  "words": [
+    {
+      "id": 40,
+      "cz": "slovesa",
+      "sk": "slovesa",
+      "th": "กริยา",
+      "czph": "kryjá",
+      "skph": "kryjá"
+    },
+    {
+      "id": 41,
+      "cz": "být (něčím, někým)",
+      "sk": "byť (niečím, niekým)",
+      "th": "เป่น",
+      "czph": "pen",
+      "skph": "pen"
+    },
+    {
+      "id": 42,
+      "cz": "být (někde)",
+      "sk": "být (někde)",
+      "th": "อยู่",
+      "czph": "jú",
+      "skph": "jú"
+    },
+    {
+      "id": 43,
+      "cz": "mít, vlastnit",
+      "sk": "mať, vlastniť",
+      "th": "มี",
+      "czph": "mí",
+      "skph": "mí"
+    },
+    {
+      "id": 44,
+      "cz": "mít rád, líbit se",
+      "sk": "mať rád, páčiť sa",
+      "th": "ชอบ / รัก",
+      "czph": "čób, rak",
+      "skph": "čób, rak"
+    },
+    {
+      "id": 45,
+      "cz": "chtít",
+      "sk": "chcieť",
+      "th": "อยาก",
+      "czph": "ják",
+      "skph": "ják"
+    },
+    {
+      "id": 46,
+      "cz": "potřebovat",
+      "sk": "potrebovať",
+      "th": "ขอ",
+      "czph": "khó",
+      "skph": "khó"
+    },
+    {
+      "id": 47,
+      "cz": "dělat, pracovat",
+      "sk": "robiť, pracovať",
+      "th": "ทํา (งาน)",
+      "czph": "tham (ngán)",
+      "skph": "tham (ngán)"
+    },
+    {
+      "id": 48,
+      "cz": "vědět, znát",
+      "sk": "vědět, znát",
+      "th": "รู้จัก",
+      "czph": "rú (džak)",
+      "skph": "rú (džak)"
+    },
+    {
+      "id": 49,
+      "cz": "myslet",
+      "sk": "myslieť",
+      "th": "คิด",
+      "czph": "khyd",
+      "skph": "khyd"
+    },
+    {
+      "id": 50,
+      "cz": "hledat",
+      "sk": "hľadať",
+      "th": "หา",
+      "czph": "há",
+      "skph": "há"
+    },
+    {
+      "id": 51,
+      "cz": "jít, jet",
+      "sk": "ísť, jazdiť",
+      "th": "ไป",
+      "czph": "paj",
+      "skph": "paj"
+    },
+    {
+      "id": 52,
+      "cz": "jít, chodit",
+      "sk": "ísť, chodiť",
+      "th": "เดิน (ไป)",
+      "czph": "doén (paj)",
+      "skph": "doén (paj)"
+    },
+    {
+      "id": 53,
+      "cz": "přijít, přicházet",
+      "sk": "prísť, prichádzať",
+      "th": "มา",
+      "czph": "má",
+      "skph": "má"
+    },
+    {
+      "id": 54,
+      "cz": "letět",
+      "sk": "letět",
+      "th": "บิน",
+      "czph": "bin",
+      "skph": "bin"
+    },
+    {
+      "id": 55,
+      "cz": "řídit (auto)",
+      "sk": "riadiť (auto)",
+      "th": "ขับรถ",
+      "czph": "khap rot",
+      "skph": "khap rot"
+    },
+    {
+      "id": 56,
+      "cz": "stát",
+      "sk": "stáť",
+      "th": "ยืน",
+      "czph": "jún",
+      "skph": "jún"
+    },
+    {
+      "id": 57,
+      "cz": "sedět",
+      "sk": "sedieť",
+      "th": "นั่ง",
+      "czph": "nang",
+      "skph": "nang"
+    },
+    {
+      "id": 58,
+      "cz": "běžet",
+      "sk": "bežať",
+      "th": "วิ่ง",
+      "czph": "ving",
+      "skph": "ving"
+    },
+    {
+      "id": 59,
+      "cz": "ležet",
+      "sk": "ležať",
+      "th": "นอน",
+      "czph": "nón",
+      "skph": "nón"
+    }
+  ]
+}

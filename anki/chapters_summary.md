@@ -1,4 +1,4 @@
-Regenerated on: 2026-04-14 05:14:58
+Regenerated on: 2026-04-16 04:41:48
 Total Warnings: 0
 
 # Chapters Summary
@@ -15,3 +15,13 @@ Total Warnings: 0
 | 08 | Tělo | 20 | 10 | 0 |
 | 09 | Nakupování | 20 | 10 | 0 |
 | 10 | Příroda a počasí | 20 | 10 | 0 |
+| 11 | Dům a byt | 20 | 10 | 0 |
+| 12 | Kuchyně a koupelna | 20 | 10 | 0 |
+| 13 | Ovoce a zelenina | 20 | 10 | 0 |
+| 14 | V restauraci | 20 | 10 | 0 |
+| 15 | Praxe 3: Doma a při jídle | 20 | 10 | 0 |
+| 16 | Město a místa | 20 | 10 | 0 |
+| 17 | Nakupování II | 20 | 10 | 0 |
+| 18 | Cestování a doprava | 20 | 10 | 0 |
+| 19 | Předložky a příslovce | 20 | 10 | 0 |
+| 20 | Praxe 4: Ve městě | 20 | 10 | 0 |

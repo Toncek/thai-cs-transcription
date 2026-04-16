@@ -1,0 +1,191 @@
+{
+  "chapter_id": 20,
+  "title_cz": "Praxe 4: Ve městě",
+  "title_sk": "Prax 4: V meste",
+  "title_th": "ฝึกหัด 4: ในเมือง",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "เมือง",
+      "cz": "město",
+      "sk": "mesto",
+      "czph": "múang"
+    },
+    {
+      "th": "โรงเรียน",
+      "cz": "škola",
+      "sk": "škola",
+      "czph": "róng rýjan"
+    },
+    {
+      "th": "โรงแรม",
+      "cz": "hotel",
+      "sk": "hotel",
+      "czph": "róng rém"
+    },
+    {
+      "th": "สถานีรถไฟ",
+      "cz": "vlakové nádraží",
+      "sk": "vlaková stanica",
+      "czph": "satháný rot faj"
+    },
+    {
+      "th": "ตั๋ว",
+      "cz": "jízdenka",
+      "sk": "lístok",
+      "czph": "tua"
+    },
+    {
+      "th": "แผนที่",
+      "cz": "mapa",
+      "sk": "mapa",
+      "czph": "phén thý"
+    },
+    {
+      "th": "ใน",
+      "cz": "v, uvnitř",
+      "sk": "v, vnútri",
+      "czph": "naj"
+    },
+    {
+      "th": "นอก",
+      "cz": "ven, venku",
+      "sk": "von, vonku",
+      "czph": "nók"
+    },
+    {
+      "th": "ไซส์",
+      "cz": "velikost",
+      "sk": "veľkosť",
+      "czph": "saj"
+    },
+    {
+      "th": "ลอง",
+      "cz": "zkusit",
+      "sk": "skúsiť",
+      "czph": "lóng"
+    },
+    {
+      "th": "เสมอ",
+      "cz": "vždy",
+      "sk": "vždy",
+      "czph": "samoé"
+    },
+    {
+      "th": "ไม่เคย",
+      "cz": "nikdy",
+      "sk": "nikdy",
+      "czph": "maj khoéj"
+    },
+    {
+      "th": "ด้วยกัน",
+      "cz": "spolu",
+      "sk": "spolu",
+      "czph": "dúaj kan"
+    },
+    {
+      "th": "จ่าย",
+      "cz": "platit",
+      "sk": "platiť",
+      "czph": "džáj"
+    },
+    {
+      "th": "เงินสด",
+      "cz": "hotovost",
+      "sk": "hotovosť",
+      "czph": "ngén sot"
+    },
+    {
+      "th": "บัตรเครดิต",
+      "cz": "kreditní karta",
+      "sk": "kreditná karta",
+      "czph": "bat khrédyt"
+    },
+    {
+      "th": "ออก",
+      "cz": "odjet",
+      "sk": "odísť",
+      "czph": "aok"
+    },
+    {
+      "th": "ถึง",
+      "cz": "dorazit",
+      "sk": "doraziť",
+      "czph": "thúng"
+    },
+    {
+      "th": "ช้า",
+      "cz": "pozdě",
+      "sk": "neskoro",
+      "czph": "čá"
+    },
+    {
+      "th": "เร็ว",
+      "cz": "rychle",
+      "sk": "rýchlo",
+      "czph": "reu"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "เมืองนี้ใหญ่มาก",
+      "cz": "Toto město je velmi velké.",
+      "sk": "Toto mesto je veľmi veľké.",
+      "czph": "múang ný jaj mák"
+    },
+    {
+      "th": "โรงแรมอยู่ใกล้สถานีรถไฟ",
+      "cz": "Hotel je blízko vlakového nádraží.",
+      "sk": "Hotel je blízko vlakovej stanice.",
+      "czph": "róng rém jú klaj (vyslov klesající tón) satháný rot faj"
+    },
+    {
+      "th": "ขอซื้อตั๋วครับ",
+      "cz": "Rád bych koupil jízdenku.",
+      "sk": "Rád by som kúpil lístok.",
+      "czph": "khó sú tua khrap"
+    },
+    {
+      "th": "จ่ายด้วยบัตรเครดิต",
+      "cz": "Platit kreditní kartou.",
+      "sk": "Platiť kreditnou kartou.",
+      "czph": "džáj dúaj bat khrédyt"
+    },
+    {
+      "th": "ขอลองไซส์ใหญ่",
+      "cz": "Mohu zkusit větší velikost?",
+      "sk": "Môžem skúsiť väčšiu veľkosť?",
+      "czph": "khó lóng saj jaj"
+    },
+    {
+      "th": "ฉันไม่เคยไปเมืองนี้",
+      "cz": "Nikdy jsem v tomto městě nebyla.",
+      "sk": "Nikdy som v tomto meste nebola.",
+      "czph": "čan maj khoéj paj múang ný"
+    },
+    {
+      "th": "เราเดินทางด้วยกัน",
+      "cz": "Cestujeme spolu.",
+      "sk": "Cestujeme spolu.",
+      "czph": "rao dön tháng dúaj kan"
+    },
+    {
+      "th": "รถไฟออกเร็ว",
+      "cz": "Vlak odjíždí rychle.",
+      "sk": "Vlak odchádza rýchlo.",
+      "czph": "rot faj aok reu"
+    },
+    {
+      "th": "แผนที่อยู่ในกระเป๋า",
+      "cz": "Mapa je v tašce.",
+      "sk": "Mapa je v taške.",
+      "czph": "phén thý jú naj kona pao"
+    },
+    {
+      "th": "รถไฟถึงช้า",
+      "cz": "Vlak přijel pozdě.",
+      "sk": "Vlak prišiel neskoro.",
+      "czph": "rot faj thúng čá"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "chapter_id": 12,
+  "title_cz": "Kuchyně a koupelna",
+  "title_sk": "Kuchyňa a kúpeľňa",
+  "title_th": "ห้องครัวและห้องน้ำ",
+  "level": "pokročilý začátečník",
+  "words": [
+    {
+      "th": "ห้องครัว",
+      "cz": "kuchyně",
+      "sk": "kuchyňa",
+      "czph": "hóng khrúa"
+    },
+    {
+      "th": "ห้องน้ำ",
+      "cz": "koupelna",
+      "sk": "kúpeľňa",
+      "czph": "hóng nam"
+    },
+    {
+      "th": "จาน",
+      "cz": "talíř",
+      "sk": "tanier",
+      "czph": "džán"
+    },
+    {
+      "th": "ชาม",
+      "cz": "miska",
+      "sk": "miska",
+      "czph": "čám"
+    },
+    {
+      "th": "แก้ว",
+      "cz": "sklenice",
+      "sk": "pohár",
+      "czph": "kaéu"
+    },
+    {
+      "th": "ช้อน",
+      "cz": "lžíce",
+      "sk": "lyžica",
+      "czph": "čón"
+    },
+    {
+      "th": "ส้อม",
+      "cz": "vidlička",
+      "sk": "vidlička",
+      "czph": "sóm"
+    },
+    {
+      "th": "มีด",
+      "cz": "nůž",
+      "sk": "nôž",
+      "czph": "mít"
+    },
+    {
+      "th": "สบู่",
+      "cz": "mýdlo",
+      "sk": "mydlo",
+      "czph": "sabú"
+    },
+    {
+      "th": "ผ้าเช็ดตัว",
+      "cz": "ručník",
+      "sk": "uterák",
+      "czph": "phá čet tua"
+    },
+    {
+      "th": "ล้าง",
+      "cz": "mýt",
+      "sk": "umyť",
+      "czph": "láng"
+    },
+    {
+      "th": "ซัก",
+      "cz": "prát",
+      "sk": "prať",
+      "czph": "sak"
+    },
+    {
+      "th": "อาบน้ำ",
+      "cz": "koupání, sprchovat se",
+      "sk": "kúpanie, sprchovať sa",
+      "czph": "áp nam"
+    },
+    {
+      "th": "แปรงฟัน",
+      "cz": "čistit si zuby",
+      "sk": "čistiť si zuby",
+      "czph": "préng fan"
+    },
+    {
+      "th": "สกปรก",
+      "cz": "špinavý",
+      "sk": "špinavý",
+      "czph": "sok kaprok"
+    },
+    {
+      "th": "ก๊อกน้ำ",
+      "cz": "kohoutek",
+      "sk": "kohútik",
+      "czph": "kók nam"
+    },
+    {
+      "th": "ทำความสะอาด",
+      "cz": "uklízet",
+      "sk": "upratovať",
+      "czph": "tham khuaám sa át"
+    },
+    {
+      "th": "ตู้เย็น",
+      "cz": "lednička",
+      "sk": "chladnička",
+      "czph": "tú jen"
+    },
+    {
+      "th": "กระทะ",
+      "cz": "pánev",
+      "sk": "panvica",
+      "czph": "kratha"
+    },
+    {
+      "th": "หม้อ",
+      "cz": "hrnec",
+      "sk": "hrniec",
+      "czph": "mó"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "แม่ล้างจานในห้องครัว",
+      "cz": "Matka myje nádobí v kuchyni.",
+      "sk": "Matka umýva riad v kuchyni.",
+      "czph": "mé láng džán naj hóng khrúa"
+    },
+    {
+      "th": "ผมอาบน้ำในห้องน้ำ",
+      "cz": "Sprchuji se v koupelně.",
+      "sk": "Sprchujem sa v kúpeľni.",
+      "czph": "phom áp nam naj hóng nam"
+    },
+    {
+      "th": "ขอแก้วน้ำครับ",
+      "cz": "Prosím sklenici vody.",
+      "sk": "Prosím pohár vody.",
+      "czph": "khó kaéu nam khrap"
+    },
+    {
+      "th": "ช้อนและส้อม",
+      "cz": "Lžíce a vidlička.",
+      "sk": "Lyžica a vidlička.",
+      "czph": "čón le sóm"
+    },
+    {
+      "th": "ห้องน้ำสกปรก",
+      "cz": "Koupelna je špinavá.",
+      "sk": "Kúpeľňa je špinavá.",
+      "czph": "hóng nam sok kaprok"
+    },
+    {
+      "th": "ฉันทำความสะอาดบ้าน",
+      "cz": "Uklízím dům.",
+      "sk": "Upratujem dom.",
+      "czph": "čan tham khuaám sa át bán"
+    },
+    {
+      "th": "ตู้เย็นเปิดอยู่",
+      "cz": "Lednička je otevřená.",
+      "sk": "Chladnička je otvorená.",
+      "czph": "tú jen pöt jú"
+    },
+    {
+      "th": "สบู่อยู่ที่ไหน",
+      "cz": "Kde je mýdlo?",
+      "sk": "Kde je mydlo?",
+      "czph": "sabú jú thí naj"
+    },
+    {
+      "th": "เขาแปรงฟันตอนเช้า",
+      "cz": "Ráno si čistí zuby.",
+      "sk": "Ráno si čistí zuby.",
+      "czph": "khau préng fan tón čao"
+    },
+    {
+      "th": "พ่อซักเสื้อผ้า",
+      "cz": "Otec pere oblečení.",
+      "sk": "Otec perie oblečenie.",
+      "czph": "phó sak súa phá"
+    }
+  ]
+}

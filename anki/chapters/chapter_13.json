@@ -1,0 +1,191 @@
+{
+  "chapter_id": 13,
+  "title_cz": "Ovoce a zelenina",
+  "title_sk": "Ovocie a zelenina",
+  "title_th": "ผลไม้และผัก",
+  "level": "pokročilý začátečník",
+  "words": [
+    {
+      "th": "ผลไม้",
+      "cz": "ovoce",
+      "sk": "ovocie",
+      "czph": "phonlamáj"
+    },
+    {
+      "th": "กล้วย",
+      "cz": "banán",
+      "sk": "banán",
+      "czph": "kluaj"
+    },
+    {
+      "th": "มะม่วง",
+      "cz": "mango",
+      "sk": "mango",
+      "czph": "mamuang"
+    },
+    {
+      "th": "แอปเปิ้ล",
+      "cz": "jablko",
+      "sk": "jablko",
+      "czph": "ép pön"
+    },
+    {
+      "th": "ส้ม",
+      "cz": "pomeranč",
+      "sk": "pomaranč",
+      "czph": "som"
+    },
+    {
+      "th": "แตงโม",
+      "cz": "meloun",
+      "sk": "melón",
+      "czph": "téngmó"
+    },
+    {
+      "th": "สับปะรด",
+      "cz": "ananas",
+      "sk": "ananás",
+      "czph": "sapparot"
+    },
+    {
+      "th": "ผัก",
+      "cz": "zelenina",
+      "sk": "zelenina",
+      "czph": "phak"
+    },
+    {
+      "th": "แครอท",
+      "cz": "mrkev",
+      "sk": "mrkva",
+      "czph": "khérót"
+    },
+    {
+      "th": "มะเขือเทศ",
+      "cz": "rajče",
+      "sk": "paradajka",
+      "czph": "makhúa thét"
+    },
+    {
+      "th": "หอมหัวใหญ่",
+      "cz": "cibule",
+      "sk": "cibuľa",
+      "czph": "hóm húa jaj"
+    },
+    {
+      "th": "กระเทียม",
+      "cz": "česnek",
+      "sk": "cesnak",
+      "czph": "krathyjam"
+    },
+    {
+      "th": "มันฝรั่ง",
+      "cz": "brambor",
+      "sk": "zemiak",
+      "czph": "man farang"
+    },
+    {
+      "th": "แตงกวา",
+      "cz": "okurka",
+      "sk": "uhorka",
+      "czph": "téngkvá"
+    },
+    {
+      "th": "เห็ด",
+      "cz": "houba",
+      "sk": "huba",
+      "czph": "het"
+    },
+    {
+      "th": "สด",
+      "cz": "čerstvý",
+      "sk": "čerstvý",
+      "czph": "sot"
+    },
+    {
+      "th": "โล",
+      "cz": "kilo (hovorově)",
+      "sk": "kilo (hovorovo)",
+      "czph": "ló"
+    },
+    {
+      "th": "ลูก",
+      "cz": "klasifikátor (pro ovoce)",
+      "sk": "klasifikátor (pre ovocie)",
+      "czph": "lúk"
+    },
+    {
+      "th": "หวี",
+      "cz": "klasifikátor (trsy banánů)",
+      "sk": "klasifikátor (trsy banánov)",
+      "czph": "ví"
+    },
+    {
+      "th": "อร่อย",
+      "cz": "chutný",
+      "sk": "chutný",
+      "czph": "arój"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "ฉันชอบกล้วย",
+      "cz": "Mám rád banán.",
+      "sk": "Mám rád banán.",
+      "czph": "čan čóp kluaj"
+    },
+    {
+      "th": "มะม่วงอร่อยมาก",
+      "cz": "Mango je velmi chutné.",
+      "sk": "Mango je veľmi chutné.",
+      "czph": "mamuang arój mák"
+    },
+    {
+      "th": "ซื้อส้มสองโล",
+      "cz": "Koupit dvě kila pomerančů.",
+      "sk": "Kúpiť dve kilá pomarančov.",
+      "czph": "sú som sóng ló"
+    },
+    {
+      "th": "แตงโมลูกใหญ่",
+      "cz": "Velký meloun.",
+      "sk": "Veľký melón.",
+      "czph": "téngmó lúk jaj"
+    },
+    {
+      "th": "สับปะรดเปรี้ยว",
+      "cz": "Ananas je kyselý.",
+      "sk": "Ananás je kyslý.",
+      "czph": "sapparot pryjao"
+    },
+    {
+      "th": "แครอทและมะเขือเทศ",
+      "cz": "Mrkev a rajče.",
+      "sk": "Mrkva a paradajka.",
+      "czph": "khérót le makhúa thét"
+    },
+    {
+      "th": "ผักสดดีไหม",
+      "cz": "Je ta zelenina čerstvá?",
+      "sk": "Je tá zelenina čerstvá?",
+      "czph": "phak sot dý maj"
+    },
+    {
+      "th": "ไม่กินกระเทียมครับ",
+      "cz": "Nejím česnek.",
+      "sk": "Nejem cesnak.",
+      "czph": "maj kin krathyjam khrap"
+    },
+    {
+      "th": "หอมหัวใหญ่ราคาเท่าไหร่",
+      "cz": "Kolik stojí cibule?",
+      "sk": "Koľko stojí cibuľa?",
+      "czph": "hóm húa jaj rá khá thao raj"
+    },
+    {
+      "th": "มันฝรั่งอยู่ไหน",
+      "cz": "Kde jsou brambory?",
+      "sk": "Kde sú zemiaky?",
+      "czph": "man farang jú naj"
+    }
+  ]
+}

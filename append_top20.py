@@ -1,5 +1,3 @@
-import json
-
 with open("reports/corpus_analysis.md", "r", encoding="utf-8") as f:
     lines = f.readlines()
 

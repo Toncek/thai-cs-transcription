@@ -52,7 +52,7 @@ SILENT_MARK = "์"
 
 CONSONANTS = set([chr(i) for i in range(ord('ก'), ord('ฮ') + 1)])
 
-ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,")
+ALLOWED_CHARS = set("abcdefghijklmnopqrstuvwxyzáéíóúüůřěščžöABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -.,()[]/…")
 
 def parse_syllables(word):
     syllables = []

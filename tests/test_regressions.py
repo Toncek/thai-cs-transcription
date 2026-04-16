@@ -56,3 +56,11 @@ def test_multiword_transcription():
         out = transcribe(thai, rules)
         assert " " in out, f"Multiword failed, expected space in {thai}: got {out}"
         assert out == expected, f"Expected {expected}, got {out}"
+
+def test_special_chars():
+    rules = load_rules()
+    src.transcriber._LOOKUP_CACHE = {}
+
+    # Tests that parentheses, brackets, and Latin letters passthrough without ?
+    out = transcribe("A(ทดสอบ)[x]/…", rules)
+    assert "?" not in out, f"Expected no '?' in output, got: {out}"

@@ -20,7 +20,7 @@ headers = {
 }
 
 for url in urls:
-    response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=headers, timeout=10)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -60,7 +60,7 @@ else:
 # Wordmastery is a dynamic site, might be hard to scrape. Let's try PyThaiNLP wordlist from their repo instead if wordmastery fails or we can just fetch from github tnc freq.
 # The previous script used tnc_freq_head.txt but let's try scraping wordmastery or github.
 try:
-    response = requests.get('https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt')
+    response = requests.get('https://raw.githubusercontent.com/PyThaiNLP/pythainlp/dev/pythainlp/corpus/tnc_freq.txt', timeout=10)
     lines = response.text.split('\n')
     extended_vocab = []
 

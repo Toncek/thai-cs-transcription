@@ -1,0 +1,191 @@
+{
+  "chapter_id": 11,
+  "title_cz": "Dům a byt",
+  "title_sk": "Dom a byt",
+  "title_th": "บ้านและอพาร์ตเมนต์",
+  "level": "pokročilý začátečník",
+  "words": [
+    {
+      "th": "บ้าน",
+      "cz": "dům",
+      "sk": "dom",
+      "czph": "bán"
+    },
+    {
+      "th": "ห้อง",
+      "cz": "pokoj",
+      "sk": "izba",
+      "czph": "hóng"
+    },
+    {
+      "th": "ประตู",
+      "cz": "dveře",
+      "sk": "dvere",
+      "czph": "pona tú"
+    },
+    {
+      "th": "หน้าต่าง",
+      "cz": "okno",
+      "sk": "okno",
+      "czph": "nátáng"
+    },
+    {
+      "th": "พื้น",
+      "cz": "podlaha",
+      "sk": "podlaha",
+      "czph": "phún"
+    },
+    {
+      "th": "หลังคา",
+      "cz": "střecha",
+      "sk": "strecha",
+      "czph": "lang khá"
+    },
+    {
+      "th": "กำแพง",
+      "cz": "zeď",
+      "sk": "stena",
+      "czph": "kam phéng"
+    },
+    {
+      "th": "เตียง",
+      "cz": "postel",
+      "sk": "posteľ",
+      "czph": "týjang"
+    },
+    {
+      "th": "โต๊ะ",
+      "cz": "stůl",
+      "sk": "stôl",
+      "czph": "to"
+    },
+    {
+      "th": "เก้าอี้",
+      "cz": "židle",
+      "sk": "stolička",
+      "czph": "kau í"
+    },
+    {
+      "th": "ตู้",
+      "cz": "skříň",
+      "sk": "skriňa",
+      "czph": "tú"
+    },
+    {
+      "th": "โซฟา",
+      "cz": "pohovka",
+      "sk": "pohovka",
+      "czph": "sófá"
+    },
+    {
+      "th": "เปิด",
+      "cz": "otevřít",
+      "sk": "otvoriť",
+      "czph": "pöt"
+    },
+    {
+      "th": "ปิด",
+      "cz": "zavřít",
+      "sk": "zatvoriť",
+      "czph": "pit"
+    },
+    {
+      "th": "อยู่",
+      "cz": "být (někde)",
+      "sk": "byť (niekde)",
+      "czph": "jú"
+    },
+    {
+      "th": "ใน",
+      "cz": "v, uvnitř",
+      "sk": "v, vnútri",
+      "czph": "naj"
+    },
+    {
+      "th": "นอก",
+      "cz": "venku",
+      "sk": "vonku",
+      "czph": "nók"
+    },
+    {
+      "th": "บน",
+      "cz": "na",
+      "sk": "na",
+      "czph": "bon"
+    },
+    {
+      "th": "ใต้",
+      "cz": "pod",
+      "sk": "pod",
+      "czph": "táj"
+    },
+    {
+      "th": "สะอาด",
+      "cz": "čistý",
+      "sk": "čistý",
+      "czph": "sa át"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "บ้านหลังนี้ใหญ่",
+      "cz": "Tento dům je velký.",
+      "sk": "Tento dom je veľký.",
+      "czph": "bán lang ný jaj"
+    },
+    {
+      "th": "เขาอยู่ในห้อง",
+      "cz": "On je v pokoji.",
+      "sk": "On je v izbe.",
+      "czph": "khau jú naj hóng"
+    },
+    {
+      "th": "เปิดประตูครับ",
+      "cz": "Otevřete dveře, prosím.",
+      "sk": "Otvorte dvere, prosím.",
+      "czph": "pöt pona tú khrap"
+    },
+    {
+      "th": "ปิดหน้าต่างค่ะ",
+      "cz": "Zavřete okno.",
+      "sk": "Zatvorte okno.",
+      "czph": "pit nátáng kha"
+    },
+    {
+      "th": "โต๊ะอยู่บนพื้น",
+      "cz": "Stůl je na podlaze.",
+      "sk": "Stôl je na podlahe.",
+      "czph": "to jú bon phún"
+    },
+    {
+      "th": "เก้าอี้อยู่ใกล้โต๊ะ",
+      "cz": "Židle je blízko stolu.",
+      "sk": "Stolička je blízko stola.",
+      "czph": "kau í jú klaj (vyslov klesající tón) to"
+    },
+    {
+      "th": "ห้องนี้สะอาด",
+      "cz": "Tento pokoj je čistý.",
+      "sk": "Táto izba je čistá.",
+      "czph": "hóng ný sa át"
+    },
+    {
+      "th": "ฉันอยากได้เตียง",
+      "cz": "Chci postel.",
+      "sk": "Chcem posteľ.",
+      "czph": "čan ják daj týjang"
+    },
+    {
+      "th": "มีตู้ในห้อง",
+      "cz": "V pokoji je skříň.",
+      "sk": "V izbe je skriňa.",
+      "czph": "mí tú naj hóng"
+    },
+    {
+      "th": "โซฟาสีแดง",
+      "cz": "Červená pohovka.",
+      "sk": "Červená pohovka.",
+      "czph": "sófá sí déng"
+    }
+  ]
+}

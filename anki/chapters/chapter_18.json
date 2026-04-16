@@ -1,0 +1,191 @@
+{
+  "chapter_id": 18,
+  "title_cz": "Cestování a doprava",
+  "title_sk": "Cestovanie a doprava",
+  "title_th": "การเดินทางและการคมนาคม",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "เดินทาง",
+      "cz": "cestovat",
+      "sk": "cestovať",
+      "czph": "dön tháng"
+    },
+    {
+      "th": "ตั๋ว",
+      "cz": "jízdenka / letenka",
+      "sk": "lístok / letenka",
+      "czph": "tua"
+    },
+    {
+      "th": "สถานีรถไฟ",
+      "cz": "vlakové nádraží",
+      "sk": "vlaková stanica",
+      "czph": "satháný rot faj"
+    },
+    {
+      "th": "สนามบิน",
+      "cz": "letiště",
+      "sk": "letisko",
+      "czph": "sanám bin"
+    },
+    {
+      "th": "กระเป๋าเดินทาง",
+      "cz": "zavazadlo",
+      "sk": "batožina",
+      "czph": "kona pao dön tháng"
+    },
+    {
+      "th": "พาสปอร์ต",
+      "cz": "pas",
+      "sk": "pas",
+      "czph": "páspórt"
+    },
+    {
+      "th": "เที่ยวบิน",
+      "cz": "let",
+      "sk": "let",
+      "czph": "thiau bin"
+    },
+    {
+      "th": "ออก",
+      "cz": "odjet, opustit",
+      "sk": "odísť, opustiť",
+      "czph": "aok"
+    },
+    {
+      "th": "ถึง",
+      "cz": "dorazit",
+      "sk": "doraziť",
+      "czph": "thúng"
+    },
+    {
+      "th": "ช้า",
+      "cz": "pozdě, pomalu",
+      "sk": "neskoro, pomaly",
+      "czph": "čá"
+    },
+    {
+      "th": "เร็ว",
+      "cz": "rychle, brzy",
+      "sk": "rýchlo, skoro",
+      "czph": "reu"
+    },
+    {
+      "th": "จอง",
+      "cz": "rezervovat",
+      "sk": "rezervovať",
+      "czph": "džóng"
+    },
+    {
+      "th": "ที่นั่ง",
+      "cz": "sedadlo",
+      "sk": "sedadlo",
+      "czph": "thý nang"
+    },
+    {
+      "th": "ตรงเวลา",
+      "cz": "včas",
+      "sk": "včas",
+      "czph": "trong velá"
+    },
+    {
+      "th": "แผนที่",
+      "cz": "mapa",
+      "sk": "mapa",
+      "czph": "phén thý"
+    },
+    {
+      "th": "ทิศเหนือ",
+      "cz": "sever",
+      "sk": "sever",
+      "czph": "thyt núa"
+    },
+    {
+      "th": "ทิศใต้",
+      "cz": "jih",
+      "sk": "juh",
+      "czph": "thyt táj"
+    },
+    {
+      "th": "ทางเข้า",
+      "cz": "vchod",
+      "sk": "vchod",
+      "czph": "tháng khao"
+    },
+    {
+      "th": "ทางออก",
+      "cz": "východ",
+      "sk": "východ",
+      "czph": "tháng aok"
+    },
+    {
+      "th": "ไปรษณีย์",
+      "cz": "pošta (služba)",
+      "sk": "pošta (služba)",
+      "czph": "pajn saný"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "ฉันอยากซื้อตั๋วรถไฟ",
+      "cz": "Chci koupit jízdenku na vlak.",
+      "sk": "Chcem kúpiť lístok na vlak.",
+      "czph": "čan ják sú tua rot faj"
+    },
+    {
+      "th": "รถไฟออกตอนไหน",
+      "cz": "Kdy odjíždí vlak?",
+      "sk": "Kedy odchádza vlak?",
+      "czph": "rot faj aok tón naj"
+    },
+    {
+      "th": "เที่ยวบินตรงเวลา",
+      "cz": "Let je na čas.",
+      "sk": "Let je na čas.",
+      "czph": "thiau bin trong velá"
+    },
+    {
+      "th": "ถึงสนามบินแล้ว",
+      "cz": "Už jsme dorazili na letiště.",
+      "sk": "Už sme dorazili na letisko.",
+      "czph": "thúng sanám bin léu"
+    },
+    {
+      "th": "จองที่นั่งได้ไหม",
+      "cz": "Můžu si rezervovat sedadlo?",
+      "sk": "Môžem si rezervovať sedadlo?",
+      "czph": "džóng thý nang daj maj"
+    },
+    {
+      "th": "กระเป๋าเดินทางของผม",
+      "cz": "Moje zavazadlo.",
+      "sk": "Moja batožina.",
+      "czph": "kona pao dön tháng khóng phom"
+    },
+    {
+      "th": "ขอดูพาสปอร์ตหน่อย",
+      "cz": "Ukažte mi svůj pas.",
+      "sk": "Ukážte mi svoj pas.",
+      "czph": "khó dú páspórt nój"
+    },
+    {
+      "th": "รถไฟมาช้า",
+      "cz": "Vlak má zpoždění.",
+      "sk": "Vlak mešká.",
+      "czph": "rot faj má čá"
+    },
+    {
+      "th": "ทางออกอยู่ไหน",
+      "cz": "Kde je východ?",
+      "sk": "Kde je východ?",
+      "czph": "tháng aok jú naj"
+    },
+    {
+      "th": "คุณมีแผนที่ไหม",
+      "cz": "Máte mapu?",
+      "sk": "Máte mapu?",
+      "czph": "khun mí phén thý maj"
+    }
+  ]
+}

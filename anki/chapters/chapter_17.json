@@ -1,0 +1,191 @@
+{
+  "chapter_id": 17,
+  "title_cz": "Nakupování II",
+  "title_sk": "Nakupovanie II",
+  "title_th": "การช้อปปิ้ง II",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "ไซส์",
+      "cz": "velikost",
+      "sk": "veľkosť",
+      "czph": "saj"
+    },
+    {
+      "th": "ใหญ่",
+      "cz": "velký",
+      "sk": "veľký",
+      "czph": "jaj"
+    },
+    {
+      "th": "เล็ก",
+      "cz": "malý",
+      "sk": "malý",
+      "czph": "lek"
+    },
+    {
+      "th": "พอดี",
+      "cz": "akorát (padnoucí)",
+      "sk": "akurát (padnúce)",
+      "czph": "phó dý"
+    },
+    {
+      "th": "ลอง",
+      "cz": "zkusit",
+      "sk": "skúsiť",
+      "czph": "lóng"
+    },
+    {
+      "th": "สี",
+      "cz": "barva",
+      "sk": "farba",
+      "czph": "sí"
+    },
+    {
+      "th": "แบบ",
+      "cz": "styl, typ",
+      "sk": "štýl, typ",
+      "czph": "bép"
+    },
+    {
+      "th": "ร้านเสื้อผ้า",
+      "cz": "obchod s oblečením",
+      "sk": "obchod s oblečením",
+      "czph": "rán súa phá"
+    },
+    {
+      "th": "แพงไป",
+      "cz": "příliš drahé",
+      "sk": "príliš drahé",
+      "czph": "phéng paj"
+    },
+    {
+      "th": "ลดหน่อย",
+      "cz": "zlevnit trochu",
+      "sk": "zľaviť trochu",
+      "czph": "lot nój"
+    },
+    {
+      "th": "จ่าย",
+      "cz": "platit",
+      "sk": "platiť",
+      "czph": "džáj"
+    },
+    {
+      "th": "เงินสด",
+      "cz": "hotovost",
+      "sk": "hotovosť",
+      "czph": "ngén sot"
+    },
+    {
+      "th": "บัตรเครดิต",
+      "cz": "kreditní karta",
+      "sk": "kreditná karta",
+      "czph": "bat khrédyt"
+    },
+    {
+      "th": "รับ",
+      "cz": "přijímat",
+      "sk": "prijímať",
+      "czph": "rap"
+    },
+    {
+      "th": "สลิป",
+      "cz": "účtenka",
+      "sk": "účtenka",
+      "czph": "sa lyp"
+    },
+    {
+      "th": "กี่",
+      "cz": "kolik (před klasifikátorem)",
+      "sk": "koľko (pred klasifikátorom)",
+      "czph": "kí"
+    },
+    {
+      "th": "ชิ้น",
+      "cz": "kus (klasifikátor)",
+      "sk": "kus (klasifikátor)",
+      "czph": "čin"
+    },
+    {
+      "th": "กระเป๋าสตางค์",
+      "cz": "peněženka",
+      "sk": "peňaženka",
+      "czph": "kona pao satáng"
+    },
+    {
+      "th": "คืน",
+      "cz": "vrátit",
+      "sk": "vrátiť",
+      "czph": "khún"
+    },
+    {
+      "th": "เปลี่ยน",
+      "cz": "vyměnit",
+      "sk": "vymeniť",
+      "czph": "pélíjn"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "ขอลองได้ไหมครับ",
+      "cz": "Mohu si to vyzkoušet?",
+      "sk": "Môžem si to vyskúšať?",
+      "czph": "khó lóng daj maj khrap"
+    },
+    {
+      "th": "ไซส์เล็กเกินไป",
+      "cz": "Velikost je příliš malá.",
+      "sk": "Veľkosť je príliš malá.",
+      "czph": "saj lek kön paj"
+    },
+    {
+      "th": "มีไซส์ใหญ่ไหม",
+      "cz": "Máte velkou velikost?",
+      "sk": "Máte veľkú veľkosť?",
+      "czph": "mí saj jaj maj"
+    },
+    {
+      "th": "แพงไป ลดหน่อยได้ไหม",
+      "cz": "Je to moc drahé. Můžete trochu zlevnit?",
+      "sk": "Je to moc drahé. Môžete trochu zľaviť?",
+      "czph": "phéng paj lot nój daj maj"
+    },
+    {
+      "th": "จ่ายเงินสดครับ",
+      "cz": "Zaplatím v hotovosti.",
+      "sk": "Zaplatím v hotovosti.",
+      "czph": "džáj ngén sot khrap"
+    },
+    {
+      "th": "รับบัตรเครดิตไหม",
+      "cz": "Přijímáte kreditní karty?",
+      "sk": "Prijímate kreditné karty?",
+      "czph": "rap bat khrédyt maj"
+    },
+    {
+      "th": "เสื้อนี้พอดี",
+      "cz": "Toto tričko mi padne.",
+      "sk": "Toto tričko mi sedí.",
+      "czph": "súa ný phó dý"
+    },
+    {
+      "th": "คุณอยากได้กี่ชิ้น",
+      "cz": "Kolik kusů chcete?",
+      "sk": "Koľko kusov chcete?",
+      "czph": "khun ják daj kí čin"
+    },
+    {
+      "th": "ขอสลิปด้วยค่ะ",
+      "cz": "Účtenku, prosím.",
+      "sk": "Účtenku, prosím.",
+      "czph": "khó sa lyp dúaj kha"
+    },
+    {
+      "th": "ฉันอยากเปลี่ยนสี",
+      "cz": "Chci vyměnit barvu.",
+      "sk": "Chcem vymeniť farbu.",
+      "czph": "čan ják pélíjn sí"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "chapter_id": 19,
+  "title_cz": "Předložky a příslovce",
+  "title_sk": "Predložky a príslovky",
+  "title_th": "คำบุพบทและคำวิเศษณ์",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "ใน",
+      "cz": "v, uvnitř",
+      "sk": "v, vnútri",
+      "czph": "naj"
+    },
+    {
+      "th": "นอก",
+      "cz": "ven, venku",
+      "sk": "von, vonku",
+      "czph": "nók"
+    },
+    {
+      "th": "บน",
+      "cz": "na (povrchu)",
+      "sk": "na (povrchu)",
+      "czph": "bon"
+    },
+    {
+      "th": "ใต้",
+      "cz": "pod",
+      "sk": "pod",
+      "czph": "táj"
+    },
+    {
+      "th": "หน้า",
+      "cz": "před",
+      "sk": "pred",
+      "czph": "ná"
+    },
+    {
+      "th": "หลัง",
+      "cz": "za",
+      "sk": "za",
+      "czph": "lang"
+    },
+    {
+      "th": "ข้าง",
+      "cz": "vedle",
+      "sk": "vedľa",
+      "czph": "kháng"
+    },
+    {
+      "th": "ระหว่าง",
+      "cz": "mezi",
+      "sk": "medzi",
+      "czph": "ra váng"
+    },
+    {
+      "th": "เสมอ",
+      "cz": "vždy",
+      "sk": "vždy",
+      "czph": "samoé"
+    },
+    {
+      "th": "บ่อยๆ",
+      "cz": "často",
+      "sk": "často",
+      "czph": "bój bój"
+    },
+    {
+      "th": "บางครั้ง",
+      "cz": "někdy",
+      "sk": "niekedy",
+      "czph": "báng khrang"
+    },
+    {
+      "th": "ไม่เคย",
+      "cz": "nikdy",
+      "sk": "nikdy",
+      "czph": "maj khoéj"
+    },
+    {
+      "th": "ด้วยกัน",
+      "cz": "spolu",
+      "sk": "spolu",
+      "czph": "dúaj kan"
+    },
+    {
+      "th": "คนเดียว",
+      "cz": "sám",
+      "sk": "sám",
+      "czph": "khon dyau"
+    },
+    {
+      "th": "ก่อน",
+      "cz": "dříve, před (časem)",
+      "sk": "skôr, pred (časom)",
+      "czph": "kón"
+    },
+    {
+      "th": "หลัง",
+      "cz": "poté, po (čase)",
+      "sk": "potom, po (čase)",
+      "czph": "lang"
+    },
+    {
+      "th": "ตอนนี้",
+      "cz": "teď",
+      "sk": "teraz",
+      "czph": "tón ný"
+    },
+    {
+      "th": "เดี๋ยวนี้",
+      "cz": "hned teď",
+      "sk": "hneď teraz",
+      "czph": "dyau ný"
+    },
+    {
+      "th": "แล้ว",
+      "cz": "už",
+      "sk": "už",
+      "czph": "léu"
+    },
+    {
+      "th": "ยัง",
+      "cz": "ještě",
+      "sk": "ešte",
+      "czph": "jang"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "แมวอยู่ใต้โต๊ะ",
+      "cz": "Kočka je pod stolem.",
+      "sk": "Mačka je pod stolom.",
+      "czph": "maéu jú táj to"
+    },
+    {
+      "th": "หมาอยู่หน้าบ้าน",
+      "cz": "Pes je před domem.",
+      "sk": "Pes je pred domom.",
+      "czph": "má jú ná bán"
+    },
+    {
+      "th": "ผมไปบ่อยๆ",
+      "cz": "Chodím tam často.",
+      "sk": "Chodím tam často.",
+      "czph": "phom paj bój bój"
+    },
+    {
+      "th": "ฉันไม่เคยไป",
+      "cz": "Nikdy jsem tam nebyla.",
+      "sk": "Nikdy som tam nebola.",
+      "czph": "čan maj khoéj paj"
+    },
+    {
+      "th": "เราไปด้วยกัน",
+      "cz": "Půjdeme spolu.",
+      "sk": "Pôjdeme spolu.",
+      "czph": "rao paj dúaj kan"
+    },
+    {
+      "th": "เขาอยู่คนเดียว",
+      "cz": "On je sám.",
+      "sk": "On je sám.",
+      "czph": "khau jú khon dyau"
+    },
+    {
+      "th": "กินข้าวก่อน",
+      "cz": "Sněz jídlo nejdříve.",
+      "sk": "Zjedz jedlo najskôr.",
+      "czph": "kin kháu kón"
+    },
+    {
+      "th": "ยังไม่ได้กิน",
+      "cz": "Ještě jsem nejedl.",
+      "sk": "Ešte som nejedol.",
+      "czph": "jang maj daj kin"
+    },
+    {
+      "th": "ไปเดี๋ยวนี้",
+      "cz": "Jdi hned teď.",
+      "sk": "Choď hneď teraz.",
+      "czph": "paj dyau ný"
+    },
+    {
+      "th": "เขานอนแล้ว",
+      "cz": "On už spí.",
+      "sk": "On už spí.",
+      "czph": "khau nón léu"
+    }
+  ]
+}

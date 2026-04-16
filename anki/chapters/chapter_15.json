@@ -1,0 +1,191 @@
+{
+  "chapter_id": 15,
+  "title_cz": "Praxe 3: Doma a při jídle",
+  "title_sk": "Prax 3: Doma a pri jedle",
+  "title_th": "ฝึกหัด 3: ที่บ้านและเวลาอาหาร",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "บ้าน",
+      "cz": "dům",
+      "sk": "dom",
+      "czph": "bán"
+    },
+    {
+      "th": "ห้องครัว",
+      "cz": "kuchyně",
+      "sk": "kuchyňa",
+      "czph": "hóng khrúa"
+    },
+    {
+      "th": "แอปเปิ้ล",
+      "cz": "jablko",
+      "sk": "jablko",
+      "czph": "ép pön"
+    },
+    {
+      "th": "ร้านอาหาร",
+      "cz": "restaurace",
+      "sk": "reštaurácia",
+      "czph": "rán á hán"
+    },
+    {
+      "th": "เช็คบิล",
+      "cz": "účet (zaplatit)",
+      "sk": "účet (zaplatiť)",
+      "czph": "čék bin"
+    },
+    {
+      "th": "สะอาด",
+      "cz": "čistý",
+      "sk": "čistý",
+      "czph": "sa át"
+    },
+    {
+      "th": "อร่อย",
+      "cz": "chutný",
+      "sk": "chutný",
+      "czph": "arój"
+    },
+    {
+      "th": "ห้องน้ำ",
+      "cz": "koupelna",
+      "sk": "kúpeľňa",
+      "czph": "hóng nam"
+    },
+    {
+      "th": "กล้วย",
+      "cz": "banán",
+      "sk": "banán",
+      "czph": "kluaj"
+    },
+    {
+      "th": "สั่ง",
+      "cz": "objednat",
+      "sk": "objednať",
+      "czph": "sang"
+    },
+    {
+      "th": "ผัก",
+      "cz": "zelenina",
+      "sk": "zelenina",
+      "czph": "phak"
+    },
+    {
+      "th": "ขอ",
+      "cz": "prosit o (dejte mi)",
+      "sk": "prosiť o (dajte mi)",
+      "czph": "khó"
+    },
+    {
+      "th": "ไม่เอา",
+      "cz": "nechci",
+      "sk": "nechcem",
+      "czph": "maj ao"
+    },
+    {
+      "th": "เผ็ด",
+      "cz": "pálivé",
+      "sk": "pikantné",
+      "czph": "phet"
+    },
+    {
+      "th": "เตียง",
+      "cz": "postel",
+      "sk": "posteľ",
+      "czph": "týjang"
+    },
+    {
+      "th": "ซัก",
+      "cz": "prát",
+      "sk": "prať",
+      "czph": "sak"
+    },
+    {
+      "th": "ประตู",
+      "cz": "dveře",
+      "sk": "dvere",
+      "czph": "pona tú"
+    },
+    {
+      "th": "จาน",
+      "cz": "talíř",
+      "sk": "tanier",
+      "czph": "džán"
+    },
+    {
+      "th": "สด",
+      "cz": "čerstvý",
+      "sk": "čerstvý",
+      "czph": "sot"
+    },
+    {
+      "th": "ทำความสะอาด",
+      "cz": "uklízet",
+      "sk": "upratovať",
+      "czph": "tham khuaám sa át"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "บ้านของฉันสะอาด",
+      "cz": "Můj dům je čistý.",
+      "sk": "Môj dom je čistý.",
+      "czph": "bán khóng čan sa át"
+    },
+    {
+      "th": "สั่งอาหารในห้องครัว",
+      "cz": "Objednat jídlo v kuchyni.",
+      "sk": "Objednať jedlo v kuchyni.",
+      "czph": "sang á hán naj hóng khrúa"
+    },
+    {
+      "th": "ขอแอปเปิ้ลสองลูก",
+      "cz": "Prosím dvě jablka.",
+      "sk": "Prosím dve jablká.",
+      "czph": "khó ép pön sóng lúk"
+    },
+    {
+      "th": "ผมอยากได้กล้วยสด",
+      "cz": "Chci čerstvé banány.",
+      "sk": "Chcem čerstvé banány.",
+      "czph": "phom ják daj kluaj sot"
+    },
+    {
+      "th": "แม่ทำความสะอาดห้องน้ำ",
+      "cz": "Matka uklízí koupelnu.",
+      "sk": "Matka upratuje kúpeľňu.",
+      "czph": "mé tham khuaám sa át hóng nam"
+    },
+    {
+      "th": "ไม่เอาผักครับ",
+      "cz": "Nechci zeleninu.",
+      "sk": "Nechcem zeleninu.",
+      "czph": "maj ao phak khrap"
+    },
+    {
+      "th": "พ่อซักเสื้อผ้า",
+      "cz": "Otec pere oblečení.",
+      "sk": "Otec perie oblečenie.",
+      "czph": "phó sak súa phá"
+    },
+    {
+      "th": "อาหารร้านนี้อร่อย",
+      "cz": "Jídlo v této restauraci je chutné.",
+      "sk": "Jedlo v tejto reštaurácii je chutné.",
+      "czph": "á hán rán ný arój"
+    },
+    {
+      "th": "ปิดประตูห้องน้ำ",
+      "cz": "Zavři dveře od koupelny.",
+      "sk": "Zatvor dvere od kúpeľne.",
+      "czph": "pit pona tú hóng nam"
+    },
+    {
+      "th": "เช็คบิลด้วยครับ",
+      "cz": "Účet, prosím.",
+      "sk": "Účet, prosím.",
+      "czph": "čék bin dúaj khrap"
+    }
+  ]
+}

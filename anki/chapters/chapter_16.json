@@ -1,0 +1,191 @@
+{
+  "chapter_id": 16,
+  "title_cz": "Město a místa",
+  "title_sk": "Mesto a miesta",
+  "title_th": "เมืองและสถานที่",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "เมือง",
+      "cz": "město",
+      "sk": "mesto",
+      "czph": "múang"
+    },
+    {
+      "th": "สถานที่",
+      "cz": "místo",
+      "sk": "miesto",
+      "czph": "sathán thí"
+    },
+    {
+      "th": "โรงเรียน",
+      "cz": "škola",
+      "sk": "škola",
+      "czph": "róng rýjan"
+    },
+    {
+      "th": "มหาวิทยาลัย",
+      "cz": "univerzita",
+      "sk": "univerzita",
+      "czph": "mahá vit thajálaj"
+    },
+    {
+      "th": "โรงพยาบาล",
+      "cz": "nemocnice",
+      "sk": "nemocnica",
+      "czph": "róng pha já bán"
+    },
+    {
+      "th": "วัด",
+      "cz": "chrám",
+      "sk": "chrám",
+      "czph": "vat"
+    },
+    {
+      "th": "ธนาคาร",
+      "cz": "banka",
+      "sk": "banka",
+      "czph": "thanákhán"
+    },
+    {
+      "th": "ที่ทำการไปรษณีย์",
+      "cz": "pošta",
+      "sk": "pošta",
+      "czph": "thí tham kán pajn saný"
+    },
+    {
+      "th": "สวนสาธารณะ",
+      "cz": "park",
+      "sk": "park",
+      "czph": "suan sá thán na"
+    },
+    {
+      "th": "โรงแรม",
+      "cz": "hotel",
+      "sk": "hotel",
+      "czph": "róng rém"
+    },
+    {
+      "th": "ห้างสรรพสินค้า",
+      "cz": "obchodní dům",
+      "sk": "obchodný dom",
+      "czph": "hángsapphasin khá"
+    },
+    {
+      "th": "ซุปเปอร์มาร์เก็ต",
+      "cz": "supermarket",
+      "sk": "supermarket",
+      "czph": "sup péó má ket"
+    },
+    {
+      "th": "สถานีตำรวจ",
+      "cz": "policejní stanice",
+      "sk": "policajná stanica",
+      "czph": "sathá ný tam ruat"
+    },
+    {
+      "th": "ป้ายรถเมล์",
+      "cz": "autobusová zastávka",
+      "sk": "autobusová zastávka",
+      "czph": "páj rot mé"
+    },
+    {
+      "th": "หมู่บ้าน",
+      "cz": "vesnice",
+      "sk": "dedina",
+      "czph": "mú bán"
+    },
+    {
+      "th": "อยู่",
+      "cz": "nacházet se, být",
+      "sk": "nachádzať sa, byť",
+      "czph": "jú"
+    },
+    {
+      "th": "ที่",
+      "cz": "v, na (předložka)",
+      "sk": "v, na (predložka)",
+      "czph": "thí"
+    },
+    {
+      "th": "ตรงข้าม",
+      "cz": "naproti",
+      "sk": "naproti",
+      "czph": "trong khám"
+    },
+    {
+      "th": "ข้างๆ",
+      "cz": "vedle",
+      "sk": "vedľa",
+      "czph": "kháng kháng"
+    },
+    {
+      "th": "ใกล้",
+      "cz": "blízko",
+      "sk": "blízko",
+      "czph": "klaj (vyslov klesající tón)"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "โรงเรียนอยู่ไหน",
+      "cz": "Kde je škola?",
+      "sk": "Kde je škola?",
+      "czph": "róng rýjan jú naj"
+    },
+    {
+      "th": "วัดอยู่ใกล้ธนาคาร",
+      "cz": "Chrám je blízko banky.",
+      "sk": "Chrám je blízko banky.",
+      "czph": "vat jú klaj (vyslov klesající tón) thanákhán"
+    },
+    {
+      "th": "ผมไปมหาวิทยาลัย",
+      "cz": "Jdu na univerzitu.",
+      "sk": "Idem na univerzitu.",
+      "czph": "phom paj mahá vit thajálaj"
+    },
+    {
+      "th": "ห้างสรรพสินค้าใหญ่มาก",
+      "cz": "Obchodní dům je velmi velký.",
+      "sk": "Obchodný dom je veľmi veľký.",
+      "czph": "hángsapphasin khá jaj mák"
+    },
+    {
+      "th": "ป้ายรถเมล์อยู่ตรงข้าม",
+      "cz": "Autobusová zastávka je naproti.",
+      "sk": "Autobusová zastávka je naproti.",
+      "czph": "páj rot mé jú trong khám"
+    },
+    {
+      "th": "เขาพักที่โรงแรม",
+      "cz": "On bydlí v hotelu.",
+      "sk": "On býva v hoteli.",
+      "czph": "khau phak thí róng rém"
+    },
+    {
+      "th": "สวนสาธารณะสวย",
+      "cz": "Park je krásný.",
+      "sk": "Park je krásny.",
+      "czph": "suan sá thán na suaj"
+    },
+    {
+      "th": "ไปสถานีตำรวจ",
+      "cz": "Jít na policejní stanici.",
+      "sk": "Ísť na policajnú stanicu.",
+      "czph": "paj sathá ný tam ruat"
+    },
+    {
+      "th": "ที่ทำการไปรษณีย์อยู่ข้างๆ",
+      "cz": "Pošta je vedle.",
+      "sk": "Pošta je vedľa.",
+      "czph": "thí tham kán pajn saný jú kháng kháng"
+    },
+    {
+      "th": "ซื้อของที่ซุปเปอร์มาร์เก็ต",
+      "cz": "Nakupovat v supermarketu.",
+      "sk": "Nakupovať v supermarkete.",
+      "czph": "sú khóng thí sup péó má ket"
+    }
+  ]
+}

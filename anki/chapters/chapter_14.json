@@ -1,0 +1,191 @@
+{
+  "chapter_id": 14,
+  "title_cz": "V restauraci",
+  "title_sk": "V reštaurácii",
+  "title_th": "ในร้านอาหาร",
+  "level": "mírně pokročilý",
+  "words": [
+    {
+      "th": "ร้านอาหาร",
+      "cz": "restaurace",
+      "sk": "reštaurácia",
+      "czph": "rán á hán"
+    },
+    {
+      "th": "สั่ง",
+      "cz": "objednat",
+      "sk": "objednať",
+      "czph": "sang"
+    },
+    {
+      "th": "เมนู",
+      "cz": "jídelní lístek",
+      "sk": "jedálny lístok",
+      "czph": "ménú"
+    },
+    {
+      "th": "ขอ",
+      "cz": "prosit o (dejte mi)",
+      "sk": "prosiť o (dajte mi)",
+      "czph": "khó"
+    },
+    {
+      "th": "เช็คบิล",
+      "cz": "účet (zaplatit)",
+      "sk": "účet (zaplatiť)",
+      "czph": "čék bin"
+    },
+    {
+      "th": "เอา",
+      "cz": "vzít (chci)",
+      "sk": "vziať (chcem)",
+      "czph": "ao"
+    },
+    {
+      "th": "ไม่เอา",
+      "cz": "nechci",
+      "sk": "nechcem",
+      "czph": "maj ao"
+    },
+    {
+      "th": "เผ็ด",
+      "cz": "pálivé",
+      "sk": "pikantné",
+      "czph": "phet"
+    },
+    {
+      "th": "ไม่เผ็ด",
+      "cz": "nepálivé",
+      "sk": "nepikantné",
+      "czph": "maj phet"
+    },
+    {
+      "th": "ใส่",
+      "cz": "dát do, přidat",
+      "sk": "dať do, pridať",
+      "czph": "saj"
+    },
+    {
+      "th": "จาน",
+      "cz": "talíř (jako porce)",
+      "sk": "tanier (ako porcia)",
+      "czph": "džán"
+    },
+    {
+      "th": "แก้ว",
+      "cz": "sklenice",
+      "sk": "pohár",
+      "czph": "kaéu"
+    },
+    {
+      "th": "ขวด",
+      "cz": "láhev",
+      "sk": "fľaša",
+      "czph": "khúat"
+    },
+    {
+      "th": "พนักงาน",
+      "cz": "zaměstnanec / obsluha",
+      "sk": "zamestnanec / obsluha",
+      "czph": "phanak gán"
+    },
+    {
+      "th": "รอ",
+      "cz": "čekat",
+      "sk": "čkať",
+      "czph": "ró"
+    },
+    {
+      "th": "โต๊ะ",
+      "cz": "stůl",
+      "sk": "stôl",
+      "czph": "to"
+    },
+    {
+      "th": "ว่าง",
+      "cz": "volný",
+      "sk": "voľný",
+      "czph": "váng"
+    },
+    {
+      "th": "น้ำแข็ง",
+      "cz": "led",
+      "sk": "ľad",
+      "czph": "nam khéng"
+    },
+    {
+      "th": "ทั้งหมด",
+      "cz": "všechno, celkem",
+      "sk": "všetko, celkom",
+      "czph": "thang mot"
+    },
+    {
+      "th": "เพิ่ม",
+      "cz": "přidat (víc)",
+      "sk": "pridať (viac)",
+      "czph": "phöm"
+    }
+  ],
+  "sentences": [
+    {
+      "th": "ขอเมนูครับ",
+      "cz": "Prosím, jídelní lístek.",
+      "sk": "Prosím si jedálny lístok.",
+      "czph": "khó ménú khrap"
+    },
+    {
+      "th": "ผมเอาข้าวผัด",
+      "cz": "Dám si smaženou rýži.",
+      "sk": "Dám si vyprážanú ryžu.",
+      "czph": "phom ao kháu phat"
+    },
+    {
+      "th": "ขอไม่เผ็ดนะคะ",
+      "cz": "Prosím nepálivé.",
+      "sk": "Prosím nepikantné.",
+      "czph": "khó maj phet na kha"
+    },
+    {
+      "th": "ไม่เอาผักครับ",
+      "cz": "Nechci zeleninu.",
+      "sk": "Nechcem zeleninu.",
+      "czph": "maj ao phak khrap"
+    },
+    {
+      "th": "ใส่น้ำแข็งไหม",
+      "cz": "Dáte si s ledem?",
+      "sk": "Dáte si s ľadom?",
+      "czph": "saj nam khéng maj"
+    },
+    {
+      "th": "ขอน้ำหนึ่งขวด",
+      "cz": "Prosím jednu láhev vody.",
+      "sk": "Prosím jednu fľašu vody.",
+      "czph": "khó nam nung khúat"
+    },
+    {
+      "th": "รอสักครู่ครับ",
+      "cz": "Počkejte chvíli, prosím.",
+      "sk": "Počkajte chvíľu, prosím.",
+      "czph": "ró sak khún khrap"
+    },
+    {
+      "th": "เช็คบิลด้วยค่ะ",
+      "cz": "Účet, prosím.",
+      "sk": "Účet, prosím.",
+      "czph": "čék bin dúaj kha"
+    },
+    {
+      "th": "ทั้งหมดเท่าไหร่",
+      "cz": "Kolik to je celkem?",
+      "sk": "Koľko to je celkom?",
+      "czph": "thang mot thao raj"
+    },
+    {
+      "th": "โต๊ะว่างไหม",
+      "cz": "Je ten stůl volný?",
+      "sk": "Je ten stôl voľný?",
+      "czph": "to váng maj"
+    }
+  ]
+}
